@@ -16,250 +16,214 @@
     <display-name lang="es">MEGA</display-name>
     <url>http://www.chile.yo.tv</url>
   </channel>
-  <programme start="20190109030000 -0600" stop="20190109033000 -0600" channel="La Red">
+  <programme start="20190109060000 -0300" stop="20190109063000 -0300" channel="La Red">
     <title lang="es">Chapulín Colorado</title>
     <desc lang="es">Más ágil que una tortuga ... más fuerte que un ratón ... más noble que una lechuga ... su escudo es un corazón ... Es Chapulín Colorado! El Chapulín Colorado es un superhéroe vestido de rojo con un corazón amarillo con las iniciales CH en rojo. Tiene dos antenas de vinilo poco en colores rojo y amarillo que él llama sus antenitas de vinil El Chapulin tiene siempre consigo un martillo rojo, lo que él llama su chipote chillón También puede tomar sus pastillas de chiquitolina que le hacen disminuir su tamaño a un ratón. Otra arma utilizada ocasionalmente para hacer buenas obras es la chicharra paralizadora una corneta de aire que se congela a la gente con un pitido (y descongela a estas personas con dos pitidos) que reciben el sonido directamente. El Chapulín Colorado con frecuencia y erróneamente captura a la gente inocente y dejar ir a los criminales y esto crea situaciones muy cómicas. Sin embargo, al final todo se aclara y los criminales son finalmente enviados a la cárcel, dándole todo el crédito de la captura de Chapulín(n)</desc>
   </programme>
-  <programme start="20190109033000 -0600" stop="20190109040000 -0600" channel="La Red">
+  <programme start="20190109063000 -0300" stop="20190109070000 -0300" channel="La Red">
     <title lang="es">Popcorn TV</title>
     <desc lang="es">Un compilado de videos chistosos de cámaras escondidas(n)</desc>
   </programme>
-  <programme start="20190109040000 -0600" stop="20190109090000 -0600" channel="La Red">
+  <programme start="20190109070000 -0300" stop="20190109120000 -0300" channel="La Red">
     <title lang="es">Hola Chile</title>
     <sub-title lang="es">07-11-2018</sub-title>
     <desc lang="es">Programa matinal lleno de información y mucha diversión(n)</desc>
     <episode-num>Season 2018 Episode 105</episode-num>
   </programme>
-  <programme start="20190109090000 -0600" stop="20190109113000 -0600" channel="La Red">
+  <programme start="20190109120000 -0300" stop="20190109143000 -0300" channel="La Red">
     <title lang="es">Intrusos</title>
     <desc lang="es">Un espacio para todos los pormenores y las primicias de la farándula(n)</desc>
   </programme>
-  <programme start="20190109113000 -0600" stop="20190109133000 -0600" channel="La Red">
+  <programme start="20190109143000 -0300" stop="20190109163000 -0300" channel="La Red">
     <title lang="es">Mi marido tiene familia</title>
     <desc lang="es">Esta es la historia de jóvenes que que deciden alejarse de toda su familia y comprar una propiedad en un lugar lejano. Lo que no saben es que sus suegros son los dueños de esa propiedad y el encuentro termina disparando todo tipo de situaciones. Esta situación pone a todos los personajes en situaciones poco usuales para ellos, exigiéndoles un abordaje distinto y un futuro aprendizaje, valioso para la vida de todos(n)</desc>
   </programme>
-  <programme start="20190109133000 -0600" stop="20190109144500 -0600" channel="La Red">
+  <programme start="20190109163000 -0300" stop="20190109174500 -0300" channel="La Red">
     <title lang="es">Sin tu mirada</title>
     <desc lang="es">Marina es una dulce beba que nace en un parto complicado y todos la dan por muerta. Pero milagrosamente sobrevive y crece feliz rodeada de la naturaleza al lado de Damiana, la partera del pueblo que la cobijó en esos momentos de angustia. Ella le enseñará a la joven a conocer el mundo de una manera distinta, debido a que es no vidente. A pesar de eso, desborda de alegría, frescura y buen humor(n)</desc>
   </programme>
-  <programme start="20190109144500 -0600" stop="20190109151500 -0600" channel="La Red">
+  <programme start="20190109174500 -0300" stop="20190109181500 -0300" channel="La Red">
     <title lang="es">Mujer... Casos de la vida real</title>
     <desc lang="es">Una serie que cada día presenta a estrellas televisivas diferentes que vuelven a crear historias extraídas de la vida cotidiana y reflectoras de temas universales(n)</desc>
   </programme>
-  <programme start="20190109151500 -0600" stop="20190109154500 -0600" channel="La Red">
+  <programme start="20190109181500 -0300" stop="20190109184500 -0300" channel="La Red">
     <title lang="es">Mujer... Casos de la vida real</title>
     <desc lang="es">Una serie que cada día presenta a estrellas televisivas diferentes que vuelven a crear historias extraídas de la vida cotidiana y reflectoras de temas universales(n)</desc>
   </programme>
-  <programme start="20190109154500 -0600" stop="20190109163000 -0600" channel="La Red">
+  <programme start="20190109184500 -0300" stop="20190109193000 -0300" channel="La Red">
     <title lang="es">Cómo dice el dicho</title>
     <desc lang="es">Un hombre y su nieta tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente(n)</desc>
   </programme>
-  <programme start="20190109163000 -0600" stop="20190109171500 -0600" channel="La Red">
+  <programme start="20190109193000 -0300" stop="20190109201500 -0300" channel="La Red">
     <title lang="es">La Rosa de Guadalupe</title>
     <desc lang="es">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
   </programme>
-  <programme start="20190109171500 -0600" stop="20190109180000 -0600" channel="La Red">
+  <programme start="20190109201500 -0300" stop="20190109210000 -0300" channel="La Red">
     <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
   </programme>
-  <programme start="20190109180000 -0600" stop="20190109190000 -0600" channel="La Red">
+  <programme start="20190109210000 -0300" stop="20190109220000 -0300" channel="La Red">
     <title lang="es">Me Robó mi Vida</title>
     <desc lang="es">Una joven desconoce su pasado, mientras su hermanastra le roba la identidad(n)</desc>
   </programme>
-  <programme start="20190109190000 -0600" stop="20190109210000 -0600" channel="La Red">
+  <programme start="20190109220000 -0300" stop="20190110000000 -0300" channel="La Red">
     <title lang="es">Mentiras Verdaderas</title>
     <desc lang="es">Programa lúdico, donde se discuten temas interesantes desde un punto de vista crítico y particular(n)</desc>
   </programme>
-  <programme start="20190109210000 -0600" stop="20190109223000 -0600" channel="La Red">
-    <title lang="es">Así Somos</title>
-    <desc lang="es">Un espacio para diversión, con videos bizarros, contingencia política, recuerdos y temas de pareja, entre otras cosas(n)</desc>
-  </programme>
-  <programme start="20190109223000 -0600" stop="20190109230000 -0600" channel="La Red">
-    <title lang="es">Expediente S</title>
-    <desc lang="es">Material audiovisual hecho por fanáticos y nuevas tendencias audiovisuales(n)</desc>
-  </programme>
-  <programme start="20190109020000 -0600" stop="20190109023000 -0600" channel="UCV">
+  <programme start="20190109050000 -0300" stop="20190109053000 -0300" channel="UCV">
     <title lang="es">Se ha dicho</title>
     <desc lang="es">La abogada Mónica Fernández educa a la audiencia en temas legales, a través de casos sorprendentes y conmovedores(n)</desc>
   </programme>
-  <programme start="20190109023000 -0600" stop="20190109033000 -0600" channel="UCV">
+  <programme start="20190109053000 -0300" stop="20190109063000 -0300" channel="UCV">
     <title lang="es">Mamá Al Cien Te Despierta</title>
     <desc lang="es">Programa informativo(n)</desc>
   </programme>
-  <programme start="20190109033000 -0600" stop="20190109050000 -0600" channel="UCV">
+  <programme start="20190109063000 -0300" stop="20190109080000 -0300" channel="UCV">
     <title lang="es">MILF</title>
     <sub-title lang="es">AM</sub-title>
     <desc lang="es">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
     <episode-num>Season 1 Episode 1</episode-num>
   </programme>
-  <programme start="20190109050000 -0600" stop="20190109073600 -0600" channel="UCV">
+  <programme start="20190109080000 -0300" stop="20190109103600 -0300" channel="UCV">
     <title lang="es">Programación pagada</title>
     <desc lang="es">Se emitirá programación pagada(n)</desc>
   </programme>
-  <programme start="20190109073600 -0600" stop="20190109123000 -0600" channel="UCV">
+  <programme start="20190109103600 -0300" stop="20190109153000 -0300" channel="UCV">
     <title lang="es">Programación pagada</title>
     <desc lang="es">Se emitirá programación pagada(n)</desc>
   </programme>
-  <programme start="20190109123000 -0600" stop="20190109133000 -0600" channel="UCV">
+  <programme start="20190109153000 -0300" stop="20190109163000 -0300" channel="UCV">
     <title lang="es">Mentes criminales</title>
     <desc lang="es">El trabajo de los analistas de comportamiento del FBI consiste determinar perfiles de los criminales para resolver crímenes. Este trabajo cuenta con la participación de un equipo diverso, que incluye a un joven genio y un líder hábil torturado por un caso del pasado. A diferencia de otros dramas criminales enfocados en ciencia, esta serie es muy calculadora en su análisis deductivo de los crímenes y sus autores(n)</desc>
   </programme>
-  <programme start="20190109133000 -0600" stop="20190109143000 -0600" channel="UCV">
+  <programme start="20190109163000 -0300" stop="20190109173000 -0300" channel="UCV">
     <title lang="es">Se ha dicho</title>
     <desc lang="es">La abogada Mónica Fernández educa a la audiencia en temas legales, a través de casos sorprendentes y conmovedores(n)</desc>
   </programme>
-  <programme start="20190109143000 -0600" stop="20190109153000 -0600" channel="UCV">
+  <programme start="20190109173000 -0300" stop="20190109183000 -0300" channel="UCV">
     <title lang="es">Mamá Al Cien</title>
     <desc lang="es">Un espacio que se centra en la ajetreada cotidianeidad de las madres de hoy. Que viven a las corridas y al cien por ciento de su capacidad física, mental y emocional, para satisfacer todas las demandas laborales, familiares y sociales. Con invitados y la participación de diferentes personalidades, además de información, humor y mucho más(n)</desc>
   </programme>
-  <programme start="20190109153000 -0600" stop="20190109163000 -0600" channel="UCV">
+  <programme start="20190109183000 -0300" stop="20190109193000 -0300" channel="UCV">
     <title lang="es">Me late</title>
     <sub-title lang="es">Tarde</sub-title>
     <desc lang="es">Programa de conversación(n)</desc>
     <episode-num>Season 1 Episode 1</episode-num>
   </programme>
-  <programme start="20190109163000 -0600" stop="20190109180000 -0600" channel="UCV">
+  <programme start="20190109193000 -0300" stop="20190109210000 -0300" channel="UCV">
     <title lang="es">MILF</title>
     <desc lang="es">Tres mujeres que no tienen ningún problema en tocar todos los temas femeninos. Pensado para las jóvenes y adultas libres, independientes y felices, sobre todo. Ellas se refieren en este espacio a todas las cuestiones que les interesan. La vida social, la laboral, la exigencia de la casa y de los hijos, sin dejar de lado el hecho de ser atractivas y profesionales(n)</desc>
   </programme>
-  <programme start="20190109180000 -0600" stop="20190109190000 -0600" channel="UCV">
+  <programme start="20190109210000 -0300" stop="20190109220000 -0300" channel="UCV">
     <title lang="es">Mentes criminales</title>
     <desc lang="es">El trabajo de los analistas de comportamiento del FBI consiste determinar perfiles de los criminales para resolver crímenes. Este trabajo cuenta con la participación de un equipo diverso, que incluye a un joven genio y un líder hábil torturado por un caso del pasado. A diferencia de otros dramas criminales enfocados en ciencia, esta serie es muy calculadora en su análisis deductivo de los crímenes y sus autores(n)</desc>
   </programme>
-  <programme start="20190109190000 -0600" stop="20190109200000 -0600" channel="UCV">
+  <programme start="20190109220000 -0300" stop="20190109230000 -0300" channel="UCV">
     <title lang="es">Mentes criminales</title>
     <desc lang="es">El trabajo de los analistas de comportamiento del FBI consiste determinar perfiles de los criminales para resolver crímenes. Este trabajo cuenta con la participación de un equipo diverso, que incluye a un joven genio y un líder hábil torturado por un caso del pasado. A diferencia de otros dramas criminales enfocados en ciencia, esta serie es muy calculadora en su análisis deductivo de los crímenes y sus autores(n)</desc>
   </programme>
-  <programme start="20190109200000 -0600" stop="20190109210000 -0600" channel="UCV">
+  <programme start="20190109230000 -0300" stop="20190110000000 -0300" channel="UCV">
     <title lang="es">Mentes criminales</title>
     <desc lang="es">El trabajo de los analistas de comportamiento del FBI consiste determinar perfiles de los criminales para resolver crímenes. Este trabajo cuenta con la participación de un equipo diverso, que incluye a un joven genio y un líder hábil torturado por un caso del pasado. A diferencia de otros dramas criminales enfocados en ciencia, esta serie es muy calculadora en su análisis deductivo de los crímenes y sus autores(n)</desc>
   </programme>
-  <programme start="20190109210000 -0600" stop="20190109223000 -0600" channel="UCV">
-    <title lang="es">Toc Show</title>
-    <desc lang="es">El nuevo programa de trasnoche del 'Pollo" Valdivia, en compañía de Soledad Bacarreza, Javiera Acevedo y Mariana(n)</desc>
-  </programme>
-  <programme start="20190109033000 -0600" stop="20190109050000 -0600" channel="TVN">
+  <programme start="20190109063000 -0300" stop="20190109080000 -0300" channel="TVN">
     <title lang="es">Tu mañana</title>
     <sub-title lang="es">09-01-2019</sub-title>
     <desc lang="es">Empieza la mañana con toda la información sobre el clima, tráfico y noticias en general(n)</desc>
     <episode-num>Season 2019 Episode 7</episode-num>
   </programme>
-  <programme start="20190109050000 -0600" stop="20190109100000 -0600" channel="TVN">
+  <programme start="20190109080000 -0300" stop="20190109130000 -0300" channel="TVN">
     <title lang="es">Muy buenos días</title>
     <sub-title lang="es">09-01-2019</sub-title>
     <desc lang="es">Servicios, conversación, humor y la mejor compañía para empezar cada día(n)</desc>
     <episode-num>Season 2019 Episode 9</episode-num>
   </programme>
-  <programme start="20190109100000 -0600" stop="20190109121000 -0600" channel="TVN">
+  <programme start="20190109130000 -0300" stop="20190109151000 -0300" channel="TVN">
     <title lang="es">24 Tarde</title>
     <sub-title lang="es">09-01-2019</sub-title>
     <desc lang="es">Toda la información vespertina, nacional e internacional, actualizada y en detalle. Con la conducción de destacados periodistas, este informativo retrata los hechos más destacados de la jornada. Lo que pasa en el país y en el mundo, con las noticias que tienen trascendencia, además de análisis, debate y entrevistas(n)</desc>
     <episode-num>Season 2019 Episode 9</episode-num>
   </programme>
-  <programme start="20190109121000 -0600" stop="20190109130000 -0600" channel="TVN">
+  <programme start="20190109151000 -0300" stop="20190109160000 -0300" channel="TVN">
     <title lang="es">Soy tu dueña</title>
     <desc lang="es">Una mujer adinerada es golpeada por el amor y desarrolla una coraza que oculta sus sentimientos(n)</desc>
   </programme>
-  <programme start="20190109130000 -0600" stop="20190109135000 -0600" channel="TVN">
+  <programme start="20190109160000 -0300" stop="20190109165000 -0300" channel="TVN">
     <title lang="es">Elif</title>
     <desc lang="es">Una mujer abandonada lucha por salvar a su hija de los planes de su nuevo esposo(n)</desc>
   </programme>
-  <programme start="20190109135000 -0600" stop="20190109144000 -0600" channel="TVN">
+  <programme start="20190109165000 -0300" stop="20190109174000 -0300" channel="TVN">
     <title lang="es">Esposa joven</title>
     <desc lang="es">En un pueblo donde las tradiciones mandan, una niña de trece años es forzada a casarse para esconder un oscuro pasado y unirse a un hombre olvidado por todos(n)</desc>
   </programme>
-  <programme start="20190109144000 -0600" stop="20190109160000 -0600" channel="TVN">
+  <programme start="20190109174000 -0300" stop="20190109190000 -0300" channel="TVN">
     <title lang="es">Carmen Gloria a tu servicio</title>
     <desc lang="es">Carmen Gloria Arroyo llega con un talk show de historias de la vida real, al servicio de la familia chilena y que busca ayudar, orientar y educar dando un cierre definitivo a los problemas que aquejan a muchos chilenos(n)</desc>
   </programme>
-  <programme start="20190109160000 -0600" stop="20190109180000 -0600" channel="TVN">
+  <programme start="20190109190000 -0300" stop="20190109210000 -0300" channel="TVN">
     <title lang="es">Rojo, El color del talento</title>
   </programme>
-  <programme start="20190109180000 -0600" stop="20190109193000 -0600" channel="TVN">
+  <programme start="20190109210000 -0300" stop="20190109223000 -0300" channel="TVN">
     <title lang="es">24 Horas Central</title>
     <sub-title lang="es">14-12-2018</sub-title>
     <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
     <episode-num>Season 2018 Episode 241</episode-num>
   </programme>
-  <programme start="20190109193000 -0600" stop="20190109203000 -0600" channel="TVN">
+  <programme start="20190109223000 -0300" stop="20190109233000 -0300" channel="TVN">
     <title lang="es">Esposa joven</title>
     <desc lang="es">En un pueblo donde las tradiciones mandan, una niña de trece años es forzada a casarse para esconder un oscuro pasado y unirse a un hombre olvidado por todos(n)</desc>
   </programme>
-  <programme start="20190109203000 -0600" stop="20190109220000 -0600" channel="TVN">
+  <programme start="20190109233000 -0300" stop="20190110010000 -0300" channel="TVN">
     <title lang="es">La Huincha</title>
   </programme>
-  <programme start="20190109220000 -0600" stop="20190109230000 -0600" channel="TVN">
-    <title lang="es">No culpes a la noche</title>
-    <sub-title lang="es">10-01-2019</sub-title>
-    <desc lang="es">Programa de entrevistas y humor donde cada noche habrá un nuevo invitado(n)</desc>
-    <episode-num>Season 2019 Episode 12</episode-num>
-  </programme>
-  <programme start="20190109230000 -0600" stop="20190109233000 -0600" channel="TVN">
-    <title lang="es">Medianoche</title>
-    <sub-title lang="es">10-01-2019</sub-title>
-    <desc lang="es">Un resumen informativo que incluye entrevistas y análisis de las noticias(n)</desc>
-    <episode-num>Season 2019 Episode 3</episode-num>
-  </programme>
-  <programme start="20190109233000 -0600" stop="20190109234500 -0600" channel="TVN">
-    <title lang="es">TV tiempo</title>
-    <desc lang="es">El estado del tiempo en Chile(n)</desc>
-  </programme>
-  <programme start="20190109033000 -0600" stop="20190109050000 -0600" channel="MEGA">
+  <programme start="20190109063000 -0300" stop="20190109080000 -0300" channel="MEGA">
     <title lang="es">Ahora noticias matinal</title>
     <sub-title lang="es">09-01-2019</sub-title>
     <desc lang="es">Programa periodístico(n)</desc>
     <episode-num>Season 2019 Episode 7</episode-num>
   </programme>
-  <programme start="20190109050000 -0600" stop="20190109100000 -0600" channel="MEGA">
+  <programme start="20190109080000 -0300" stop="20190109130000 -0300" channel="MEGA">
     <title lang="es">Mucho gusto</title>
     <desc lang="es">Un programa dedicado a la gastronomía con una receta diaria, consejos sobre la cocina, historias de la comida de culturas varias e invitados informativos(n)</desc>
   </programme>
-  <programme start="20190109100000 -0600" stop="20190109122000 -0600" channel="MEGA">
+  <programme start="20190109130000 -0300" stop="20190109152000 -0300" channel="MEGA">
     <title lang="es">Ahora noticias edición tarde</title>
     <sub-title lang="es">09-01-2019</sub-title>
     <desc lang="es">Programa periodístico(n)</desc>
     <episode-num>Season 2019 Episode 7</episode-num>
   </programme>
-  <programme start="20190109122000 -0600" stop="20190109133000 -0600" channel="MEGA">
+  <programme start="20190109152000 -0300" stop="20190109163000 -0300" channel="MEGA">
     <title lang="es">Verdades ocultas</title>
     <desc lang="es">Historia de Laura Flores, madre soltera de dos niñas Rosita y Rocío, que viven en extrema pobreza y abandono. Por esto, Laura toma la decisión más difícil de su vida: vender a una de sus hijas. Pero el destino la pondrá frente a la hija que dejó de ver y que hoy se llama Agustina . Sin poder revelar la verdad, Laura se verá envuelta en una nueva encrucijada cuando sus dos hijas se conviertan en rivales. Un dilema moral que se repetirá como una gran condena(n)</desc>
   </programme>
-  <programme start="20190109133000 -0600" stop="20190109143000 -0600" channel="MEGA">
+  <programme start="20190109163000 -0300" stop="20190109173000 -0300" channel="MEGA">
     <title lang="es">Avenida Brasil</title>
     <desc lang="es">Novela que relata el plan de venganza de una niña que fue abandonada por su madrastra en un basural(n)</desc>
   </programme>
-  <programme start="20190109143000 -0600" stop="20190109153000 -0600" channel="MEGA">
+  <programme start="20190109173000 -0300" stop="20190109183000 -0300" channel="MEGA">
     <title lang="es">Querer sin límites</title>
     <desc lang="es">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera(n)</desc>
   </programme>
-  <programme start="20190109153000 -0600" stop="20190109165000 -0600" channel="MEGA">
+  <programme start="20190109183000 -0300" stop="20190109195000 -0300" channel="MEGA">
     <title lang="es">Mar de amores</title>
     <desc lang="es">Serie inspirada en los años '60, que muestra los trágicos cambios que recayeron sobre los integrantes de la familia de Akarsu, luego de las infidelidades protagonizadas por el patriarca(n)</desc>
   </programme>
-  <programme start="20190109165000 -0600" stop="20190109180000 -0600" channel="MEGA">
+  <programme start="20190109195000 -0300" stop="20190109210000 -0300" channel="MEGA">
     <title lang="es">Isla paraíso</title>
     <desc lang="es">Carolina es una dueña de casa que se ve envuelta en una millonaria estafa debido a los irresponsables manejos de su marido. Perseguida por la justicia, huye junto a su hijo Andy y su empleada dominicana Madeleine buscando refugio en el convento donde vive su hermana gemela. El problema es que Celeste no la puede ayudar, pues va partiendo a una sacrificada misión en una remota localidad al sur de Chile: Isla paraíso(n)</desc>
   </programme>
-  <programme start="20190109180000 -0600" stop="20190109191500 -0600" channel="MEGA">
+  <programme start="20190109210000 -0300" stop="20190109221500 -0300" channel="MEGA">
     <title lang="es">Ahora noticias</title>
     <sub-title lang="es">09-01-2019</sub-title>
     <desc lang="es">Programa periodístico(n)</desc>
     <episode-num>Season 2019 Episode 9</episode-num>
   </programme>
-  <programme start="20190109191500 -0600" stop="20190109201000 -0600" channel="MEGA">
+  <programme start="20190109221500 -0300" stop="20190109231000 -0300" channel="MEGA">
     <title lang="es">Casa de muñecos</title>
     <desc lang="es">Las hermanas Falco Elizalde se enteran de que su madre Nora Elizalde ha abandonado a su padre, Sergio Falco luego de más de cincuenta años de matrimonio(n)</desc>
   </programme>
-  <programme start="20190109201000 -0600" stop="20190109210000 -0600" channel="MEGA">
+  <programme start="20190109231000 -0300" stop="20190110000000 -0300" channel="MEGA">
     <title lang="es">Verdades ocultas</title>
     <desc lang="es">Historia de Laura Flores, madre soltera de dos niñas Rosita y Rocío, que viven en extrema pobreza y abandono. Por esto, Laura toma la decisión más difícil de su vida: vender a una de sus hijas. Pero el destino la pondrá frente a la hija que dejó de ver y que hoy se llama Agustina . Sin poder revelar la verdad, Laura se verá envuelta en una nueva encrucijada cuando sus dos hijas se conviertan en rivales. Un dilema moral que se repetirá como una gran condena(n)</desc>
-  </programme>
-  <programme start="20190109210000 -0600" stop="20190109220000 -0600" channel="MEGA">
-    <title lang="es">Querer sin límites</title>
-    <desc lang="es">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera(n)</desc>
-  </programme>
-  <programme start="20190109220000 -0600" stop="20190109230000 -0600" channel="MEGA">
-    <title lang="es">Isla paraíso</title>
-    <desc lang="es">Carolina es una dueña de casa que se ve envuelta en una millonaria estafa debido a los irresponsables manejos de su marido. Perseguida por la justicia, huye junto a su hijo Andy y su empleada dominicana Madeleine buscando refugio en el convento donde vive su hermana gemela. El problema es que Celeste no la puede ayudar, pues va partiendo a una sacrificada misión en una remota localidad al sur de Chile: Isla paraíso(n)</desc>
   </programme>
 </tv>
