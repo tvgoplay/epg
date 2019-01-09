@@ -48,6 +48,14 @@
     <display-name lang="es">13C</display-name>
     <url>http://www.chile.yo.tv</url>
   </channel>
+  <channel id="CDO BASICO">
+    <display-name lang="es">CDO BASICO</display-name>
+    <url>http://www.chile.yo.tv</url>
+  </channel>
+  <channel id="CDO PREMIUM">
+    <display-name lang="es">CDO PREMIUM</display-name>
+    <url>http://www.chile.yo.tv</url>
+  </channel>
   <programme start="20190109030000 -0600" stop="20190109033000 -0600" channel="La Red">
     <title lang="es">Chapulín Colorado</title>
     <desc lang="es">Más ágil que una tortuga ... más fuerte que un ratón ... más noble que una lechuga ... su escudo es un corazón ... Es Chapulín Colorado! El Chapulín Colorado es un superhéroe vestido de rojo con un corazón amarillo con las iniciales CH en rojo. Tiene dos antenas de vinilo poco en colores rojo y amarillo que él llama sus antenitas de vinil El Chapulin tiene siempre consigo un martillo rojo, lo que él llama su chipote chillón También puede tomar sus pastillas de chiquitolina que le hacen disminuir su tamaño a un ratón. Otra arma utilizada ocasionalmente para hacer buenas obras es la chicharra paralizadora una corneta de aire que se congela a la gente con un pitido (y descongela a estas personas con dos pitidos) que reciben el sonido directamente. El Chapulín Colorado con frecuencia y erróneamente captura a la gente inocente y dejar ir a los criminales y esto crea situaciones muy cómicas. Sin embargo, al final todo se aclara y los criminales son finalmente enviados a la cárcel, dándole todo el crédito de la captura de Chapulín(n)</desc>
@@ -87,7 +95,7 @@
     <desc lang="es">Un hombre y su nieta tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente(n)</desc>
   </programme>
   <programme start="20190109163000 -0600" stop="20190109171500 -0600" channel="La Red">
-    <title lang="es">La Rosa de Guadalupe</title>
+    <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
   </programme>
   <programme start="20190109171500 -0600" stop="20190109180000 -0600" channel="La Red">
@@ -575,7 +583,7 @@
     <desc lang="es">Un hombre y su nieta tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente(n)</desc>
   </programme>
   <programme start="20190115163000 -0600" stop="20190115171500 -0600" channel="La Red">
-    <title lang="es">La Rosa de Guadalupe</title>
+    <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Una recreación dramática de los milagrosos sucesos atribuidos a la Virgen de Guadalupe(n)</desc>
   </programme>
   <programme start="20190115171500 -0600" stop="20190115180000 -0600" channel="La Red">
@@ -1799,7 +1807,8 @@
     <desc lang="es">En un pueblo donde las tradiciones mandan, una niña de trece años es forzada a casarse para esconder un oscuro pasado y unirse a un hombre olvidado por todos(n)</desc>
   </programme>
   <programme start="20190116203000 -0600" stop="20190116220000 -0600" channel="TVN">
-    <title lang="es">La Huincha, Casting</title>
+    <title lang="es">La Huincha</title>
+    <desc lang="es">Busca talentos de humor que conducirá Karen Doggenweiler, sigue sumando a reconocidas figuras. Eduardo Ravani, Francisca Merino y Álvaro Salas fueron confirmados como jurado del espacio mientras que el actor Rodrigo Salinas asumirá un divertido rol(n)</desc>
   </programme>
   <programme start="20190116220000 -0600" stop="20190116230000 -0600" channel="TVN">
     <title lang="es">No culpes a la noche</title>
@@ -2175,7 +2184,7 @@
     <title lang="es">Ahora noticias edición tarde</title>
     <sub-title lang="es">14-01-2019</sub-title>
     <desc lang="es">Programa periodístico(n)</desc>
-    <episode-num>Season 2019 Episode 10 of 0</episode-num>
+    <episode-num>Season 2019 Episode 10</episode-num>
   </programme>
   <programme start="20190114122000 -0600" stop="20190114133000 -0600" channel="MEGA">
     <title lang="es">Verdades ocultas</title>
@@ -2201,7 +2210,7 @@
     <title lang="es">Ahora noticias</title>
     <sub-title lang="es">14-01-2019</sub-title>
     <desc lang="es">Programa periodístico(n)</desc>
-    <episode-num>Season 2019 Episode 14 of 0</episode-num>
+    <episode-num>Season 2019 Episode 14</episode-num>
   </programme>
   <programme start="20190114191500 -0600" stop="20190114201000 -0600" channel="MEGA">
     <title lang="es">Casa de muñecos</title>
@@ -8089,5 +8098,1323 @@
   <programme start="20190116220000 -0600" stop="20190116230000 -0600" channel="13C">
     <title lang="es">Corte nacional</title>
     <desc lang="es">Descubra la visión de diversos personajes públicos respecto al Chile actual(n)</desc>
+  </programme>
+  <programme start="20190109013000 -0600" stop="20190109023000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190109023000 -0600" stop="20190109040000 -0600" channel="CDO BASICO">
+    <title lang="es">Voleibol masculino</title>
+  </programme>
+  <programme start="20190109040000 -0600" stop="20190109050000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109050000 -0600" stop="20190109063000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109063000 -0600" stop="20190109073000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190109073000 -0600" stop="20190109083000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109083000 -0600" stop="20190109100000 -0600" channel="CDO BASICO">
+    <title lang="es">Voleibol Masculino</title>
+  </programme>
+  <programme start="20190109100000 -0600" stop="20190109103000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel golf</title>
+  </programme>
+  <programme start="20190109103000 -0600" stop="20190109110000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109110000 -0600" stop="20190109123000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109123000 -0600" stop="20190109160000 -0600" channel="CDO BASICO">
+    <title lang="es">Automovilismo</title>
+    <desc lang="es">TP Race. Desde el Autódromo de Huachalalume en la ciudad de La Serena, Chile(n)</desc>
+  </programme>
+  <programme start="20190109160000 -0600" stop="20190109170000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109170000 -0600" stop="20190109180000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109180000 -0600" stop="20190109183000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190109183000 -0600" stop="20190109190000 -0600" channel="CDO BASICO">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20190109190000 -0600" stop="20190109193000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190109193000 -0600" stop="20190109200000 -0600" channel="CDO BASICO">
+    <title lang="es">Edición Limitada</title>
+  </programme>
+  <programme start="20190109200000 -0600" stop="20190109210000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190109210000 -0600" stop="20190109233000 -0600" channel="CDO BASICO">
+    <title lang="es">Boxeo</title>
+    <desc lang="es">Gonzalo Fuenzalida (9-1-0, 2 por KO) vs. Juan Jimenez (8-5-0, 1 por KO) en un combate por el título chileno súper pluma. Desde el Gimnasio Club México en Santiago, Chile. (En vivo)(n)</desc>
+  </programme>
+  <programme start="20190109233000 -0600" stop="20190109233000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109233000 -0600" stop="20190110010000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110010000 -0600" stop="20190110013000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190110013000 -0600" stop="20190110033000 -0600" channel="CDO BASICO">
+    <title lang="es">Baloncesto chileno</title>
+    <desc lang="es">Municipal Puente Alto vs. ABA Ancud en un partido de la Liga Nacional de Básquetbol de Chile, la primera división del baloncesto profesional de Chile. (Diferido)(n)</desc>
+  </programme>
+  <programme start="20190110033000 -0600" stop="20190110043000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190110043000 -0600" stop="20190110060000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110060000 -0600" stop="20190110070000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190110070000 -0600" stop="20190110103000 -0600" channel="CDO BASICO">
+    <title lang="es">Campeonato Histórico de Velocidad FourB</title>
+    <desc lang="es">Evento de automovilismo y motociclismo en donde compiten automóviles y motocicletas clásicos e históricos(n)</desc>
+  </programme>
+  <programme start="20190110103000 -0600" stop="20190110110000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190110110000 -0600" stop="20190110123000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110123000 -0600" stop="20190110133000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190110133000 -0600" stop="20190110153000 -0600" channel="CDO BASICO">
+    <title lang="es">Voleibol Masculino</title>
+  </programme>
+  <programme start="20190110153000 -0600" stop="20190110160000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190110160000 -0600" stop="20190110170000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190110170000 -0600" stop="20190110180000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110180000 -0600" stop="20190110183000 -0600" channel="CDO BASICO">
+    <title lang="es">Edición Limitada</title>
+  </programme>
+  <programme start="20190110183000 -0600" stop="20190110190000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel golf</title>
+  </programme>
+  <programme start="20190110190000 -0600" stop="20190110193000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190110193000 -0600" stop="20190110200000 -0600" channel="CDO BASICO">
+    <title lang="es">Lanzamiento XSportsTV</title>
+    <desc lang="es">Lanzamiento XSportsTV, programa centrado en el mundo del motor(n)</desc>
+  </programme>
+  <programme start="20190110200000 -0600" stop="20190110210000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190110210000 -0600" stop="20190110223000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110223000 -0600" stop="20190110223000 -0600" channel="CDO BASICO">
+    <title lang="es">Baloncesto chileno</title>
+    <desc lang="es">Colegio Los Leones de Quilpue vs CD Las Animas de Valdivia(n)</desc>
+  </programme>
+  <programme start="20190110223000 -0600" stop="20190111003000 -0600" channel="CDO BASICO">
+    <title lang="es">Baloncesto chileno</title>
+    <desc lang="es">Colegio Los Leones de Quilpue vs CD Las Animas de Valdivia(n)</desc>
+  </programme>
+  <programme start="20190111003000 -0600" stop="20190111013000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111013000 -0600" stop="20190111033000 -0600" channel="CDO BASICO">
+    <title lang="es">Voleibol Masculino</title>
+  </programme>
+  <programme start="20190111033000 -0600" stop="20190111043000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111043000 -0600" stop="20190111060000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190111060000 -0600" stop="20190111070000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190111070000 -0600" stop="20190111073000 -0600" channel="CDO BASICO">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20190111073000 -0600" stop="20190111083000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111083000 -0600" stop="20190111103000 -0600" channel="CDO BASICO">
+    <title lang="es">Baloncesto chileno</title>
+  </programme>
+  <programme start="20190111103000 -0600" stop="20190111110000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111110000 -0600" stop="20190111123000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190111123000 -0600" stop="20190111133000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190111133000 -0600" stop="20190111153000 -0600" channel="CDO BASICO">
+    <title lang="es">Baloncesto chileno</title>
+  </programme>
+  <programme start="20190111153000 -0600" stop="20190111160000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel golf</title>
+  </programme>
+  <programme start="20190111160000 -0600" stop="20190111170000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111170000 -0600" stop="20190111180000 -0600" channel="CDO BASICO">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190111180000 -0600" stop="20190111183000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190111183000 -0600" stop="20190111190000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190111190000 -0600" stop="20190111200000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190111200000 -0600" stop="20190111210000 -0600" channel="CDO BASICO">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190111210000 -0600" stop="20190111220000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190111220000 -0600" stop="20190112000000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112000000 -0600" stop="20190112003000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190112003000 -0600" stop="20190112013000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190112013000 -0600" stop="20190112033000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112033000 -0600" stop="20190112040000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190112040000 -0600" stop="20190112050000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190112050000 -0600" stop="20190112060000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190112060000 -0600" stop="20190112063000 -0600" channel="CDO BASICO">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190112063000 -0600" stop="20190112073000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190112073000 -0600" stop="20190112080000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112080000 -0600" stop="20190112083000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190112083000 -0600" stop="20190112100000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112100000 -0600" stop="20190112103000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112103000 -0600" stop="20190112110000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190112110000 -0600" stop="20190112120000 -0600" channel="CDO BASICO">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190112120000 -0600" stop="20190112123000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112123000 -0600" stop="20190112133000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190112133000 -0600" stop="20190112163000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112163000 -0600" stop="20190112170000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190112170000 -0600" stop="20190112190000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112190000 -0600" stop="20190112200000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112200000 -0600" stop="20190112203000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112203000 -0600" stop="20190112210000 -0600" channel="CDO BASICO">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190112210000 -0600" stop="20190112220000 -0600" channel="CDO BASICO">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190112220000 -0600" stop="20190112220000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112220000 -0600" stop="20190113003000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113003000 -0600" stop="20190113010000 -0600" channel="CDO BASICO">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190113010000 -0600" stop="20190113013000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190113013000 -0600" stop="20190113033000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113033000 -0600" stop="20190113043000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190113043000 -0600" stop="20190113053000 -0600" channel="CDO BASICO">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190113053000 -0600" stop="20190113073000 -0600" channel="CDO BASICO">
+    <title lang="es">Liga Nacional de Voleibol</title>
+  </programme>
+  <programme start="20190113073000 -0600" stop="20190113103000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113103000 -0600" stop="20190113110000 -0600" channel="CDO BASICO">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190113110000 -0600" stop="20190113113000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190113113000 -0600" stop="20190113123000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190113123000 -0600" stop="20190113133000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113133000 -0600" stop="20190113143000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190113143000 -0600" stop="20190113183000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113183000 -0600" stop="20190113190000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113190000 -0600" stop="20190113193000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190113193000 -0600" stop="20190113200000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113200000 -0600" stop="20190113210000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113210000 -0600" stop="20190114000000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114000000 -0600" stop="20190114003000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Entrevistas</title>
+  </programme>
+  <programme start="20190114003000 -0600" stop="20190114033000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114033000 -0600" stop="20190114040000 -0600" channel="CDO BASICO">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190114040000 -0600" stop="20190114043000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190114043000 -0600" stop="20190114073000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114073000 -0600" stop="20190114080000 -0600" channel="CDO BASICO">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190114080000 -0600" stop="20190114103000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114103000 -0600" stop="20190114110000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190114110000 -0600" stop="20190114120000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190114120000 -0600" stop="20190114130000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190114130000 -0600" stop="20190114133000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Entrevistas</title>
+  </programme>
+  <programme start="20190114133000 -0600" stop="20190114143000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114143000 -0600" stop="20190114160000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114160000 -0600" stop="20190114163000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190114163000 -0600" stop="20190114170000 -0600" channel="CDO BASICO">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190114170000 -0600" stop="20190114190000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114190000 -0600" stop="20190114193000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190114193000 -0600" stop="20190114200000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114200000 -0600" stop="20190114210000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114210000 -0600" stop="20190114220000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190114220000 -0600" stop="20190114220000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114220000 -0600" stop="20190115003000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115003000 -0600" stop="20190115010000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115010000 -0600" stop="20190115030000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115030000 -0600" stop="20190115040000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115040000 -0600" stop="20190115050000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190115050000 -0600" stop="20190115073000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115073000 -0600" stop="20190115080000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190115080000 -0600" stop="20190115083000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115083000 -0600" stop="20190115100000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115100000 -0600" stop="20190115103000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115103000 -0600" stop="20190115110000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115110000 -0600" stop="20190115120000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190115120000 -0600" stop="20190115150000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115150000 -0600" stop="20190115153000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190115153000 -0600" stop="20190115160000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Entrevistas</title>
+  </programme>
+  <programme start="20190115160000 -0600" stop="20190115163000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115163000 -0600" stop="20190115190000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115190000 -0600" stop="20190115200000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190115200000 -0600" stop="20190115210000 -0600" channel="CDO BASICO">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190115210000 -0600" stop="20190115220000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190115220000 -0600" stop="20190115220000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115220000 -0600" stop="20190116003000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116003000 -0600" stop="20190116013000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190116013000 -0600" stop="20190116023000 -0600" channel="CDO BASICO">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190116023000 -0600" stop="20190116053000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116053000 -0600" stop="20190116060000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116060000 -0600" stop="20190116070000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190116070000 -0600" stop="20190116080000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190116080000 -0600" stop="20190116083000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116083000 -0600" stop="20190116103000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116103000 -0600" stop="20190116110000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116110000 -0600" stop="20190116120000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190116120000 -0600" stop="20190116130000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190116130000 -0600" stop="20190116160000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116160000 -0600" stop="20190116163000 -0600" channel="CDO BASICO">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116163000 -0600" stop="20190116170000 -0600" channel="CDO BASICO">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190116170000 -0600" stop="20190116183000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116183000 -0600" stop="20190116190000 -0600" channel="CDO BASICO">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190116190000 -0600" stop="20190116193000 -0600" channel="CDO BASICO">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190116193000 -0600" stop="20190116200000 -0600" channel="CDO BASICO">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116200000 -0600" stop="20190116210000 -0600" channel="CDO BASICO">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190116210000 -0600" stop="20190116220000 -0600" channel="CDO BASICO">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190109013000 -0600" stop="20190109023000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190109023000 -0600" stop="20190109040000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Voleibol masculino</title>
+  </programme>
+  <programme start="20190109040000 -0600" stop="20190109050000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109050000 -0600" stop="20190109063000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109063000 -0600" stop="20190109073000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190109073000 -0600" stop="20190109083000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109083000 -0600" stop="20190109100000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Voleibol Masculino</title>
+  </programme>
+  <programme start="20190109100000 -0600" stop="20190109103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel golf</title>
+  </programme>
+  <programme start="20190109103000 -0600" stop="20190109110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109110000 -0600" stop="20190109123000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109123000 -0600" stop="20190109160000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Automovilismo</title>
+    <desc lang="es">TP Race. Desde el Autódromo de Huachalalume en la ciudad de La Serena, Chile(n)</desc>
+  </programme>
+  <programme start="20190109160000 -0600" stop="20190109170000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190109170000 -0600" stop="20190109180000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109180000 -0600" stop="20190109183000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190109183000 -0600" stop="20190109190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20190109190000 -0600" stop="20190109193000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190109193000 -0600" stop="20190109200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Edición Limitada</title>
+  </programme>
+  <programme start="20190109200000 -0600" stop="20190109210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190109210000 -0600" stop="20190109233000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Boxeo</title>
+    <desc lang="es">Gonzalo Fuenzalida (9-1-0, 2 por KO) vs. Juan Jimenez (8-5-0, 1 por KO) en un combate por el título chileno súper pluma. Desde el Gimnasio Club México en Santiago, Chile. (En vivo)(n)</desc>
+  </programme>
+  <programme start="20190109233000 -0600" stop="20190109233000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190109233000 -0600" stop="20190110010000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110010000 -0600" stop="20190110013000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190110013000 -0600" stop="20190110033000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Baloncesto chileno</title>
+    <desc lang="es">Municipal Puente Alto vs. ABA Ancud en un partido de la Liga Nacional de Básquetbol de Chile, la primera división del baloncesto profesional de Chile. (Diferido)(n)</desc>
+  </programme>
+  <programme start="20190110033000 -0600" stop="20190110043000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190110043000 -0600" stop="20190110060000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110060000 -0600" stop="20190110070000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190110070000 -0600" stop="20190110103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Campeonato Histórico de Velocidad FourB</title>
+    <desc lang="es">Evento de automovilismo y motociclismo en donde compiten automóviles y motocicletas clásicos e históricos(n)</desc>
+  </programme>
+  <programme start="20190110103000 -0600" stop="20190110110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190110110000 -0600" stop="20190110123000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110123000 -0600" stop="20190110133000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190110133000 -0600" stop="20190110153000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Voleibol Masculino</title>
+  </programme>
+  <programme start="20190110153000 -0600" stop="20190110160000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190110160000 -0600" stop="20190110170000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190110170000 -0600" stop="20190110180000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110180000 -0600" stop="20190110183000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Edición Limitada</title>
+  </programme>
+  <programme start="20190110183000 -0600" stop="20190110190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel golf</title>
+  </programme>
+  <programme start="20190110190000 -0600" stop="20190110193000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190110193000 -0600" stop="20190110200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Lanzamiento XSportsTV</title>
+    <desc lang="es">Lanzamiento XSportsTV, programa centrado en el mundo del motor(n)</desc>
+  </programme>
+  <programme start="20190110200000 -0600" stop="20190110210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190110210000 -0600" stop="20190110223000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190110223000 -0600" stop="20190110223000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Baloncesto chileno</title>
+    <desc lang="es">Colegio Los Leones de Quilpue vs CD Las Animas de Valdivia(n)</desc>
+  </programme>
+  <programme start="20190110223000 -0600" stop="20190111003000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Baloncesto chileno</title>
+    <desc lang="es">Colegio Los Leones de Quilpue vs CD Las Animas de Valdivia(n)</desc>
+  </programme>
+  <programme start="20190111003000 -0600" stop="20190111013000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111013000 -0600" stop="20190111033000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Voleibol Masculino</title>
+  </programme>
+  <programme start="20190111033000 -0600" stop="20190111043000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111043000 -0600" stop="20190111060000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190111060000 -0600" stop="20190111070000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190111070000 -0600" stop="20190111073000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20190111073000 -0600" stop="20190111083000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111083000 -0600" stop="20190111103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Baloncesto chileno</title>
+  </programme>
+  <programme start="20190111103000 -0600" stop="20190111110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111110000 -0600" stop="20190111123000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190111123000 -0600" stop="20190111133000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190111133000 -0600" stop="20190111153000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Baloncesto chileno</title>
+  </programme>
+  <programme start="20190111153000 -0600" stop="20190111160000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel golf</title>
+  </programme>
+  <programme start="20190111160000 -0600" stop="20190111170000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190111170000 -0600" stop="20190111180000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+    <desc lang="es">Programa de contenido deportivo(n)</desc>
+  </programme>
+  <programme start="20190111180000 -0600" stop="20190111183000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190111183000 -0600" stop="20190111190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190111190000 -0600" stop="20190111200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190111200000 -0600" stop="20190111210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190111210000 -0600" stop="20190111220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190111220000 -0600" stop="20190112000000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112000000 -0600" stop="20190112003000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190112003000 -0600" stop="20190112013000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190112013000 -0600" stop="20190112033000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112033000 -0600" stop="20190112040000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190112040000 -0600" stop="20190112050000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190112050000 -0600" stop="20190112060000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190112060000 -0600" stop="20190112063000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190112063000 -0600" stop="20190112073000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190112073000 -0600" stop="20190112080000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112080000 -0600" stop="20190112083000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190112083000 -0600" stop="20190112100000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112100000 -0600" stop="20190112103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112103000 -0600" stop="20190112110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190112110000 -0600" stop="20190112120000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190112120000 -0600" stop="20190112123000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112123000 -0600" stop="20190112133000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190112133000 -0600" stop="20190112163000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112163000 -0600" stop="20190112170000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190112170000 -0600" stop="20190112190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112190000 -0600" stop="20190112200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112200000 -0600" stop="20190112203000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112203000 -0600" stop="20190112210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190112210000 -0600" stop="20190112220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190112220000 -0600" stop="20190112220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190112220000 -0600" stop="20190113003000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113003000 -0600" stop="20190113010000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190113010000 -0600" stop="20190113013000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190113013000 -0600" stop="20190113033000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113033000 -0600" stop="20190113043000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190113043000 -0600" stop="20190113053000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190113053000 -0600" stop="20190113073000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Liga Nacional de Voleibol</title>
+  </programme>
+  <programme start="20190113073000 -0600" stop="20190113103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113103000 -0600" stop="20190113110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190113110000 -0600" stop="20190113113000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190113113000 -0600" stop="20190113123000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190113123000 -0600" stop="20190113133000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113133000 -0600" stop="20190113143000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190113143000 -0600" stop="20190113183000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113183000 -0600" stop="20190113190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113190000 -0600" stop="20190113193000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190113193000 -0600" stop="20190113200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113200000 -0600" stop="20190113210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190113210000 -0600" stop="20190114000000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114000000 -0600" stop="20190114003000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Entrevistas</title>
+  </programme>
+  <programme start="20190114003000 -0600" stop="20190114033000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114033000 -0600" stop="20190114040000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190114040000 -0600" stop="20190114043000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190114043000 -0600" stop="20190114073000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114073000 -0600" stop="20190114080000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190114080000 -0600" stop="20190114103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114103000 -0600" stop="20190114110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190114110000 -0600" stop="20190114120000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190114120000 -0600" stop="20190114130000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190114130000 -0600" stop="20190114133000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Entrevistas</title>
+  </programme>
+  <programme start="20190114133000 -0600" stop="20190114143000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114143000 -0600" stop="20190114160000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114160000 -0600" stop="20190114163000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190114163000 -0600" stop="20190114170000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Aventura Increible</title>
+    <desc lang="es">Programa de deporte que busca mostrar las mejores carreras y eventos de aventura(n)</desc>
+  </programme>
+  <programme start="20190114170000 -0600" stop="20190114190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114190000 -0600" stop="20190114193000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190114193000 -0600" stop="20190114200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114200000 -0600" stop="20190114210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114210000 -0600" stop="20190114220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190114220000 -0600" stop="20190114220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190114220000 -0600" stop="20190115003000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115003000 -0600" stop="20190115010000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115010000 -0600" stop="20190115030000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115030000 -0600" stop="20190115040000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115040000 -0600" stop="20190115050000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190115050000 -0600" stop="20190115073000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115073000 -0600" stop="20190115080000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190115080000 -0600" stop="20190115083000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115083000 -0600" stop="20190115100000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115100000 -0600" stop="20190115103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115103000 -0600" stop="20190115110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115110000 -0600" stop="20190115120000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190115120000 -0600" stop="20190115150000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115150000 -0600" stop="20190115153000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190115153000 -0600" stop="20190115160000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Entrevistas</title>
+  </programme>
+  <programme start="20190115160000 -0600" stop="20190115163000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190115163000 -0600" stop="20190115190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115190000 -0600" stop="20190115200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190115200000 -0600" stop="20190115210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190115210000 -0600" stop="20190115220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190115220000 -0600" stop="20190115220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190115220000 -0600" stop="20190116003000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116003000 -0600" stop="20190116013000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190116013000 -0600" stop="20190116023000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Vision Sport</title>
+    <desc lang="es">Programa de deportes extremos como el Rally Mobil, Motocross Nacional, Enduro, y 4x4, entre otros(n)</desc>
+  </programme>
+  <programme start="20190116023000 -0600" stop="20190116053000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116053000 -0600" stop="20190116060000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116060000 -0600" stop="20190116070000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190116070000 -0600" stop="20190116080000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190116080000 -0600" stop="20190116083000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116083000 -0600" stop="20190116103000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116103000 -0600" stop="20190116110000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116110000 -0600" stop="20190116120000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
+  </programme>
+  <programme start="20190116120000 -0600" stop="20190116130000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Básquetbol</title>
+    <desc lang="es">Programa que repasa la temporada de básquetbol(n)</desc>
+  </programme>
+  <programme start="20190116130000 -0600" stop="20190116160000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116160000 -0600" stop="20190116163000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Fábrica de Campeones</title>
+    <desc lang="es">Repaso de los entrenamientos diarios en el CEO, Centro de Entrenamiento Olímpico(n)</desc>
+  </programme>
+  <programme start="20190116163000 -0600" stop="20190116170000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Travel Tenis</title>
+    <desc lang="es">Un viaje a través del mundo del tenis. Biografías, competencias mundiales, entrevistas y mucho más(n)</desc>
+  </programme>
+  <programme start="20190116170000 -0600" stop="20190116183000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116183000 -0600" stop="20190116190000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Mototematicos</title>
+    <desc lang="es">Programa sobre viajes, aventuras, deportes, consejos y personalidades del mundo del motociclismo(n)</desc>
+  </programme>
+  <programme start="20190116190000 -0600" stop="20190116193000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Circuito Alpino Directv</title>
+    <desc lang="es">El mejor Ski Alpino del continente desde Santiago con los mejores exponentes a nivel mundial(n)</desc>
+  </programme>
+  <programme start="20190116193000 -0600" stop="20190116200000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Deporte: Será Anunciado</title>
+    <desc lang="es">Emisión de un evento deportivo(n)</desc>
+  </programme>
+  <programme start="20190116200000 -0600" stop="20190116210000 -0600" channel="CDO PREMIUM">
+    <title lang="es">CDO Motor</title>
+    <desc lang="es">Actualidad del automovilismo nacional, la Formula Nissan, Copa Nissan March y Formula 3 Nissan, con invitados al programa(n)</desc>
+  </programme>
+  <programme start="20190116210000 -0600" stop="20190116220000 -0600" channel="CDO PREMIUM">
+    <title lang="es">Bío-Bío Deportes</title>
+    <desc lang="es">Programa de conversación deportiva desde el estudio de Bío Bío La Radio(n)</desc>
   </programme>
 </tv>
