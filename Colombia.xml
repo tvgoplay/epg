@@ -2,47 +2,47 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="RCN">
     <display-name lang="es">RCN</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="CABLENOTICIAS">
     <display-name lang="es">CABLENOTICIAS</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="CARACOL">
     <display-name lang="es">CARACOL</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="CITY">
     <display-name lang="es">CITY</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="CANAL DEL TIEMPO">
     <display-name lang="es">CANAL DEL TIEMPO</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="NTN24">
     <display-name lang="es">NTN24</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="TELEANTOQUIA">
     <display-name lang="es">TELEANTOQUIA</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="SEÑAL COLOMBIA">
     <display-name lang="es">SEÑAL COLOMBIA</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="EL TRECE">
     <display-name lang="es">EL TRECE</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="TELEPACIFICO">
     <display-name lang="es">TELEPACIFICO</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <channel id="TELECARIBE">
     <display-name lang="es">TELECARIBE</display-name>
-    <url>http://www.mexico.yo.tv</url>
+    <url>http://www.columbia.yo.tv</url>
   </channel>
   <programme start="20190110020000 -0600" stop="20190110030000 -0600" channel="RCN">
     <title lang="es">Programación pagada</title>
