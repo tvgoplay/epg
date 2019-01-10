@@ -44,6 +44,10 @@
     <display-name lang="es">TELECARIBE</display-name>
     <url>http://www.columbia.yo.tv</url>
   </channel>
+  <channel id="CANAL UNO">
+    <display-name lang="es">CANAL UNO</display-name>
+    <url>http://www.columbia.yo.tv</url>
+  </channel>
   <programme start="20190110020000 -0600" stop="20190110030000 -0600" channel="RCN">
     <title lang="es">Programación pagada</title>
     <desc lang="es">Se emitirá programación pagada(n)</desc>
@@ -9761,5 +9765,846 @@
   <programme start="20190117223000 -0600" stop="20190117230000 -0600" channel="TELECARIBE">
     <title lang="es">Lo Sabe Quessep</title>
     <desc lang="es">Espacio con enfoque gastronómico que equilibra tradiciones culinarias y modernas preparaciones del chef sincelejano, reconocido por su pasión por la historia y los mestizajes culturales que nutren la cocina de la Región(n)</desc>
+  </programme>
+  <programme start="20190110053000 -0600" stop="20190110060000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190110060000 -0600" stop="20190110063000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190110063000 -0600" stop="20190110113000 -0600" channel="CANAL UNO">
+    <title lang="es">En las mañanas con Uno</title>
+    <desc lang="es">Programa de formato magazín ideal para todo tipo de audiencias. Con boletines informativos, noticias de último momento y con temáticas relacionadas con salud, deporte, tips financieros, clima, cocina, educación, música, responsabilidad social, manualidades, vivienda, invitados, decoración, tendencias y actualidad(n)</desc>
+  </programme>
+  <programme start="20190110113000 -0600" stop="20190110120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190110120000 -0600" stop="20190110130000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190110130000 -0600" stop="20190110133000 -0600" channel="CANAL UNO">
+    <title lang="es">Actualidad científica</title>
+    <desc lang="es">Noticias y actualidad de la ciencia y avances científicos(n)</desc>
+  </programme>
+  <programme start="20190110133000 -0600" stop="20190110140000 -0600" channel="CANAL UNO">
+    <title lang="es">Acciones que cambian el mundo</title>
+    <desc lang="es">Con pequeñas acciones podemos generar cambios, y de cambio en cambio el mundo mejorará(n)</desc>
+  </programme>
+  <programme start="20190110140000 -0600" stop="20190110150000 -0600" channel="CANAL UNO">
+    <title lang="es">Juntos a las 3</title>
+    <desc lang="es">El Magazine de las Tardes es un programa dirigido al bienestar en pareja(n)</desc>
+  </programme>
+  <programme start="20190110150000 -0600" stop="20190110160000 -0600" channel="CANAL UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
+  </programme>
+  <programme start="20190110160000 -0600" stop="20190110163000 -0600" channel="CANAL UNO">
+    <title lang="es">Quality innova</title>
+    <desc lang="es">Temas de salud importantes para una mejor calidad de vida(n)</desc>
+  </programme>
+  <programme start="20190110163000 -0600" stop="20190110170000 -0600" channel="CANAL UNO">
+    <title lang="es">El camino antiguo</title>
+    <desc lang="es">El Hermano Eli Soriano habla sobre la fe, la religión y la Biblia(n)</desc>
+  </programme>
+  <programme start="20190110170000 -0600" stop="20190110173000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190110173000 -0600" stop="20190110180000 -0600" channel="CANAL UNO">
+    <title lang="es">Gente Pelota</title>
+    <desc lang="es">Ríete por montones con las mejores caídas y goles errados(n)</desc>
+  </programme>
+  <programme start="20190110180000 -0600" stop="20190110183000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190110183000 -0600" stop="20190110190000 -0600" channel="CANAL UNO">
+    <title lang="es">GPS</title>
+    <desc lang="es">Un recorrido por los lugares más bellos de Argentina(n)</desc>
+  </programme>
+  <programme start="20190110190000 -0600" stop="20190110193000 -0600" channel="CANAL UNO">
+    <title lang="es">Panorama</title>
+    <desc lang="es">Temas ligeros y serios a base de temas de actualidad política y social, notas de literatura y más(n)</desc>
+  </programme>
+  <programme start="20190110193000 -0600" stop="20190110200000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; Internacional</title>
+    <desc lang="es">Las últimas noticias de actualidad(n)</desc>
+  </programme>
+  <programme start="20190110200000 -0600" stop="20190110203000 -0600" channel="CANAL UNO">
+    <title lang="es">Pregunta Yamid</title>
+    <desc lang="es">Se discuten temas de actualidad política con análisis y entrevistas(n)</desc>
+  </programme>
+  <programme start="20190110203000 -0600" stop="20190110211500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190110211500 -0600" stop="20190110213000 -0600" channel="CANAL UNO">
+    <title lang="es">Hashtag</title>
+    <desc lang="es">Discusión de temas que trascienden fronteras, no solo físicas sino virtuales, utilizando Twitter para que todos puedan opinar, mediante el manejo de hashtags específicos según el tema(n)</desc>
+  </programme>
+  <programme start="20190110213000 -0600" stop="20190110220000 -0600" channel="CANAL UNO">
+    <title lang="es">Veredicto</title>
+    <desc lang="es">Programa de los grandes debates nacionales(n)</desc>
+  </programme>
+  <programme start="20190110220000 -0600" stop="20190110223000 -0600" channel="CANAL UNO">
+    <title lang="es">Telehits</title>
+    <desc lang="es">Éxitos musicales(n)</desc>
+  </programme>
+  <programme start="20190110223000 -0600" stop="20190110230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
+  </programme>
+  <programme start="20190110230000 -0600" stop="20190110230000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190110230000 -0600" stop="20190111050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190111050000 -0600" stop="20190111053000 -0600" channel="CANAL UNO">
+    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+    <desc lang="es">Programa educativo sobre el campo y el agro(n)</desc>
+  </programme>
+  <programme start="20190111053000 -0600" stop="20190111060000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190111060000 -0600" stop="20190111063000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190111063000 -0600" stop="20190111113000 -0600" channel="CANAL UNO">
+    <title lang="es">En las mañanas con Uno</title>
+    <desc lang="es">Programa de formato magazín ideal para todo tipo de audiencias. Con boletines informativos, noticias de último momento y con temáticas relacionadas con salud, deporte, tips financieros, clima, cocina, educación, música, responsabilidad social, manualidades, vivienda, invitados, decoración, tendencias y actualidad(n)</desc>
+  </programme>
+  <programme start="20190111113000 -0600" stop="20190111120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190111120000 -0600" stop="20190111130000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190111130000 -0600" stop="20190111133000 -0600" channel="CANAL UNO">
+    <title lang="es">Salud a su alcance</title>
+    <desc lang="es">Programa de salud(n)</desc>
+  </programme>
+  <programme start="20190111133000 -0600" stop="20190111140000 -0600" channel="CANAL UNO">
+    <title lang="es">Acciones que cambian el mundo</title>
+    <desc lang="es">Con pequeñas acciones podemos generar cambios, y de cambio en cambio el mundo mejorará(n)</desc>
+  </programme>
+  <programme start="20190111140000 -0600" stop="20190111150000 -0600" channel="CANAL UNO">
+    <title lang="es">Juntos a las 3</title>
+    <desc lang="es">El Magazine de las Tardes es un programa dirigido al bienestar en pareja(n)</desc>
+  </programme>
+  <programme start="20190111150000 -0600" stop="20190111160000 -0600" channel="CANAL UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
+  </programme>
+  <programme start="20190111160000 -0600" stop="20190111163000 -0600" channel="CANAL UNO">
+    <title lang="es">Biomedicina a su salud</title>
+  </programme>
+  <programme start="20190111163000 -0600" stop="20190111170000 -0600" channel="CANAL UNO">
+    <title lang="es">El camino antiguo</title>
+    <desc lang="es">El Hermano Eli Soriano habla sobre la fe, la religión y la Biblia(n)</desc>
+  </programme>
+  <programme start="20190111170000 -0600" stop="20190111173000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190111173000 -0600" stop="20190111180000 -0600" channel="CANAL UNO">
+    <title lang="es">Gente Pelota</title>
+    <desc lang="es">Ríete por montones con las mejores caídas y goles errados(n)</desc>
+  </programme>
+  <programme start="20190111180000 -0600" stop="20190111181500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190111181500 -0600" stop="20190111184000 -0600" channel="CANAL UNO">
+    <title lang="es">Noticiero del Senado</title>
+    <desc lang="es">Cápsulas noticiosas sobre temas de actualidad y actividades en desarrollo por parte del Senado colombiano(n)</desc>
+  </programme>
+  <programme start="20190111184000 -0600" stop="20190111191000 -0600" channel="CANAL UNO">
+    <title lang="es">GPS</title>
+    <desc lang="es">Un recorrido por los lugares más bellos de Argentina(n)</desc>
+  </programme>
+  <programme start="20190111191000 -0600" stop="20190111194000 -0600" channel="CANAL UNO">
+    <title lang="es">Panorama</title>
+    <desc lang="es">Temas ligeros y serios a base de temas de actualidad política y social, notas de literatura y más(n)</desc>
+  </programme>
+  <programme start="20190111194000 -0600" stop="20190111200000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; Internacional</title>
+    <desc lang="es">Las últimas noticias de actualidad(n)</desc>
+  </programme>
+  <programme start="20190111200000 -0600" stop="20190111203000 -0600" channel="CANAL UNO">
+    <title lang="es">Pregunta Yamid</title>
+    <desc lang="es">Se discuten temas de actualidad política con análisis y entrevistas(n)</desc>
+  </programme>
+  <programme start="20190111203000 -0600" stop="20190111211500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190111211500 -0600" stop="20190111214500 -0600" channel="CANAL UNO">
+    <title lang="es">Asi da gusto vivir</title>
+    <desc lang="es">Un mensaje de reflexión dedicado a la felicidad de todos(n)</desc>
+  </programme>
+  <programme start="20190111214500 -0600" stop="20190111220000 -0600" channel="CANAL UNO">
+    <title lang="es">Telehits</title>
+    <desc lang="es">Éxitos musicales(n)</desc>
+  </programme>
+  <programme start="20190111220000 -0600" stop="20190111223000 -0600" channel="CANAL UNO">
+    <title lang="es">El lugar de su presencia</title>
+    <desc lang="es">Predicaciones, canciones de alabanza y adoración y mucho más(n)</desc>
+  </programme>
+  <programme start="20190111223000 -0600" stop="20190111230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
+  </programme>
+  <programme start="20190111230000 -0600" stop="20190112000000 -0600" channel="CANAL UNO">
+    <title lang="es">Es Posible</title>
+    <desc lang="es">Desarrollo social y cultural, dedicado a promover los valores de pertenencia con la región(n)</desc>
+  </programme>
+  <programme start="20190112000000 -0600" stop="20190112050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190112050000 -0600" stop="20190112053000 -0600" channel="CANAL UNO">
+    <title lang="es">Telehits</title>
+    <desc lang="es">Éxitos musicales(n)</desc>
+  </programme>
+  <programme start="20190112053000 -0600" stop="20190112060000 -0600" channel="CANAL UNO">
+    <title lang="es">Plan B</title>
+    <desc lang="es">Programa de entrevistas sobre diferentes temas de interés(n)</desc>
+  </programme>
+  <programme start="20190112060000 -0600" stop="20190112063000 -0600" channel="CANAL UNO">
+    <title lang="es">Encuentro</title>
+    <desc lang="es">Donaldo Casado, asesor jurídico de FECODE responde preguntas de carácter laboral(n)</desc>
+  </programme>
+  <programme start="20190112063000 -0600" stop="20190112070000 -0600" channel="CANAL UNO">
+    <title lang="es">Ninja Warrior</title>
+    <desc lang="es">Una prueba de fuerza, 100 competidores van más allá de sus límites en una carrera de cuatro etapas(n)</desc>
+  </programme>
+  <programme start="20190112070000 -0600" stop="20190112080000 -0600" channel="CANAL UNO">
+    <title lang="es">Hechos y Crónicas</title>
+    <desc lang="es">El evangelio de una manera sencilla y profesional, valiéndose de las herramientas de tecnología de información(n)</desc>
+  </programme>
+  <programme start="20190112080000 -0600" stop="20190112083000 -0600" channel="CANAL UNO">
+    <title lang="es">Naturalmente Saludable</title>
+    <desc lang="es">Espacio diseñado para todos los que buscan una forma natural de vivir saludable para recuperar y mantener la salud y bienestar(n)</desc>
+  </programme>
+  <programme start="20190112083000 -0600" stop="20190112090000 -0600" channel="CANAL UNO">
+    <title lang="es">Actualidad científica</title>
+    <desc lang="es">Noticias y actualidad de la ciencia y avances científicos(n)</desc>
+  </programme>
+  <programme start="20190112090000 -0600" stop="20190112093000 -0600" channel="CANAL UNO">
+    <title lang="es">Biomedicina a su salud</title>
+  </programme>
+  <programme start="20190112093000 -0600" stop="20190112100000 -0600" channel="CANAL UNO">
+    <title lang="es">Defensor del Televidente UNO TV</title>
+    <desc lang="es">Un espacio para el diálogo entre el canal uno y el público(n)</desc>
+  </programme>
+  <programme start="20190112100000 -0600" stop="20190112103000 -0600" channel="CANAL UNO">
+    <title lang="es">Salud y vida</title>
+    <desc lang="es">Espacios informativos, periodísticos, humorísticos, series, telenovelas e infantiles(n)</desc>
+  </programme>
+  <programme start="20190112103000 -0600" stop="20190112110000 -0600" channel="CANAL UNO">
+    <title lang="es">Volvamos a Dios</title>
+    <desc lang="es">Programa religioso(n)</desc>
+  </programme>
+  <programme start="20190112110000 -0600" stop="20190112113000 -0600" channel="CANAL UNO">
+    <title lang="es">Dimensión cooperativa</title>
+    <desc lang="es">Programa a través del cual usted puede conocer todo lo que sucede con la Cooperativa(n)</desc>
+  </programme>
+  <programme start="20190112113000 -0600" stop="20190112120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190112120000 -0600" stop="20190112123000 -0600" channel="CANAL UNO">
+    <title lang="es">El lugar de su presencia</title>
+    <desc lang="es">Predicaciones, canciones de alabanza y adoración y mucho más(n)</desc>
+  </programme>
+  <programme start="20190112123000 -0600" stop="20190112130000 -0600" channel="CANAL UNO">
+    <title lang="es">Asi da gusto vivir</title>
+    <desc lang="es">Un mensaje de reflexión dedicado a la felicidad de todos(n)</desc>
+  </programme>
+  <programme start="20190112130000 -0600" stop="20190112133000 -0600" channel="CANAL UNO">
+    <title lang="es">Quality innova</title>
+    <desc lang="es">Temas de salud importantes para una mejor calidad de vida(n)</desc>
+  </programme>
+  <programme start="20190112133000 -0600" stop="20190112140000 -0600" channel="CANAL UNO">
+    <title lang="es">Salud y vida</title>
+    <desc lang="es">Espacios informativos, periodísticos, humorísticos, series, telenovelas e infantiles(n)</desc>
+  </programme>
+  <programme start="20190112140000 -0600" stop="20190112143000 -0600" channel="CANAL UNO">
+    <title lang="es">Ninja Warrior</title>
+    <desc lang="es">Una prueba de fuerza, 100 competidores van más allá de sus límites en una carrera de cuatro etapas(n)</desc>
+  </programme>
+  <programme start="20190112143000 -0600" stop="20190112153000 -0600" channel="CANAL UNO">
+    <title lang="es">Cazadores de tesoros</title>
+    <desc lang="es">Los chicos se encuentran en Kansas. En el camino tropiezan con una granja llena de cosas interesantes. Más adelante conocerán al experto en demoliciones Johnny Walker. Su colección los dejará boquiabiertos. Morris les demuestra a los chicos su buen estado de ánimo para negociar y los lleva a su vieja estación de servicio repleta de objetos de recuerdo(n)</desc>
+  </programme>
+  <programme start="20190112153000 -0600" stop="20190112163000 -0600" channel="CANAL UNO">
+    <title lang="es">Hombres de Honor</title>
+    <desc lang="es">Las historias de nuestros heroes "Los Soldados Colombianos"(n)</desc>
+  </programme>
+  <programme start="20190112163000 -0600" stop="20190112170000 -0600" channel="CANAL UNO">
+    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+    <desc lang="es">Programa educativo sobre el campo y el agro(n)</desc>
+  </programme>
+  <programme start="20190112170000 -0600" stop="20190112180000 -0600" channel="CANAL UNO">
+    <title lang="es">El show de las estrellas</title>
+    <desc lang="es">Programa musical producido, presentado y dirigido por el popular animador Jorge Barón(n)</desc>
+  </programme>
+  <programme start="20190112180000 -0600" stop="20190112183000 -0600" channel="CANAL UNO">
+    <title lang="es">El show de las estrellas</title>
+    <desc lang="es">Programa musical producido, presentado y dirigido por el popular animador Jorge Barón(n)</desc>
+  </programme>
+  <programme start="20190112183000 -0600" stop="20190112190000 -0600" channel="CANAL UNO">
+    <title lang="es">El show de las estrellas</title>
+    <desc lang="es">Programa musical producido, presentado y dirigido por el popular animador Jorge Barón(n)</desc>
+  </programme>
+  <programme start="20190112190000 -0600" stop="20190112194500 -0600" channel="CANAL UNO">
+    <title lang="es">Los ángeles de Juan</title>
+    <desc lang="es">Programa de opinión que trata temas variados de actualidad, con participación de las redes sociales(n)</desc>
+  </programme>
+  <programme start="20190112194500 -0600" stop="20190112200000 -0600" channel="CANAL UNO">
+    <title lang="es">Primer impacto</title>
+    <desc lang="es">Una revista con noticias sorprendentes y primicias de videos musicales de artistas populares(n)</desc>
+  </programme>
+  <programme start="20190112200000 -0600" stop="20190112212000 -0600" channel="CANAL UNO">
+    <title lang="es">Noticias Uno</title>
+    <desc lang="es">Se informa con veracidad e independencia los sucesos más importantes del país(n)</desc>
+  </programme>
+  <programme start="20190112212000 -0600" stop="20190112220000 -0600" channel="CANAL UNO">
+    <title lang="es">Visión de Fondo</title>
+    <desc lang="es">Espacio institucional del Fondo Nacional del Ahorro donde se presentan historias de emprendimiento, tenacidad y esfuerzo, demostrándole a los televidentes que por medio de la constancia se pueden alcanzar las metas(n)</desc>
+  </programme>
+  <programme start="20190112220000 -0600" stop="20190112230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
+  </programme>
+  <programme start="20190112230000 -0600" stop="20190113000000 -0600" channel="CANAL UNO">
+    <title lang="es">Musicales uno</title>
+    <desc lang="es">Un espacio para lo mejor de la música, los más destacados artistas y sus mejores conciertos y videoclips(n)</desc>
+  </programme>
+  <programme start="20190113000000 -0600" stop="20190113050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190113050000 -0600" stop="20190113053000 -0600" channel="CANAL UNO">
+    <title lang="es">Resumen: En las mañanas con Uno</title>
+    <desc lang="es">Un resumen del magazín matutino(n)</desc>
+  </programme>
+  <programme start="20190113053000 -0600" stop="20190113060000 -0600" channel="CANAL UNO">
+    <title lang="es">Asi da gusto vivir</title>
+    <desc lang="es">Un mensaje de reflexión dedicado a la felicidad de todos(n)</desc>
+  </programme>
+  <programme start="20190113060000 -0600" stop="20190113063000 -0600" channel="CANAL UNO">
+    <title lang="es">Actitud Positiva</title>
+    <desc lang="es">Se presenta diferentes propuestas de cambios de actitud para todas las edades(n)</desc>
+  </programme>
+  <programme start="20190113063000 -0600" stop="20190113070000 -0600" channel="CANAL UNO">
+    <title lang="es">Ninja Warrior</title>
+    <desc lang="es">Una prueba de fuerza, 100 competidores van más allá de sus límites en una carrera de cuatro etapas(n)</desc>
+  </programme>
+  <programme start="20190113070000 -0600" stop="20190113080000 -0600" channel="CANAL UNO">
+    <title lang="es">Él puede hacerlo de nuevo</title>
+    <desc lang="es">Predicaciones sobre la palabra de Dios(n)</desc>
+  </programme>
+  <programme start="20190113080000 -0600" stop="20190113090000 -0600" channel="CANAL UNO">
+    <title lang="es">Compras CDC</title>
+    <desc lang="es">Productos diversos y de interés para los consumidores del país(n)</desc>
+  </programme>
+  <programme start="20190113090000 -0600" stop="20190113093000 -0600" channel="CANAL UNO">
+    <title lang="es">Con Belisario por el Mundo</title>
+    <desc lang="es">Programa de promoción del turismo en Colombia y alternativas internacionales(n)</desc>
+  </programme>
+  <programme start="20190113093000 -0600" stop="20190113100000 -0600" channel="CANAL UNO">
+    <title lang="es">El lugar de su presencia</title>
+    <desc lang="es">Predicaciones, canciones de alabanza y adoración y mucho más(n)</desc>
+  </programme>
+  <programme start="20190113100000 -0600" stop="20190113103000 -0600" channel="CANAL UNO">
+    <title lang="es">Salud a su alcance</title>
+    <desc lang="es">Programa de salud(n)</desc>
+  </programme>
+  <programme start="20190113103000 -0600" stop="20190113110000 -0600" channel="CANAL UNO">
+    <title lang="es">La casa verde</title>
+  </programme>
+  <programme start="20190113110000 -0600" stop="20190113113000 -0600" channel="CANAL UNO">
+    <title lang="es">Proyectando a Colombia</title>
+    <desc lang="es">Fundación orientada a promover artistas Colombianos ante el mundo(n)</desc>
+  </programme>
+  <programme start="20190113113000 -0600" stop="20190113120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190113120000 -0600" stop="20190113123000 -0600" channel="CANAL UNO">
+    <title lang="es">Vida Natural</title>
+  </programme>
+  <programme start="20190113123000 -0600" stop="20190113130000 -0600" channel="CANAL UNO">
+    <title lang="es">Contrastes</title>
+    <desc lang="es">Espacio de comunicación de carácter nacional, que busca mostrar la otra realidad que no es contada por los medios masivos de televisión(n)</desc>
+  </programme>
+  <programme start="20190113130000 -0600" stop="20190113133000 -0600" channel="CANAL UNO">
+    <title lang="es">Vamos Colombia</title>
+    <desc lang="es">Programa de formato magazín del Ejercito Nacional de Colombia(n)</desc>
+  </programme>
+  <programme start="20190113133000 -0600" stop="20190113140000 -0600" channel="CANAL UNO">
+    <title lang="es">Salud y vida</title>
+    <desc lang="es">Espacios informativos, periodísticos, humorísticos, series, telenovelas e infantiles(n)</desc>
+  </programme>
+  <programme start="20190113140000 -0600" stop="20190113143000 -0600" channel="CANAL UNO">
+    <title lang="es">Ninja Warrior</title>
+    <desc lang="es">Una prueba de fuerza, 100 competidores van más allá de sus límites en una carrera de cuatro etapas(n)</desc>
+  </programme>
+  <programme start="20190113143000 -0600" stop="20190113153000 -0600" channel="CANAL UNO">
+    <title lang="es">Documentales de la BBC</title>
+    <desc lang="es">Los mejores documentales de la cadena BBC de Londres(n)</desc>
+  </programme>
+  <programme start="20190113153000 -0600" stop="20190113160000 -0600" channel="CANAL UNO">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">Las Estrellas de empeño se prepararan para la batalla, cuando les llegue a su tienda un submarino de un solo hombre. Y más tarde, los chicos conocerán a un hombre con la esperanza de vender su Ford Modelo T en miniatura(n)</desc>
+  </programme>
+  <programme start="20190113160000 -0600" stop="20190113163000 -0600" channel="CANAL UNO">
+    <title lang="es">Teleweb</title>
+    <desc lang="es">Productos y servicios en el área de sistemas, tecnología informática y telecomunicaciones(n)</desc>
+  </programme>
+  <programme start="20190113163000 -0600" stop="20190113170000 -0600" channel="CANAL UNO">
+    <title lang="es">Acciones que cambian el mundo</title>
+    <desc lang="es">Con pequeñas acciones podemos generar cambios, y de cambio en cambio el mundo mejorará(n)</desc>
+  </programme>
+  <programme start="20190113170000 -0600" stop="20190113180000 -0600" channel="CANAL UNO">
+    <title lang="es">El show de las estrellas</title>
+    <desc lang="es">Programa musical producido, presentado y dirigido por el popular animador Jorge Barón(n)</desc>
+  </programme>
+  <programme start="20190113180000 -0600" stop="20190113183000 -0600" channel="CANAL UNO">
+    <title lang="es">El show de las estrellas</title>
+    <desc lang="es">Programa musical producido, presentado y dirigido por el popular animador Jorge Barón(n)</desc>
+  </programme>
+  <programme start="20190113183000 -0600" stop="20190113193000 -0600" channel="CANAL UNO">
+    <title lang="es">El show de las estrellas</title>
+    <desc lang="es">Programa musical producido, presentado y dirigido por el popular animador Jorge Barón(n)</desc>
+  </programme>
+  <programme start="20190113193000 -0600" stop="20190113200000 -0600" channel="CANAL UNO">
+    <title lang="es">Primer impacto</title>
+    <desc lang="es">Una revista con noticias sorprendentes y primicias de videos musicales de artistas populares(n)</desc>
+  </programme>
+  <programme start="20190113200000 -0600" stop="20190113211500 -0600" channel="CANAL UNO">
+    <title lang="es">Noticias Uno</title>
+    <desc lang="es">Se informa con veracidad e independencia los sucesos más importantes del país(n)</desc>
+  </programme>
+  <programme start="20190113211500 -0600" stop="20190113220000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepolémica</title>
+    <desc lang="es">Programa que resalta la pasión por el fútbol(n)</desc>
+  </programme>
+  <programme start="20190113220000 -0600" stop="20190113223000 -0600" channel="CANAL UNO">
+    <title lang="es">Gatos Que Ladran</title>
+    <desc lang="es">El lado humano de grandes personajes del país, a través del diálogo placentero, un juego de luces y sombras que acompañan el transcurrir de la conversación(n)</desc>
+  </programme>
+  <programme start="20190113223000 -0600" stop="20190113233000 -0600" channel="CANAL UNO">
+    <title lang="es">Don Camilo</title>
+    <desc lang="es">Don Camilo fue una serie de televisión colombiana producida entre 1987 y 1988, basada en la versión original italiana creada por el italiano Giovanni Guareschi, donde se relatan las aventuras de un cura del pueblo y de un alcalde comunista Esta serie fue adaptada a los años en Colombia, época de violencia política(n)</desc>
+  </programme>
+  <programme start="20190113233000 -0600" stop="20190113233000 -0600" channel="CANAL UNO">
+    <title lang="es">Noticias Uno</title>
+    <desc lang="es">Se informa con veracidad e independencia los sucesos más importantes del país(n)</desc>
+  </programme>
+  <programme start="20190113233000 -0600" stop="20190114003000 -0600" channel="CANAL UNO">
+    <title lang="es">Noticias Uno</title>
+    <desc lang="es">Se informa con veracidad e independencia los sucesos más importantes del país(n)</desc>
+  </programme>
+  <programme start="20190114003000 -0600" stop="20190114050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190114050000 -0600" stop="20190114053000 -0600" channel="CANAL UNO">
+    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+    <desc lang="es">Programa educativo sobre el campo y el agro(n)</desc>
+  </programme>
+  <programme start="20190114053000 -0600" stop="20190114060000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190114060000 -0600" stop="20190114063000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190114063000 -0600" stop="20190114113000 -0600" channel="CANAL UNO">
+    <title lang="es">Las mañanas con uno</title>
+    <desc lang="es">Propuesta innovadora con una gran variedad de temas; noticias, deportes y entretenimiento, con invitados especiales y mucho más(n)</desc>
+  </programme>
+  <programme start="20190114113000 -0600" stop="20190114120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190114120000 -0600" stop="20190114130000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190114130000 -0600" stop="20190114133000 -0600" channel="CANAL UNO">
+    <title lang="es">Salud a su alcance</title>
+    <desc lang="es">Programa de salud(n)</desc>
+  </programme>
+  <programme start="20190114133000 -0600" stop="20190114140000 -0600" channel="CANAL UNO">
+    <title lang="es">WWB al día</title>
+    <desc lang="es">Programa del banco WWB dirigido a las pymes y microempresarios de Colombia(n)</desc>
+  </programme>
+  <programme start="20190114140000 -0600" stop="20190114150000 -0600" channel="CANAL UNO">
+    <title lang="es">Juntos a las 3</title>
+    <desc lang="es">El Magazine de las Tardes es un programa dirigido al bienestar en pareja(n)</desc>
+  </programme>
+  <programme start="20190114150000 -0600" stop="20190114160000 -0600" channel="CANAL UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
+  </programme>
+  <programme start="20190114160000 -0600" stop="20190114163000 -0600" channel="CANAL UNO">
+    <title lang="es">Actualidad científica</title>
+    <desc lang="es">Noticias y actualidad de la ciencia y avances científicos(n)</desc>
+  </programme>
+  <programme start="20190114163000 -0600" stop="20190114170000 -0600" channel="CANAL UNO">
+    <title lang="es">El camino antiguo</title>
+    <desc lang="es">Programa religioso(n)</desc>
+  </programme>
+  <programme start="20190114170000 -0600" stop="20190114173000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190114173000 -0600" stop="20190114180000 -0600" channel="CANAL UNO">
+    <title lang="es">Gente Pelota</title>
+    <desc lang="es">Ríete por montones con las mejores caídas y goles errados(n)</desc>
+  </programme>
+  <programme start="20190114180000 -0600" stop="20190114183000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190114183000 -0600" stop="20190114190000 -0600" channel="CANAL UNO">
+    <title lang="es">GPS</title>
+    <desc lang="es">Un recorrido por los lugares más bellos de Argentina(n)</desc>
+  </programme>
+  <programme start="20190114190000 -0600" stop="20190114193000 -0600" channel="CANAL UNO">
+    <title lang="es">Panorama</title>
+    <desc lang="es">Temas ligeros y serios a base de temas de actualidad política y social, notas de literatura y más(n)</desc>
+  </programme>
+  <programme start="20190114193000 -0600" stop="20190114200000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; Internacional</title>
+    <desc lang="es">Las últimas noticias de actualidad(n)</desc>
+  </programme>
+  <programme start="20190114200000 -0600" stop="20190114203000 -0600" channel="CANAL UNO">
+    <title lang="es">Pregunta Yamid</title>
+    <desc lang="es">Se discuten temas de actualidad política con análisis y entrevistas(n)</desc>
+  </programme>
+  <programme start="20190114203000 -0600" stop="20190114211500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190114211500 -0600" stop="20190114220500 -0600" channel="CANAL UNO">
+    <title lang="es">Veredicto</title>
+    <desc lang="es">Programa de los grandes debates nacionales(n)</desc>
+  </programme>
+  <programme start="20190114220500 -0600" stop="20190114223000 -0600" channel="CANAL UNO">
+    <title lang="es">Telehits</title>
+    <desc lang="es">Éxitos musicales(n)</desc>
+  </programme>
+  <programme start="20190114223000 -0600" stop="20190114230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
+  </programme>
+  <programme start="20190114230000 -0600" stop="20190114230000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190114230000 -0600" stop="20190115050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190115050000 -0600" stop="20190115053000 -0600" channel="CANAL UNO">
+    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+    <desc lang="es">Programa educativo sobre el campo y el agro(n)</desc>
+  </programme>
+  <programme start="20190115053000 -0600" stop="20190115060000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190115060000 -0600" stop="20190115063000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190115063000 -0600" stop="20190115113000 -0600" channel="CANAL UNO">
+    <title lang="es">Las mañanas con uno</title>
+    <desc lang="es">Propuesta innovadora con una gran variedad de temas; noticias, deportes y entretenimiento, con invitados especiales y mucho más(n)</desc>
+  </programme>
+  <programme start="20190115113000 -0600" stop="20190115120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190115120000 -0600" stop="20190115130000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190115130000 -0600" stop="20190115133000 -0600" channel="CANAL UNO">
+    <title lang="es">Actualidad científica</title>
+    <desc lang="es">Noticias y actualidad de la ciencia y avances científicos(n)</desc>
+  </programme>
+  <programme start="20190115133000 -0600" stop="20190115140000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190115140000 -0600" stop="20190115150000 -0600" channel="CANAL UNO">
+    <title lang="es">Juntos a las 3</title>
+    <desc lang="es">El Magazine de las Tardes es un programa dirigido al bienestar en pareja(n)</desc>
+  </programme>
+  <programme start="20190115150000 -0600" stop="20190115160000 -0600" channel="CANAL UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
+  </programme>
+  <programme start="20190115160000 -0600" stop="20190115163000 -0600" channel="CANAL UNO">
+    <title lang="es">Naturalmente Saludable</title>
+    <desc lang="es">Espacio diseñado para todos los que buscan una forma natural de vivir saludable para recuperar y mantener la salud y bienestar(n)</desc>
+  </programme>
+  <programme start="20190115163000 -0600" stop="20190115170000 -0600" channel="CANAL UNO">
+    <title lang="es">El camino antiguo</title>
+    <desc lang="es">Programa religioso(n)</desc>
+  </programme>
+  <programme start="20190115170000 -0600" stop="20190115173000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190115173000 -0600" stop="20190115180000 -0600" channel="CANAL UNO">
+    <title lang="es">Gente Pelota</title>
+    <desc lang="es">Ríete por montones con las mejores caídas y goles errados(n)</desc>
+  </programme>
+  <programme start="20190115180000 -0600" stop="20190115183000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190115183000 -0600" stop="20190115190000 -0600" channel="CANAL UNO">
+    <title lang="es">GPS</title>
+    <desc lang="es">Un recorrido por los lugares más bellos de Argentina(n)</desc>
+  </programme>
+  <programme start="20190115190000 -0600" stop="20190115193000 -0600" channel="CANAL UNO">
+    <title lang="es">Panorama</title>
+    <desc lang="es">Temas ligeros y serios a base de temas de actualidad política y social, notas de literatura y más(n)</desc>
+  </programme>
+  <programme start="20190115193000 -0600" stop="20190115200000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; Internacional</title>
+    <desc lang="es">Las últimas noticias de actualidad(n)</desc>
+  </programme>
+  <programme start="20190115200000 -0600" stop="20190115203000 -0600" channel="CANAL UNO">
+    <title lang="es">Pregunta Yamid</title>
+    <desc lang="es">Se discuten temas de actualidad política con análisis y entrevistas(n)</desc>
+  </programme>
+  <programme start="20190115203000 -0600" stop="20190115211500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190115211500 -0600" stop="20190115213000 -0600" channel="CANAL UNO">
+    <title lang="es">Hashtag</title>
+    <desc lang="es">Discusión de temas que trascienden fronteras, no solo físicas sino virtuales, utilizando Twitter para que todos puedan opinar, mediante el manejo de hashtags específicos según el tema(n)</desc>
+  </programme>
+  <programme start="20190115213000 -0600" stop="20190115223000 -0600" channel="CANAL UNO">
+    <title lang="es">Contraste debate</title>
+    <desc lang="es">Programa de opinión y debate sobre Bogotá, D.C(n)</desc>
+  </programme>
+  <programme start="20190115223000 -0600" stop="20190115230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
+  </programme>
+  <programme start="20190115230000 -0600" stop="20190115230000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190115230000 -0600" stop="20190116050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190116050000 -0600" stop="20190116053000 -0600" channel="CANAL UNO">
+    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+    <desc lang="es">Programa educativo sobre el campo y el agro(n)</desc>
+  </programme>
+  <programme start="20190116053000 -0600" stop="20190116060000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190116060000 -0600" stop="20190116063000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190116063000 -0600" stop="20190116113000 -0600" channel="CANAL UNO">
+    <title lang="es">En las mañanas con Uno</title>
+    <desc lang="es">Programa de formato magazín ideal para todo tipo de audiencias. Con boletines informativos, noticias de último momento y con temáticas relacionadas con salud, deporte, tips financieros, clima, cocina, educación, música, responsabilidad social, manualidades, vivienda, invitados, decoración, tendencias y actualidad(n)</desc>
+  </programme>
+  <programme start="20190116113000 -0600" stop="20190116120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190116120000 -0600" stop="20190116130000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190116130000 -0600" stop="20190116133000 -0600" channel="CANAL UNO">
+    <title lang="es">Naturalmente Saludable</title>
+    <desc lang="es">Espacio diseñado para todos los que buscan una forma natural de vivir saludable para recuperar y mantener la salud y bienestar(n)</desc>
+  </programme>
+  <programme start="20190116133000 -0600" stop="20190116140000 -0600" channel="CANAL UNO">
+    <title lang="es">Acciones que cambian el mundo</title>
+    <desc lang="es">Con pequeñas acciones podemos generar cambios, y de cambio en cambio el mundo mejorará(n)</desc>
+  </programme>
+  <programme start="20190116140000 -0600" stop="20190116150000 -0600" channel="CANAL UNO">
+    <title lang="es">Juntos a las 3</title>
+    <desc lang="es">El Magazine de las Tardes es un programa dirigido al bienestar en pareja(n)</desc>
+  </programme>
+  <programme start="20190116150000 -0600" stop="20190116160000 -0600" channel="CANAL UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
+  </programme>
+  <programme start="20190116160000 -0600" stop="20190116163000 -0600" channel="CANAL UNO">
+    <title lang="es">Actualidad científica</title>
+    <desc lang="es">Noticias y actualidad de la ciencia y avances científicos(n)</desc>
+  </programme>
+  <programme start="20190116163000 -0600" stop="20190116170000 -0600" channel="CANAL UNO">
+    <title lang="es">El camino antiguo</title>
+    <desc lang="es">El Hermano Eli Soriano habla sobre la fe, la religión y la Biblia(n)</desc>
+  </programme>
+  <programme start="20190116170000 -0600" stop="20190116173000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190116173000 -0600" stop="20190116180000 -0600" channel="CANAL UNO">
+    <title lang="es">Gente Pelota</title>
+    <desc lang="es">Ríete por montones con las mejores caídas y goles errados(n)</desc>
+  </programme>
+  <programme start="20190116180000 -0600" stop="20190116183000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190116183000 -0600" stop="20190116190000 -0600" channel="CANAL UNO">
+    <title lang="es">GPS</title>
+    <desc lang="es">Un recorrido por los lugares más bellos de Argentina(n)</desc>
+  </programme>
+  <programme start="20190116190000 -0600" stop="20190116193000 -0600" channel="CANAL UNO">
+    <title lang="es">Panorama</title>
+    <desc lang="es">Temas ligeros y serios a base de temas de actualidad política y social, notas de literatura y más(n)</desc>
+  </programme>
+  <programme start="20190116193000 -0600" stop="20190116200000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; Internacional</title>
+    <desc lang="es">Las últimas noticias de actualidad(n)</desc>
+  </programme>
+  <programme start="20190116200000 -0600" stop="20190116203000 -0600" channel="CANAL UNO">
+    <title lang="es">Pregunta Yamid</title>
+    <desc lang="es">Se discuten temas de actualidad política con análisis y entrevistas(n)</desc>
+  </programme>
+  <programme start="20190116203000 -0600" stop="20190116211500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190116211500 -0600" stop="20190116220000 -0600" channel="CANAL UNO">
+    <title lang="es">Los ángeles de Juan</title>
+    <desc lang="es">Programa de opinión que trata temas variados de actualidad, con participación de las redes sociales(n)</desc>
+  </programme>
+  <programme start="20190116220000 -0600" stop="20190116223000 -0600" channel="CANAL UNO">
+    <title lang="es">En Contacto</title>
+    <desc lang="es">Se reseña la labor social del Ejército Nacional en el occidente del país(n)</desc>
+  </programme>
+  <programme start="20190116223000 -0600" stop="20190116230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
+  </programme>
+  <programme start="20190116230000 -0600" stop="20190116230000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190116230000 -0600" stop="20190117050000 -0600" channel="CANAL UNO">
+    <title lang="es">Cierre de Transmisión</title>
+  </programme>
+  <programme start="20190117050000 -0600" stop="20190117053000 -0600" channel="CANAL UNO">
+    <title lang="es">Las Aventuras del Profesor Yarumo</title>
+    <desc lang="es">Programa educativo sobre el campo y el agro(n)</desc>
+  </programme>
+  <programme start="20190117053000 -0600" stop="20190117060000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190117060000 -0600" stop="20190117063000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190117063000 -0600" stop="20190117113000 -0600" channel="CANAL UNO">
+    <title lang="es">En las mañanas con Uno</title>
+    <desc lang="es">Programa de formato magazín ideal para todo tipo de audiencias. Con boletines informativos, noticias de último momento y con temáticas relacionadas con salud, deporte, tips financieros, clima, cocina, educación, música, responsabilidad social, manualidades, vivienda, invitados, decoración, tendencias y actualidad(n)</desc>
+  </programme>
+  <programme start="20190117113000 -0600" stop="20190117120000 -0600" channel="CANAL UNO">
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Programa noticioso, informativo, dinámico y de opinión(n)</desc>
+  </programme>
+  <programme start="20190117120000 -0600" stop="20190117130000 -0600" channel="CANAL UNO">
+    <title lang="es">La Revista</title>
+    <desc lang="es">Magazine en el que se tratan temas de salud, educación, moda, hogar, decoración, cultura y mucho más(n)</desc>
+  </programme>
+  <programme start="20190117130000 -0600" stop="20190117133000 -0600" channel="CANAL UNO">
+    <title lang="es">Actualidad científica</title>
+    <desc lang="es">Noticias y actualidad de la ciencia y avances científicos(n)</desc>
+  </programme>
+  <programme start="20190117133000 -0600" stop="20190117140000 -0600" channel="CANAL UNO">
+    <title lang="es">Acciones que cambian el mundo</title>
+    <desc lang="es">Con pequeñas acciones podemos generar cambios, y de cambio en cambio el mundo mejorará(n)</desc>
+  </programme>
+  <programme start="20190117140000 -0600" stop="20190117150000 -0600" channel="CANAL UNO">
+    <title lang="es">Juntos a las 3</title>
+    <desc lang="es">El Magazine de las Tardes es un programa dirigido al bienestar en pareja(n)</desc>
+  </programme>
+  <programme start="20190117150000 -0600" stop="20190117160000 -0600" channel="CANAL UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Dramatización de las historias que viven diferentes mujeres en su entorno social(n)</desc>
+  </programme>
+  <programme start="20190117160000 -0600" stop="20190117163000 -0600" channel="CANAL UNO">
+    <title lang="es">Quality innova</title>
+    <desc lang="es">Temas de salud importantes para una mejor calidad de vida(n)</desc>
+  </programme>
+  <programme start="20190117163000 -0600" stop="20190117170000 -0600" channel="CANAL UNO">
+    <title lang="es">El camino antiguo</title>
+    <desc lang="es">El Hermano Eli Soriano habla sobre la fe, la religión y la Biblia(n)</desc>
+  </programme>
+  <programme start="20190117170000 -0600" stop="20190117173000 -0600" channel="CANAL UNO">
+    <title lang="es">Agricultura al día</title>
+    <desc lang="es">Se abordan temas correspondientes al funcionamiento del Ministerio de Agricultura(n)</desc>
+  </programme>
+  <programme start="20190117173000 -0600" stop="20190117180000 -0600" channel="CANAL UNO">
+    <title lang="es">Gente Pelota</title>
+    <desc lang="es">Ríete por montones con las mejores caídas y goles errados(n)</desc>
+  </programme>
+  <programme start="20190117180000 -0600" stop="20190117183000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190117183000 -0600" stop="20190117190000 -0600" channel="CANAL UNO">
+    <title lang="es">GPS</title>
+    <desc lang="es">Un recorrido por los lugares más bellos de Argentina(n)</desc>
+  </programme>
+  <programme start="20190117190000 -0600" stop="20190117193000 -0600" channel="CANAL UNO">
+    <title lang="es">Panorama</title>
+    <desc lang="es">Temas ligeros y serios a base de temas de actualidad política y social, notas de literatura y más(n)</desc>
+  </programme>
+  <programme start="20190117193000 -0600" stop="20190117200000 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; Internacional</title>
+    <desc lang="es">Las últimas noticias de actualidad(n)</desc>
+  </programme>
+  <programme start="20190117200000 -0600" stop="20190117203000 -0600" channel="CANAL UNO">
+    <title lang="es">Pregunta Yamid</title>
+    <desc lang="es">Se discuten temas de actualidad política con análisis y entrevistas(n)</desc>
+  </programme>
+  <programme start="20190117203000 -0600" stop="20190117211500 -0600" channel="CANAL UNO">
+    <title lang="es">CM&amp; La Noticia</title>
+    <desc lang="es">Programa que cuenta con una amplia trayectoria en la cobertura de noticias(n)</desc>
+  </programme>
+  <programme start="20190117211500 -0600" stop="20190117213000 -0600" channel="CANAL UNO">
+    <title lang="es">Hashtag</title>
+    <desc lang="es">Discusión de temas que trascienden fronteras, no solo físicas sino virtuales, utilizando Twitter para que todos puedan opinar, mediante el manejo de hashtags específicos según el tema(n)</desc>
+  </programme>
+  <programme start="20190117213000 -0600" stop="20190117220000 -0600" channel="CANAL UNO">
+    <title lang="es">Veredicto</title>
+    <desc lang="es">Programa de los grandes debates nacionales(n)</desc>
+  </programme>
+  <programme start="20190117220000 -0600" stop="20190117223000 -0600" channel="CANAL UNO">
+    <title lang="es">Telehits</title>
+    <desc lang="es">Éxitos musicales(n)</desc>
+  </programme>
+  <programme start="20190117223000 -0600" stop="20190117230000 -0600" channel="CANAL UNO">
+    <title lang="es">Hablando de vida</title>
+    <desc lang="es">Se discuten diversos temas de interés(n)</desc>
   </programme>
 </tv>
