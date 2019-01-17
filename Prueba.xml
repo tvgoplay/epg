@@ -1,0 +1,2302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal ¡Hola! TV">
+    <display-name lang="es">Canal ¡Hola! TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/hola_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox">
+    <display-name lang="es">Canal Fox</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/fox-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Action (Este)">
+    <display-name lang="es">Canal Fox Action (Este)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_action_este-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Action (Oeste)">
+    <display-name lang="es">Canal Fox Action (Oeste)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_action_oeste-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Action HD">
+    <display-name lang="es">Canal Fox Action HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_action_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Cinema">
+    <display-name lang="es">Canal Fox Cinema</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_cinema-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Classics">
+    <display-name lang="es">Canal Fox Classics</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_classics-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Comedy Latinoamérica">
+    <display-name lang="es">Canal Fox Comedy Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_comedy_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Deportes">
+    <display-name lang="es">Canal Fox Deportes</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/fox_deportes-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Family">
+    <display-name lang="es">Canal Fox Family</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox HD">
+    <display-name lang="es">Canal Fox HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Life">
+    <display-name lang="es">Canal Fox Life</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/fox_life-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Movies">
+    <display-name lang="es">Canal Fox Movies</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_movies-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Movies HD">
+    <display-name lang="es">Canal Fox Movies HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_movies_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ultra Cine">
+    <display-name lang="es">Canal Ultra Cine</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_cine-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ultra Docu">
+    <display-name lang="es">Canal Ultra Docu</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_docu-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ultra Fiesta">
+    <display-name lang="es">Canal Ultra Fiesta</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_fiesta-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ultra Film">
+    <display-name lang="es">Canal Ultra Film</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_film-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ultra Kidz">
+    <display-name lang="es">Canal Ultra Kidz</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_kidz-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ultra Tainment">
+    <display-name lang="es">Canal Ultra Tainment</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_tainment-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20190117010000 -0300" stop="20190117013000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">HolaTV</title>
+  </programme>
+  <programme start="20190117013000 -0300" stop="20190117030000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">La Hora Hola</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Cómo vive la otra mitad</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Cómo vive la otra mitad</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117073000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">La Hora Hola</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117080000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">HolaTV</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117093000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">La Hora Hola</title>
+  </programme>
+  <programme start="20190117093000 -0300" stop="20190117100000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117113000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117113000 -0300" stop="20190117120000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Videofashion News</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117133000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">La Hora Hola</title>
+  </programme>
+  <programme start="20190117133000 -0300" stop="20190117143000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190117143000 -0300" stop="20190117150000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117153000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20190117153000 -0300" stop="20190117163000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20190117163000 -0300" stop="20190117170000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Videofashion: Designers</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Hola LA</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117183000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20190117183000 -0300" stop="20190117190000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117193000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
+  <programme start="20190117193000 -0300" stop="20190117200000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Casas diseño y estilo</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117203000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Vídeo Fashion - Specials</title>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117210000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117213000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Rachel Hunter: Belleza Alrededor del Mundo</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117223000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190118000000 -0300" channel="Canal ¡Hola! TV">
+    <title lang="es">La Hora Hola</title>
+  </programme>
+  <programme start="20190117000800 -0300" stop="20190117003300 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S4-Ep23</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S4-Ep23</episode-num>
+  </programme>
+  <programme start="20190117003300 -0300" stop="20190117010000 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S7-Ep23</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S7-Ep23</episode-num>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117030600 -0300" channel="Canal Fox">
+    <title lang="es">¡Mujeres al Ataque!</title>
+  </programme>
+  <programme start="20190117030600 -0300" stop="20190117033000 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S4-Ep17</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S4-Ep17</episode-num>
+  </programme>
+  <programme start="20190117033000 -0300" stop="20190117035600 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S7-Ep17</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S7-Ep17</episode-num>
+  </programme>
+  <programme start="20190117035600 -0300" stop="20190117071400 -0300" channel="Canal Fox">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20190117071400 -0300" stop="20190117085400 -0300" channel="Canal Fox">
+    <title lang="es">Las novias de mis amigos</title>
+  </programme>
+  <programme start="20190117085400 -0300" stop="20190117100000 -0300" channel="Canal Fox">
+    <title lang="es">Cumbia Ninja</title>
+    <sub-title lang="es">S3-Ep9</sub-title>
+    <episode-num>S3-Ep9</episode-num>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Canal Fox">
+    <title lang="es">The Mick</title>
+    <sub-title lang="es">S1-Ep3</sub-title>
+    <episode-num>S1-Ep3</episode-num>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="Canal Fox">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117112900 -0300" channel="Canal Fox">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117112900 -0300" stop="20190117120000 -0300" channel="Canal Fox">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117122900 -0300" channel="Canal Fox">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117122900 -0300" stop="20190117130000 -0300" channel="Canal Fox">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117143800 -0300" channel="Canal Fox">
+    <title lang="es">Megamente</title>
+    <desc lang="es">Megamente es un súper villano que logra deshacerse de su archienemigo "Metro Man" y ahora puede conquistar libremente Metro City(n)</desc>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <category lang="es">Infantil</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/megamente.jpg" />
+  </programme>
+  <programme start="20190117143800 -0300" stop="20190117150600 -0300" channel="Canal Fox">
+    <title lang="es">Los secretos de los cinco</title>
+  </programme>
+  <programme start="20190117150600 -0300" stop="20190117152400 -0300" channel="Canal Fox">
+    <title lang="es">Kung Fu Panda: Los Secretos</title>
+  </programme>
+  <programme start="20190117152400 -0300" stop="20190117154800 -0300" channel="Canal Fox">
+    <title lang="es">Futurama</title>
+    <sub-title lang="es">S4-Ep4</sub-title>
+    <episode-num>S4-Ep4</episode-num>
+  </programme>
+  <programme start="20190117154800 -0300" stop="20190117160700 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S28-Ep6</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S28-Ep6</episode-num>
+  </programme>
+  <programme start="20190117160700 -0300" stop="20190117170000 -0300" channel="Canal Fox">
+    <title lang="es">The Gifted</title>
+    <title lang="xx">The Gifted</title>
+    <sub-title lang="es">S2-Ep10</sub-title>
+    <desc lang="es">Una familia descubre que sus hijos adolescentes poseen poderes mutantes.  Forzados a huir buscan la ayuda de una red clandestina de mutantes(n)</desc>
+    <credits>
+      <actor>Stephen Moyer</actor>
+      <actor>Amy Acker</actor>
+      <actor>Sean Teale</actor>
+      <actor>Natalie Alyn Lind</actor>
+      <actor>Percy Hynes White</actor>
+      <actor>Coby Bell</actor>
+      <actor>Jamie Chung</actor>
+      <actor>Blair Redford</actor>
+      <actor>Emma Dumont</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Elena Satine</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_gifted.jpg" />
+    <episode-num>S2-Ep10</episode-num>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117185700 -0300" channel="Canal Fox">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20190117185700 -0300" stop="20190117195000 -0300" channel="Canal Fox">
+    <title lang="es">9-1-1</title>
+    <title lang="xx">9-1-1</title>
+    <sub-title lang="es">S1-Ep7</sub-title>
+    <desc lang="es">Explorando las experiencias vividas de policías, paramédicos y bomberos en su día a día mientras atienden las llamadas de auxilio(n)</desc>
+    <credits>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Aisha Hinds</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Connie Britton</actor>
+      <producer>Robert M. Williams Jr.</producer>
+      <producer>Matt Hodgson</producer>
+      <producer>Erica L. Anderson</producer>
+      <producer>Adam Penn</producer>
+      <producer>Eryn Krueger Mekash</producer>
+      <producer>Lou Eyrich</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/9-1-1.jpg" />
+    <episode-num>S1-Ep7</episode-num>
+  </programme>
+  <programme start="20190117195000 -0300" stop="20190117201400 -0300" channel="Canal Fox">
+    <title lang="es">Futurama</title>
+    <sub-title lang="es">S4-Ep11</sub-title>
+    <episode-num>S4-Ep11</episode-num>
+  </programme>
+  <programme start="20190117201400 -0300" stop="20190117203800 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S28-Ep16</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S28-Ep16</episode-num>
+  </programme>
+  <programme start="20190117203800 -0300" stop="20190117222500 -0300" channel="Canal Fox">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20190117222500 -0300" stop="20190117225000 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S8-Ep11</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S8-Ep11</episode-num>
+  </programme>
+  <programme start="20190117225000 -0300" stop="20190117231500 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S11-Ep1</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S11-Ep1</episode-num>
+  </programme>
+  <programme start="20190117231500 -0300" stop="20190117234000 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S11-Ep8</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S11-Ep8</episode-num>
+  </programme>
+  <programme start="20190117234000 -0300" stop="20190118000700 -0300" channel="Canal Fox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S8-Ep18</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S8-Ep18</episode-num>
+  </programme>
+  <programme start="20190117014400 -0300" stop="20190117032600 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20190117032600 -0300" stop="20190117050000 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117063900 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">El asesino del alfabeto</title>
+  </programme>
+  <programme start="20190117063900 -0300" stop="20190117080500 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">La posesión</title>
+  </programme>
+  <programme start="20190117080500 -0300" stop="20190117092200 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">American Muscle</title>
+  </programme>
+  <programme start="20190117092200 -0300" stop="20190117105000 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Larvas Asesinas</title>
+  </programme>
+  <programme start="20190117105000 -0300" stop="20190117121500 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Supremacía robot</title>
+  </programme>
+  <programme start="20190117121500 -0300" stop="20190117134100 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Operator</title>
+  </programme>
+  <programme start="20190117134100 -0300" stop="20190117151100 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Cyborg X</title>
+  </programme>
+  <programme start="20190117151100 -0300" stop="20190117164200 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Un marido en la sombra</title>
+  </programme>
+  <programme start="20190117164200 -0300" stop="20190117181500 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Alien vs. Depredador</title>
+  </programme>
+  <programme start="20190117181500 -0300" stop="20190117195400 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">El Gringo</title>
+  </programme>
+  <programme start="20190117195400 -0300" stop="20190117220000 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Miami Vice</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117234900 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">Ven y encuentrame</title>
+  </programme>
+  <programme start="20190117234900 -0300" stop="20190118014300 -0300" channel="Canal Fox Action (Este)">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117022700 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">El Guardaespaldas</title>
+  </programme>
+  <programme start="20190117022700 -0300" stop="20190117042100 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Sr. y Sra. Smith</title>
+  </programme>
+  <programme start="20190117042100 -0300" stop="20190117060300 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">El planeta de los simios evolución</title>
+  </programme>
+  <programme start="20190117060300 -0300" stop="20190117074600 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20190117074600 -0300" stop="20190117092000 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">El asesino del alfabeto</title>
+  </programme>
+  <programme start="20190117092000 -0300" stop="20190117103700 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">American Muscle</title>
+  </programme>
+  <programme start="20190117103700 -0300" stop="20190117120400 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Larvas Asesinas</title>
+  </programme>
+  <programme start="20190117120400 -0300" stop="20190117133600 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">A Killer Walks Amongst Us</title>
+  </programme>
+  <programme start="20190117133600 -0300" stop="20190117150700 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Un marido en la sombra</title>
+  </programme>
+  <programme start="20190117150700 -0300" stop="20190117163600 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Cyborg X</title>
+  </programme>
+  <programme start="20190117163600 -0300" stop="20190117181000 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20190117181000 -0300" stop="20190117194100 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Supremacía robot</title>
+  </programme>
+  <programme start="20190117194100 -0300" stop="20190117211400 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Alien vs. Depredador</title>
+  </programme>
+  <programme start="20190117211400 -0300" stop="20190117225300 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">El Gringo</title>
+  </programme>
+  <programme start="20190117225300 -0300" stop="20190118010000 -0300" channel="Canal Fox Action (Oeste)">
+    <title lang="es">Miami Vice</title>
+  </programme>
+  <programme start="20190117012100 -0300" stop="20190117030300 -0300" channel="Canal Fox Action HD">
+    <title lang="es">El planeta de los simios evolución</title>
+  </programme>
+  <programme start="20190117030300 -0300" stop="20190117044600 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20190117044600 -0300" stop="20190117062000 -0300" channel="Canal Fox Action HD">
+    <title lang="es">El asesino del alfabeto</title>
+  </programme>
+  <programme start="20190117062000 -0300" stop="20190117073700 -0300" channel="Canal Fox Action HD">
+    <title lang="es">American Muscle</title>
+  </programme>
+  <programme start="20190117073700 -0300" stop="20190117090400 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Larvas Asesinas</title>
+  </programme>
+  <programme start="20190117090400 -0300" stop="20190117103600 -0300" channel="Canal Fox Action HD">
+    <title lang="es">A Killer Walks Amongst Us</title>
+  </programme>
+  <programme start="20190117103600 -0300" stop="20190117120700 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Un marido en la sombra</title>
+  </programme>
+  <programme start="20190117120700 -0300" stop="20190117133600 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Cyborg X</title>
+  </programme>
+  <programme start="20190117133600 -0300" stop="20190117151000 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20190117151000 -0300" stop="20190117164100 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Supremacía robot</title>
+  </programme>
+  <programme start="20190117164100 -0300" stop="20190117181400 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Alien vs. Depredador</title>
+  </programme>
+  <programme start="20190117181400 -0300" stop="20190117195300 -0300" channel="Canal Fox Action HD">
+    <title lang="es">El Gringo</title>
+  </programme>
+  <programme start="20190117195300 -0300" stop="20190117220000 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Miami Vice</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190118000800 -0300" channel="Canal Fox Action HD">
+    <title lang="es">Ven y encuentrame</title>
+  </programme>
+  <programme start="20190117014300 -0300" stop="20190117034600 -0300" channel="Canal Fox Cinema">
+    <title lang="es">La Excepción a la Regla</title>
+  </programme>
+  <programme start="20190117034600 -0300" stop="20190117051600 -0300" channel="Canal Fox Cinema">
+    <title lang="es">El Viajante</title>
+    <title lang="xx">Forushande</title>
+    <desc lang="es">Una pareja es forzada a mudarse de su antiguo apartamento en ruinas, sin embargo, un repentino ataque de violencia está ligada a su antiguo inquilino(n)</desc>
+    <credits>
+      <actor>Shahab Hosseini</actor>
+      <actor>Taraneh Alidoosti</actor>
+      <producer>Alexandre Mallet-Guy</producer>
+      <producer>Asghar Farhadi</producer>
+      <composer>Sattar Oraki</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_cliente_2016.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190117051600 -0300" stop="20190117062500 -0300" channel="Canal Fox Cinema">
+    <title lang="es">La verdad sobre Emanuel</title>
+  </programme>
+  <programme start="20190117062500 -0300" stop="20190117084000 -0300" channel="Canal Fox Cinema">
+    <title lang="es">El movimiento</title>
+  </programme>
+  <programme start="20190117084000 -0300" stop="20190117101200 -0300" channel="Canal Fox Cinema">
+    <title lang="es">Segunda piel</title>
+  </programme>
+  <programme start="20190117101200 -0300" stop="20190117112700 -0300" channel="Canal Fox Cinema">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20190117112700 -0300" stop="20190117131700 -0300" channel="Canal Fox Cinema">
+    <title lang="es">Las analfabetas</title>
+  </programme>
+  <programme start="20190117131700 -0300" stop="20190117144500 -0300" channel="Canal Fox Cinema">
+    <title lang="es">El mismo amor, la misma lluvia</title>
+  </programme>
+  <programme start="20190117144500 -0300" stop="20190117164000 -0300" channel="Canal Fox Cinema">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190117164000 -0300" stop="20190117183900 -0300" channel="Canal Fox Cinema">
+    <title lang="es">El ciudadano ilustre</title>
+  </programme>
+  <programme start="20190117183900 -0300" stop="20190117201300 -0300" channel="Canal Fox Cinema">
+    <title lang="es">La Habitación</title>
+  </programme>
+  <programme start="20190117201300 -0300" stop="20190117220000 -0300" channel="Canal Fox Cinema">
+    <title lang="es">Pyromaniac</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117235100 -0300" channel="Canal Fox Cinema">
+    <title lang="es">Nahid</title>
+  </programme>
+  <programme start="20190117235100 -0300" stop="20190118013000 -0300" channel="Canal Fox Cinema">
+    <title lang="es">Frantz</title>
+  </programme>
+  <programme start="20190117013400 -0300" stop="20190117032800 -0300" channel="Canal Fox Classics">
+    <title lang="es">El espía que vino del frío</title>
+  </programme>
+  <programme start="20190117032800 -0300" stop="20190117045700 -0300" channel="Canal Fox Classics">
+    <title lang="es">Pánico en el Transiberiano</title>
+  </programme>
+  <programme start="20190117045700 -0300" stop="20190117062800 -0300" channel="Canal Fox Classics">
+    <title lang="es">The Mad Bomber</title>
+  </programme>
+  <programme start="20190117062800 -0300" stop="20190117081600 -0300" channel="Canal Fox Classics">
+    <title lang="es">Robin y Marian</title>
+  </programme>
+  <programme start="20190117081600 -0300" stop="20190117101200 -0300" channel="Canal Fox Classics">
+    <title lang="es">Negocios de Familia</title>
+  </programme>
+  <programme start="20190117101200 -0300" stop="20190117121300 -0300" channel="Canal Fox Classics">
+    <title lang="es">El hombre del brazo de oro</title>
+  </programme>
+  <programme start="20190117121300 -0300" stop="20190117140700 -0300" channel="Canal Fox Classics">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20190117140700 -0300" stop="20190117154300 -0300" channel="Canal Fox Classics">
+    <title lang="es">El Sobreviviente</title>
+  </programme>
+  <programme start="20190117154300 -0300" stop="20190117173400 -0300" channel="Canal Fox Classics">
+    <title lang="es">Beautiful girls</title>
+  </programme>
+  <programme start="20190117173400 -0300" stop="20190117192200 -0300" channel="Canal Fox Classics">
+    <title lang="es">Mi vida como hijo</title>
+  </programme>
+  <programme start="20190117192200 -0300" stop="20190117210000 -0300" channel="Canal Fox Classics">
+    <title lang="es">Los malos</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117231200 -0300" channel="Canal Fox Classics">
+    <title lang="es">Nevada Smith</title>
+  </programme>
+  <programme start="20190117231200 -0300" stop="20190118011300 -0300" channel="Canal Fox Classics">
+    <title lang="es">Contacto en Francia II</title>
+  </programme>
+  <programme start="20190117012300 -0300" stop="20190117025100 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Growing Up and Other Lies</title>
+  </programme>
+  <programme start="20190117025100 -0300" stop="20190117042600 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Los Pequeños Focker</title>
+    <desc lang="es">Greg se encuentra con problemas de dinero, toma un trabajo clandestino para una empresa farmacéutica, pero su suegro tiene sus sospechas(n)</desc>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_pequenos_focker.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190117042600 -0300" stop="20190117055200 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">American Summer</title>
+  </programme>
+  <programme start="20190117055200 -0300" stop="20190117080700 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Siete semillas</title>
+  </programme>
+  <programme start="20190117080700 -0300" stop="20190117092800 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Bikini model academy</title>
+  </programme>
+  <programme start="20190117092800 -0300" stop="20190117105500 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">¿Quién mató a Bambi?</title>
+  </programme>
+  <programme start="20190117105500 -0300" stop="20190117123000 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">The Sapphires</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117140300 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20190117140300 -0300" stop="20190117160200 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Loco por Mary</title>
+    <desc lang="es">Ted tiene la oportunidad de conocer a su chica de los sueños de adolescente, a pesar de que su cita con ella en ese entonces fue un total desastre(n)</desc>
+    <credits>
+      <actor>Cameron Diaz</actor>
+      <actor>Matt Dillon</actor>
+      <actor>Ben Stiller</actor>
+      <actor>Chris Elliott</actor>
+      <actor>Lee Evans</actor>
+      <producer>Michael Steinberg</producer>
+      <producer>Bradley Thomas</producer>
+      <producer>Charles B. Wessler</producer>
+      <producer>Frank Beddor</producer>
+      <composer>Jonathan Richman</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/loco_por_mary.png" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190117160200 -0300" stop="20190117173300 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Wilson</title>
+  </programme>
+  <programme start="20190117173300 -0300" stop="20190117185900 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Hot rod, saltando el destino</title>
+  </programme>
+  <programme start="20190117185900 -0300" stop="20190117202700 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Goodbye, Berlín</title>
+  </programme>
+  <programme start="20190117202700 -0300" stop="20190117220000 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Pearl in Paradise</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117232500 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Mesa 19</title>
+  </programme>
+  <programme start="20190117232500 -0300" stop="20190118005500 -0300" channel="Canal Fox Comedy Latinoamérica">
+    <title lang="es">Rubia y explosiva</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117020000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117063000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117063000 -0300" stop="20190117070000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117073000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117080000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117083000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117083000 -0300" stop="20190117090000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117110000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117120000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117130000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117160000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117170000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">2018: Seattle Sounders FC vs. Portland Timbers</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">2018: New York Red Bulls vs. Columbus Crew SC</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117190000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117220000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117230000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">2015-2016: Wolfsburg vs. Bayer 04 Leverkusen</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190118000000 -0300" channel="Canal Fox Deportes">
+    <title lang="es">2018: New York Red Bulls vs. Atlanta United FC</title>
+  </programme>
+  <programme start="20190117002100 -0300" stop="20190117014600 -0300" channel="Canal Fox Family">
+    <title lang="es">El pincel mágico</title>
+  </programme>
+  <programme start="20190117014600 -0300" stop="20190117033000 -0300" channel="Canal Fox Family">
+    <title lang="es">Un vuelco del corazón</title>
+  </programme>
+  <programme start="20190117033000 -0300" stop="20190117051700 -0300" channel="Canal Fox Family">
+    <title lang="es">A rising tide</title>
+  </programme>
+  <programme start="20190117051700 -0300" stop="20190117071000 -0300" channel="Canal Fox Family">
+    <title lang="es">Arresto domiciliario</title>
+  </programme>
+  <programme start="20190117071000 -0300" stop="20190117083700 -0300" channel="Canal Fox Family">
+    <title lang="es">Zeus el súper perro</title>
+  </programme>
+  <programme start="20190117083700 -0300" stop="20190117100300 -0300" channel="Canal Fox Family">
+    <title lang="es">Doce regalos de Navidad</title>
+  </programme>
+  <programme start="20190117100300 -0300" stop="20190117114600 -0300" channel="Canal Fox Family">
+    <title lang="es">The Cup</title>
+  </programme>
+  <programme start="20190117114600 -0300" stop="20190117131500 -0300" channel="Canal Fox Family">
+    <title lang="es">Tripulación Dave</title>
+  </programme>
+  <programme start="20190117131500 -0300" stop="20190117144000 -0300" channel="Canal Fox Family">
+    <title lang="es">A royal winter</title>
+  </programme>
+  <programme start="20190117144000 -0300" stop="20190117161100 -0300" channel="Canal Fox Family">
+    <title lang="es">Megamente</title>
+    <desc lang="es">Megamente es un súper villano que logra deshacerse de su archienemigo "Metro Man" y ahora puede conquistar libremente Metro City(n)</desc>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <category lang="es">Infantil</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/megamente.jpg" />
+  </programme>
+  <programme start="20190117161100 -0300" stop="20190117173900 -0300" channel="Canal Fox Family">
+    <title lang="es">El viaje fantástico a Oz</title>
+  </programme>
+  <programme start="20190117173900 -0300" stop="20190117192400 -0300" channel="Canal Fox Family">
+    <title lang="es">Un despertar glorioso</title>
+  </programme>
+  <programme start="20190117192400 -0300" stop="20190117210000 -0300" channel="Canal Fox Family">
+    <title lang="es">Rock It</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117224500 -0300" channel="Canal Fox Family">
+    <title lang="es">Mamma Mia!</title>
+    <title lang="xx">Mamma Mia!</title>
+    <desc lang="es">Sophie tiene un solo deseo para que su boda sea perfecta: que su padre la acompañe al altar. ahora sólo tiene que descubrir quién es(n)</desc>
+    <credits>
+      <actor>Amanda Seyfried</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Nancy Baldwin</actor>
+      <actor>Colin Firth</actor>
+      <actor>Heather Emmanuel</actor>
+      <actor>Colin Davis</actor>
+      <actor>Rachel McDowall</actor>
+      <actor>Ashley Lilley</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Julie Walters</actor>
+      <actor>Christine Baranski</actor>
+      <actor>Ricardo Montez</actor>
+      <actor>Mia Soteriou</actor>
+      <actor>Enzo Squillino Jr.</actor>
+      <producer>Judy Craymer</producer>
+      <producer>Gary Goetzman</producer>
+      <composer>Benny Andersson</composer>
+      <composer>Björn Ulvaeus</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Música</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mamma_mia.jpg" />
+    <country>Alemania</country>
+    <country>Reino Unido</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20190117224500 -0300" stop="20190118000800 -0300" channel="Canal Fox Family">
+    <title lang="es">El gato con botas</title>
+  </programme>
+  <programme start="20190117000800 -0300" stop="20190117003300 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S4-Ep23</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S4-Ep23</episode-num>
+  </programme>
+  <programme start="20190117003300 -0300" stop="20190117010000 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S7-Ep23</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S7-Ep23</episode-num>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117030600 -0300" channel="Canal Fox HD">
+    <title lang="es">¡Mujeres al Ataque!</title>
+  </programme>
+  <programme start="20190117030600 -0300" stop="20190117033000 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S4-Ep17</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S4-Ep17</episode-num>
+  </programme>
+  <programme start="20190117033000 -0300" stop="20190117035600 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S7-Ep17</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S7-Ep17</episode-num>
+  </programme>
+  <programme start="20190117035600 -0300" stop="20190117071400 -0300" channel="Canal Fox HD">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20190117071400 -0300" stop="20190117085400 -0300" channel="Canal Fox HD">
+    <title lang="es">Las novias de mis amigos</title>
+  </programme>
+  <programme start="20190117085400 -0300" stop="20190117100000 -0300" channel="Canal Fox HD">
+    <title lang="es">Cumbia Ninja</title>
+    <sub-title lang="es">S3-Ep9</sub-title>
+    <episode-num>S3-Ep9</episode-num>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Canal Fox HD">
+    <title lang="es">The Mick</title>
+    <sub-title lang="es">S1-Ep3</sub-title>
+    <episode-num>S1-Ep3</episode-num>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="Canal Fox HD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117112900 -0300" channel="Canal Fox HD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117112900 -0300" stop="20190117120000 -0300" channel="Canal Fox HD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117122900 -0300" channel="Canal Fox HD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117122900 -0300" stop="20190117130000 -0300" channel="Canal Fox HD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117143800 -0300" channel="Canal Fox HD">
+    <title lang="es">Megamente</title>
+    <desc lang="es">Megamente es un súper villano que logra deshacerse de su archienemigo "Metro Man" y ahora puede conquistar libremente Metro City(n)</desc>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <category lang="es">Infantil</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/megamente.jpg" />
+  </programme>
+  <programme start="20190117143800 -0300" stop="20190117150600 -0300" channel="Canal Fox HD">
+    <title lang="es">Los secretos de los cinco</title>
+  </programme>
+  <programme start="20190117150600 -0300" stop="20190117152400 -0300" channel="Canal Fox HD">
+    <title lang="es">Kung Fu Panda: Los Secretos</title>
+  </programme>
+  <programme start="20190117152400 -0300" stop="20190117154800 -0300" channel="Canal Fox HD">
+    <title lang="es">Futurama</title>
+    <sub-title lang="es">S4-Ep4</sub-title>
+    <episode-num>S4-Ep4</episode-num>
+  </programme>
+  <programme start="20190117154800 -0300" stop="20190117160700 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S28-Ep6</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S28-Ep6</episode-num>
+  </programme>
+  <programme start="20190117160700 -0300" stop="20190117170000 -0300" channel="Canal Fox HD">
+    <title lang="es">The Gifted</title>
+    <title lang="xx">The Gifted</title>
+    <sub-title lang="es">S2-Ep10</sub-title>
+    <desc lang="es">Una familia descubre que sus hijos adolescentes poseen poderes mutantes.  Forzados a huir buscan la ayuda de una red clandestina de mutantes(n)</desc>
+    <credits>
+      <actor>Stephen Moyer</actor>
+      <actor>Amy Acker</actor>
+      <actor>Sean Teale</actor>
+      <actor>Natalie Alyn Lind</actor>
+      <actor>Percy Hynes White</actor>
+      <actor>Coby Bell</actor>
+      <actor>Jamie Chung</actor>
+      <actor>Blair Redford</actor>
+      <actor>Emma Dumont</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Elena Satine</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_gifted.jpg" />
+    <episode-num>S2-Ep10</episode-num>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117185700 -0300" channel="Canal Fox HD">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20190117185700 -0300" stop="20190117195000 -0300" channel="Canal Fox HD">
+    <title lang="es">9-1-1</title>
+    <title lang="xx">9-1-1</title>
+    <sub-title lang="es">S1-Ep7</sub-title>
+    <desc lang="es">Explorando las experiencias vividas de policías, paramédicos y bomberos en su día a día mientras atienden las llamadas de auxilio(n)</desc>
+    <credits>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Aisha Hinds</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Connie Britton</actor>
+      <producer>Robert M. Williams Jr.</producer>
+      <producer>Matt Hodgson</producer>
+      <producer>Erica L. Anderson</producer>
+      <producer>Adam Penn</producer>
+      <producer>Eryn Krueger Mekash</producer>
+      <producer>Lou Eyrich</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/9-1-1.jpg" />
+    <episode-num>S1-Ep7</episode-num>
+  </programme>
+  <programme start="20190117195000 -0300" stop="20190117201400 -0300" channel="Canal Fox HD">
+    <title lang="es">Futurama</title>
+    <sub-title lang="es">S4-Ep11</sub-title>
+    <episode-num>S4-Ep11</episode-num>
+  </programme>
+  <programme start="20190117201400 -0300" stop="20190117203800 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S28-Ep16</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S28-Ep16</episode-num>
+  </programme>
+  <programme start="20190117203800 -0300" stop="20190117222500 -0300" channel="Canal Fox HD">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20190117222500 -0300" stop="20190117225000 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S8-Ep11</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S8-Ep11</episode-num>
+  </programme>
+  <programme start="20190117225000 -0300" stop="20190117231500 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S11-Ep1</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S11-Ep1</episode-num>
+  </programme>
+  <programme start="20190117231500 -0300" stop="20190117234000 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S11-Ep8</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S11-Ep8</episode-num>
+  </programme>
+  <programme start="20190117234000 -0300" stop="20190118000700 -0300" channel="Canal Fox HD">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">S8-Ep18</sub-title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
+    <date>1989</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num>S8-Ep18</episode-num>
+  </programme>
+  <programme start="20190117001000 -0300" stop="20190117010000 -0300" channel="Canal Fox Life">
+    <title lang="es">Law &amp; Order: SVU</title>
+    <sub-title lang="es">S9-Ep8</sub-title>
+    <episode-num>S9-Ep8</episode-num>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117030000 -0300" channel="Canal Fox Life">
+    <title lang="es">De Amor y Otras Adicciones</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="Canal Fox Life">
+    <title lang="es">Law &amp; Order: Criminal Intent</title>
+    <title lang="xx">Law &amp; Order: Criminal Intent</title>
+    <desc lang="es">Un investigador de homicidios trabajará junto a su compañera para tratar de resolver los casos que se le presentan a diario en la ciudad de Nueva York(n)</desc>
+    <credits>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Chris Noth</actor>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Eric Bogosian</actor>
+      <actor>Alicia Witt</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <producer>John L. Roman</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/law_y_order_criminal_intent.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117044000 -0300" channel="Canal Fox Life">
+    <title lang="es">Law &amp; Order: SVU</title>
+    <sub-title lang="es">S9-Ep8</sub-title>
+    <episode-num>S9-Ep8</episode-num>
+  </programme>
+  <programme start="20190117044000 -0300" stop="20190117052500 -0300" channel="Canal Fox Life">
+    <title lang="es">Bones</title>
+    <title lang="xx">Bones</title>
+    <sub-title lang="es">S4</sub-title>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver(n)</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Eric Millegan</actor>
+      <actor>T. J. Thyne</actor>
+      <actor>Jonathan Adams</actor>
+      <actor>Tamara Taylor</actor>
+      <actor>John Francis Daley</actor>
+      <actor>John Boyd</actor>
+      <producer>Kathy Reichs</producer>
+      <producer>Emily Deschanel</producer>
+      <producer>David Boreanaz</producer>
+      <producer>Gene Hong</producer>
+      <composer>The Crystal Method</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/bones.jpg" />
+    <episode-num>S4</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190117052500 -0300" stop="20190117070500 -0300" channel="Canal Fox Life">
+    <title lang="es">Mirada de ángel</title>
+  </programme>
+  <programme start="20190117070500 -0300" stop="20190117073500 -0300" channel="Canal Fox Life">
+    <title lang="es">Modern Family</title>
+    <title lang="xx">Modern Family</title>
+    <sub-title lang="es">S5-Ep19</sub-title>
+    <desc lang="es">Nos cuenta la historia de tres familias que aún con sus diferencias todos estarán unidos sin importar lo que piensen los demás(n)</desc>
+    <credits>
+      <actor>Sofía Vergara</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Nolan Gould</actor>
+      <actor>Sarah Hyland</actor>
+      <actor>Rico Rodríguez II</actor>
+      <actor>Ariel Winter</actor>
+      <actor>Adam DeVine</actor>
+      <producer>Christopher Lloyd</producer>
+      <producer>Steven Levitan</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/modern_family.jpg" />
+    <episode-num>S5-Ep19</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190117073500 -0300" stop="20190117080500 -0300" channel="Canal Fox Life">
+    <title lang="es">Modern Family</title>
+    <title lang="xx">Modern Family</title>
+    <sub-title lang="es">S5-Ep20</sub-title>
+    <desc lang="es">Nos cuenta la historia de tres familias que aún con sus diferencias todos estarán unidos sin importar lo que piensen los demás(n)</desc>
+    <credits>
+      <actor>Sofía Vergara</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Nolan Gould</actor>
+      <actor>Sarah Hyland</actor>
+      <actor>Rico Rodríguez II</actor>
+      <actor>Ariel Winter</actor>
+      <actor>Adam DeVine</actor>
+      <producer>Christopher Lloyd</producer>
+      <producer>Steven Levitan</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/modern_family.jpg" />
+    <episode-num>S5-Ep20</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20190117080500 -0300" stop="20190117090000 -0300" channel="Canal Fox Life">
+    <title lang="es">Chasing Life</title>
+    <sub-title lang="es">S2-Ep7</sub-title>
+    <episode-num>S2-Ep7</episode-num>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Canal Fox Life">
+    <title lang="es">Private Eyes</title>
+    <title lang="xx">Private Eyes</title>
+    <sub-title lang="es">S2</sub-title>
+    <desc lang="es">El ex jugador de hockey Matt Shade quiere cambiar su vida al hacerse socio con la Investigadora privada Angie Evertt obligando a reflexionar sobre su vida(n)</desc>
+    <credits>
+      <actor>Jason Priestley</actor>
+      <actor>Cindy Sampson</actor>
+      <writer>"The Code" por G.B. Joyce</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/private_eyes.jpg" />
+    <episode-num>S2</episode-num>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117102900 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117102900 -0300" stop="20190117110000 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117112900 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117112900 -0300" stop="20190117120000 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117123000 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117130000 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117133000 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117133000 -0300" stop="20190117140000 -0300" channel="Canal Fox Life">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117145000 -0300" channel="Canal Fox Life">
+    <title lang="es">Law &amp; Order: Criminal Intent</title>
+    <title lang="xx">Law &amp; Order: Criminal Intent</title>
+    <desc lang="es">Un investigador de homicidios trabajará junto a su compañera para tratar de resolver los casos que se le presentan a diario en la ciudad de Nueva York(n)</desc>
+    <credits>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Chris Noth</actor>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Eric Bogosian</actor>
+      <actor>Alicia Witt</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <producer>John L. Roman</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/law_y_order_criminal_intent.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190117145000 -0300" stop="20190117164500 -0300" channel="Canal Fox Life">
+    <title lang="es">Conquistando a mi suegro</title>
+  </programme>
+  <programme start="20190117164500 -0300" stop="20190117185000 -0300" channel="Canal Fox Life">
+    <title lang="es">Kate &amp; Leopold</title>
+  </programme>
+  <programme start="20190117185000 -0300" stop="20190117194000 -0300" channel="Canal Fox Life">
+    <title lang="es">Private Eyes</title>
+    <title lang="xx">Private Eyes</title>
+    <sub-title lang="es">S2</sub-title>
+    <desc lang="es">El ex jugador de hockey Matt Shade quiere cambiar su vida al hacerse socio con la Investigadora privada Angie Evertt obligando a reflexionar sobre su vida(n)</desc>
+    <credits>
+      <actor>Jason Priestley</actor>
+      <actor>Cindy Sampson</actor>
+      <writer>"The Code" por G.B. Joyce</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/private_eyes.jpg" />
+    <episode-num>S2</episode-num>
+  </programme>
+  <programme start="20190117194000 -0300" stop="20190117203000 -0300" channel="Canal Fox Life">
+    <title lang="es">S.W.A.T.</title>
+    <title lang="xx">S.W.A.T.</title>
+    <sub-title lang="es">S1-Ep8</sub-title>
+    <desc lang="es">Sigue al teniente afro americano de S.W.A.T. dividido entre su lealtad a las calles y sus compañeros oficiales, dirigiendo una nueva unidad de marginados(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+      <actor>Jay Harrington</actor>
+      <actor>Lina Esco</actor>
+      <actor>Kenny Johnson</actor>
+      <actor>Peter Onorati</actor>
+      <actor>David Lim</actor>
+      <writer>"S.W.A.T." por Robert Hammer</writer>
+      <producer>Aaron Thomas</producer>
+      <producer>Shawn Ryan</producer>
+      <producer>Neal H. Moritz</producer>
+      <producer>Marney Hochman</producer>
+      <producer>Danielle Woodrow</producer>
+      <producer>Pavun Shetty</producer>
+      <producer>Justin Lin</producer>
+      <producer>Reparto Shemar Moore</producer>
+      <producer>Stephanie Sigman</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/s_w_a_t.jpg" />
+    <episode-num>S1-Ep8</episode-num>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117212000 -0300" channel="Canal Fox Life">
+    <title lang="es">Bones</title>
+    <title lang="xx">Bones</title>
+    <sub-title lang="es">S4</sub-title>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver(n)</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>Michaela Conlin</actor>
+      <actor>Eric Millegan</actor>
+      <actor>T. J. Thyne</actor>
+      <actor>Jonathan Adams</actor>
+      <actor>Tamara Taylor</actor>
+      <actor>John Francis Daley</actor>
+      <actor>John Boyd</actor>
+      <producer>Kathy Reichs</producer>
+      <producer>Emily Deschanel</producer>
+      <producer>David Boreanaz</producer>
+      <producer>Gene Hong</producer>
+      <composer>The Crystal Method</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/bones.jpg" />
+    <episode-num>S4</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190117212000 -0300" stop="20190117222000 -0300" channel="Canal Fox Life">
+    <title lang="es">Law &amp; Order: SVU</title>
+    <sub-title lang="es">S5</sub-title>
+    <episode-num>S5</episode-num>
+  </programme>
+  <programme start="20190117222000 -0300" stop="20190117231500 -0300" channel="Canal Fox Life">
+    <title lang="es">S.W.A.T.</title>
+    <title lang="xx">S.W.A.T.</title>
+    <sub-title lang="es">S1-Ep9</sub-title>
+    <desc lang="es">Sigue al teniente afro americano de S.W.A.T. dividido entre su lealtad a las calles y sus compañeros oficiales, dirigiendo una nueva unidad de marginados(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+      <actor>Jay Harrington</actor>
+      <actor>Lina Esco</actor>
+      <actor>Kenny Johnson</actor>
+      <actor>Peter Onorati</actor>
+      <actor>David Lim</actor>
+      <writer>"S.W.A.T." por Robert Hammer</writer>
+      <producer>Aaron Thomas</producer>
+      <producer>Shawn Ryan</producer>
+      <producer>Neal H. Moritz</producer>
+      <producer>Marney Hochman</producer>
+      <producer>Danielle Woodrow</producer>
+      <producer>Pavun Shetty</producer>
+      <producer>Justin Lin</producer>
+      <producer>Reparto Shemar Moore</producer>
+      <producer>Stephanie Sigman</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/s_w_a_t.jpg" />
+    <episode-num>S1-Ep9</episode-num>
+  </programme>
+  <programme start="20190117231500 -0300" stop="20190118001000 -0300" channel="Canal Fox Life">
+    <title lang="es">Law &amp; Order: Criminal Intent</title>
+    <title lang="xx">Law &amp; Order: Criminal Intent</title>
+    <desc lang="es">Un investigador de homicidios trabajará junto a su compañera para tratar de resolver los casos que se le presentan a diario en la ciudad de Nueva York(n)</desc>
+    <credits>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jamey Sheridan</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Chris Noth</actor>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Eric Bogosian</actor>
+      <actor>Alicia Witt</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <producer>John L. Roman</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/law_y_order_criminal_intent.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20190117015600 -0300" stop="20190117033800 -0300" channel="Canal Fox Movies">
+    <title lang="es">Borg McEnroe</title>
+  </programme>
+  <programme start="20190117033800 -0300" stop="20190117053500 -0300" channel="Canal Fox Movies">
+    <title lang="es">Animal</title>
+  </programme>
+  <programme start="20190117053500 -0300" stop="20190117070600 -0300" channel="Canal Fox Movies">
+    <title lang="es">Mafia</title>
+  </programme>
+  <programme start="20190117070600 -0300" stop="20190117094800 -0300" channel="Canal Fox Movies">
+    <title lang="es">La noche más oscura</title>
+  </programme>
+  <programme start="20190117094800 -0300" stop="20190117115700 -0300" channel="Canal Fox Movies">
+    <title lang="es">El niño y el fugitivo</title>
+  </programme>
+  <programme start="20190117115700 -0300" stop="20190117133400 -0300" channel="Canal Fox Movies">
+    <title lang="es">El gran año</title>
+  </programme>
+  <programme start="20190117133400 -0300" stop="20190117151600 -0300" channel="Canal Fox Movies">
+    <title lang="es">Ruby, la chica de mis sueños</title>
+  </programme>
+  <programme start="20190117151600 -0300" stop="20190117163500 -0300" channel="Canal Fox Movies">
+    <title lang="es">Yosemite</title>
+  </programme>
+  <programme start="20190117163500 -0300" stop="20190117182500 -0300" channel="Canal Fox Movies">
+    <title lang="es">Cautiva</title>
+  </programme>
+  <programme start="20190117182500 -0300" stop="20190117202200 -0300" channel="Canal Fox Movies">
+    <title lang="es">La Batalla de los Sexos</title>
+    <title lang="xx">Battle of the Sexes</title>
+    <desc lang="es">Un partido de tenis, el evento más visto de todos los tiempos entre la número uno del mundo Billie Jean King y el ex campeón y estafador Bobby Riggs(n)</desc>
+    <credits>
+      <actor>Emma Stone</actor>
+      <actor>Steve Carell</actor>
+      <actor>Sarah Silverman</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Alan Cumming</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Austin Stowell</actor>
+      <actor>Natalie Morales</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Lewis Pullman</actor>
+      <actor>Jessica McNamee</actor>
+      <actor>Martha MacIsaac</actor>
+      <actor>Wallace Langham</actor>
+      <actor>Mark Harelik</actor>
+      <actor>Fred Armisen</actor>
+      <actor>Chris Parnell</actor>
+      <actor>John C. McGinley</actor>
+      <producer>Christian Colson</producer>
+      <producer>Danny Boyle</producer>
+      <producer>Robert Graf</producer>
+      <composer>Nicholas Britell</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Biografía</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_batalla_de_los_sexos.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20190117202200 -0300" stop="20190117220000 -0300" channel="Canal Fox Movies">
+    <title lang="es">El Redentor</title>
+    <title lang="xx">Hummingbird (2013)</title>
+    <desc lang="es">Tras la pérdida su unidad por fuego enemigo, Joey, se oculta en Londres para olvidar su pasado, pero tras la muerte de su novia tratará de hacer justicia(n)</desc>
+    <credits>
+      <actor>Jason Statham</actor>
+      <actor>Agata Buzek</actor>
+      <actor>Christian Brassington</actor>
+      <actor>Vicky McClure</actor>
+      <producer>Guy Heeley</producer>
+      <producer>Paul Webster</producer>
+      <composer>Dario Marianelli</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_redentor.jpg" />
+    <country>Estados Unidos</country>
+    <country>Reino Unido</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190118001500 -0300" channel="Canal Fox Movies">
+    <title lang="es">Operación Red Sparrow</title>
+    <title lang="xx">Red Sparrow</title>
+    <desc lang="es">Cuando una bailarina sufre una lesión haciendo que termine su carrera, decide convertirse en la nueva recluta para la Escuela Sparrow, un servicio secreto(n)</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Matthias Schoenaerts</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Jeremy Irons</actor>
+      <producer>Peter Chernin</producer>
+      <producer>Steve Zaillian</producer>
+      <producer>Jenno Topping</producer>
+      <composer>James Newton Howard</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/operacion_red_sparrow.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190117015100 -0300" stop="20190117032800 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">12 Horas</title>
+  </programme>
+  <programme start="20190117032800 -0300" stop="20190117051600 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Animal</title>
+  </programme>
+  <programme start="20190117051600 -0300" stop="20190117072400 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Mafia</title>
+  </programme>
+  <programme start="20190117072400 -0300" stop="20190117092900 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Conexión Estambul</title>
+  </programme>
+  <programme start="20190117092900 -0300" stop="20190117110300 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Mi novio es un zombie</title>
+  </programme>
+  <programme start="20190117110300 -0300" stop="20190117125100 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">El gran año</title>
+  </programme>
+  <programme start="20190117125100 -0300" stop="20190117143900 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20190117143900 -0300" stop="20190117163400 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Cautiva</title>
+  </programme>
+  <programme start="20190117163400 -0300" stop="20190117180900 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">12 Horas</title>
+  </programme>
+  <programme start="20190117180900 -0300" stop="20190117194500 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Circuito cerrado</title>
+  </programme>
+  <programme start="20190117194500 -0300" stop="20190117220100 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">X-Men: Primera generación</title>
+  </programme>
+  <programme start="20190117220100 -0300" stop="20190118003600 -0300" channel="Canal Fox Movies HD">
+    <title lang="es">Operación Red Sparrow</title>
+    <title lang="xx">Red Sparrow</title>
+    <desc lang="es">Cuando una bailarina sufre una lesión haciendo que termine su carrera, decide convertirse en la nueva recluta para la Escuela Sparrow, un servicio secreto(n)</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Matthias Schoenaerts</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Jeremy Irons</actor>
+      <producer>Peter Chernin</producer>
+      <producer>Steve Zaillian</producer>
+      <producer>Jenno Topping</producer>
+      <composer>James Newton Howard</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/operacion_red_sparrow.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20190117014500 -0300" stop="20190117031500 -0300" channel="Canal Ultra Cine">
+    <title lang="es">Sofía y el terco</title>
+  </programme>
+  <programme start="20190117031500 -0300" stop="20190117044500 -0300" channel="Canal Ultra Cine">
+    <title lang="es">El Fin</title>
+  </programme>
+  <programme start="20190117044500 -0300" stop="20190117062000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">Ebro, de la cuna a la batalla</title>
+  </programme>
+  <programme start="20190117062000 -0300" stop="20190117080000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">El sabor de la muerte</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117093000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">Faraday</title>
+  </programme>
+  <programme start="20190117093000 -0300" stop="20190117114500 -0300" channel="Canal Ultra Cine">
+    <title lang="es">Diamantino</title>
+  </programme>
+  <programme start="20190117114500 -0300" stop="20190117134500 -0300" channel="Canal Ultra Cine">
+    <title lang="es">El país del miedo</title>
+  </programme>
+  <programme start="20190117134500 -0300" stop="20190117160000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">Maradona, la mano de Dios</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117175000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">El compromiso</title>
+  </programme>
+  <programme start="20190117175000 -0300" stop="20190117195000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">Contigo pan y cebolla</title>
+  </programme>
+  <programme start="20190117195000 -0300" stop="20190117213500 -0300" channel="Canal Ultra Cine">
+    <title lang="es">La Mala Verdad</title>
+  </programme>
+  <programme start="20190117213500 -0300" stop="20190118000000 -0300" channel="Canal Ultra Cine">
+    <title lang="es">El Último Cuerpo</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117021500 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Seychelles salvaje</title>
+  </programme>
+  <programme start="20190117021500 -0300" stop="20190117040000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Temporada de Zopilotes</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Conexión Salvaje</title>
+    <sub-title lang="es">Nature's Erector Set</sub-title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Cartoneros</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117063000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Mundos de agua</title>
+    <sub-title lang="es">El Agua Viajera</sub-title>
+  </programme>
+  <programme start="20190117063000 -0300" stop="20190117070000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">El Turista</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117073000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Ecopia</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117080000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Conexión Salvaje</title>
+    <sub-title lang="es">The Old World Connection</sub-title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Cartoneros</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Mundos de agua</title>
+    <sub-title lang="es">Los Caminos Líquidos</sub-title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">El Turista</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117113000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Ecopia</title>
+  </programme>
+  <programme start="20190117113000 -0300" stop="20190117120000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117130000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Colombia un Sueño Americano</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">La batalla de Zacatecas</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117161500 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Projekt Huemul: El cuarto Reich en Argentina</title>
+  </programme>
+  <programme start="20190117161500 -0300" stop="20190117170000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Ladrilleros</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Barcelona Pasión y Negocio</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117190000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Conexión Salvaje</title>
+    <sub-title lang="es">The Old World Connection</sub-title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Cartoneros</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117203000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Mundos de agua</title>
+    <sub-title lang="es">Los Caminos Líquidos</sub-title>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117210000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">El Turista</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117213000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Ecopia</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117220000 -0300" channel="Canal Ultra Docu">
+    <title lang="es">La Dolce Vita</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117234500 -0300" channel="Canal Ultra Docu">
+    <title lang="es">30 años de oscuridad</title>
+  </programme>
+  <programme start="20190117234500 -0300" stop="20190118004500 -0300" channel="Canal Ultra Docu">
+    <title lang="es">Colombia un Sueño Americano</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117020000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117110000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117120000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117130000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117160000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117170000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117190000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117220000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117230000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190118000000 -0300" channel="Canal Ultra Fiesta">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190117004500 -0300" stop="20190117023500 -0300" channel="Canal Ultra Film">
+    <title lang="es">Estrella fugaz</title>
+  </programme>
+  <programme start="20190117023500 -0300" stop="20190117042000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Manhattan</title>
+  </programme>
+  <programme start="20190117042000 -0300" stop="20190117062000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Lejos del cielo</title>
+  </programme>
+  <programme start="20190117062000 -0300" stop="20190117080000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Deja el pasado atrás</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117095000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Tranquilo</title>
+  </programme>
+  <programme start="20190117095000 -0300" stop="20190117113500 -0300" channel="Canal Ultra Film">
+    <title lang="es">Sorority Murder</title>
+  </programme>
+  <programme start="20190117113500 -0300" stop="20190117132500 -0300" channel="Canal Ultra Film">
+    <title lang="es">Murder in the Somme</title>
+  </programme>
+  <programme start="20190117132500 -0300" stop="20190117144500 -0300" channel="Canal Ultra Film">
+    <title lang="es">El Crack</title>
+  </programme>
+  <programme start="20190117144500 -0300" stop="20190117160000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Yokai</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117174500 -0300" channel="Canal Ultra Film">
+    <title lang="es">El principe abusivo</title>
+  </programme>
+  <programme start="20190117174500 -0300" stop="20190117192000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Deja el pasado atrás</title>
+  </programme>
+  <programme start="20190117192000 -0300" stop="20190117210500 -0300" channel="Canal Ultra Film">
+    <title lang="es">Em3</title>
+  </programme>
+  <programme start="20190117210500 -0300" stop="20190117230000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Fuertes Vientos</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190118005000 -0300" channel="Canal Ultra Film">
+    <title lang="es">Diáconos por defensa</title>
+  </programme>
+  <programme start="20190117003000 -0300" stop="20190117010000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Cosmic Quantum Ray</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117013000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Corneil and Bernie</title>
+  </programme>
+  <programme start="20190117013000 -0300" stop="20190117020000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Corneil and Bernie</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117023000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190117023000 -0300" stop="20190117030000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117033000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Hero: 108</title>
+  </programme>
+  <programme start="20190117033000 -0300" stop="20190117040000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Hero: 108</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117043000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Rat-A-Tat</title>
+  </programme>
+  <programme start="20190117043000 -0300" stop="20190117050000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Rat-A-Tat</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117053000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Slash://</title>
+  </programme>
+  <programme start="20190117053000 -0300" stop="20190117060000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Slash://</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117063000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Mi robot y yo</title>
+  </programme>
+  <programme start="20190117063000 -0300" stop="20190117070000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Mi robot y yo</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117073000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117080000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117083000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Pet Pals</title>
+  </programme>
+  <programme start="20190117083000 -0300" stop="20190117090000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Pet Pals</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117093000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190117093000 -0300" stop="20190117100000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Sandra, the Fairytale Detective</title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Sandra, the Fairytale Detective</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117113000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117113000 -0300" stop="20190117120000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117123000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Cosmic Quantum Ray</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117130000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Cosmic Quantum Ray</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117133000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Corneil and Bernie</title>
+  </programme>
+  <programme start="20190117133000 -0300" stop="20190117140000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Corneil and Bernie</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117143000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190117143000 -0300" stop="20190117150000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117153000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Hero: 108</title>
+  </programme>
+  <programme start="20190117153000 -0300" stop="20190117160000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Hero: 108</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117163000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Rat-A-Tat</title>
+  </programme>
+  <programme start="20190117163000 -0300" stop="20190117170000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Rat-A-Tat</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117173000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Slash://</title>
+  </programme>
+  <programme start="20190117173000 -0300" stop="20190117180000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Slash://</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117183000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Mi robot y yo</title>
+  </programme>
+  <programme start="20190117183000 -0300" stop="20190117190000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Mi robot y yo</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117193000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117193000 -0300" stop="20190117200000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117203000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Pet Pals</title>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117210000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Pet Pals</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117213000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117220000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117223000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Sandra, the Fairytale Detective</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190117230000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Sandra, the Fairytale Detective</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190117233000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117233000 -0300" stop="20190118000000 -0300" channel="Canal Ultra Kidz">
+    <title lang="es">Yu-Gi-Oh! 5D's</title>
+  </programme>
+  <programme start="20190117013000 -0300" stop="20190117020000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">El Turista</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Alguien Más</title>
+    <sub-title lang="es">Cumpleaños</sub-title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Alguien Más</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Soy tu Fan</title>
+    <sub-title lang="es">Mutismo</sub-title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Soy tu Fan</title>
+    <sub-title lang="es">El final</sub-title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">La Fiesta de los Comediantes</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Soy tu Fan</title>
+    <sub-title lang="es">Mutismo</sub-title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Soy tu Fan</title>
+    <sub-title lang="es">El final</sub-title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117110000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Alguien Más</title>
+    <sub-title lang="es">Cumpleaños</sub-title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117120000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Alguien Más</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117130000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Amores de Historia</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Amores de Historia</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Voces Anónimas</title>
+    <sub-title lang="es">la sombra de Ipoll - La ciudad de los muertos</sub-title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117160000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Voces Anónimas</title>
+    <sub-title lang="es">El negrito de pastoreo - El último taxi</sub-title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117170000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Derecho de Familia</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117173000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Tienda de Diseño</title>
+  </programme>
+  <programme start="20190117173000 -0300" stop="20190117190000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Chicas de oficina</title>
+    <sub-title lang="es">Day 20: I'll Figure Out the Money Myself</sub-title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">El laberinto</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">El laberinto</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117220000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Alguien Más</title>
+    <sub-title lang="es">Cumpleaños</sub-title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117230000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Alguien Más</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190118000000 -0300" channel="Canal Ultra Tainment">
+    <title lang="es">Amores de Historia</title>
+  </programme>
+</tv>
