@@ -30,134 +30,43 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/extra_tv_42_de_costa_rica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20190303010000 -0300" stop="20190303020000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Cronicas</title>
-  </programme>
-  <programme start="20190303020000 -0300" stop="20190303023000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Renta Congelada</title>
-  </programme>
-  <programme start="20190303023000 -0300" stop="20190303030000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
-  <programme start="20190303030000 -0300" stop="20190303043000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Stand Parados</title>
-  </programme>
-  <programme start="20190303043000 -0300" stop="20190303060000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Los plomeros y las ficheras</title>
-  </programme>
-  <programme start="20190303060000 -0300" stop="20190303070000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">La guerra de los sexos</title>
-  </programme>
-  <programme start="20190303070000 -0300" stop="20190303080000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">La Niñera</title>
-  </programme>
-  <programme start="20190303080000 -0300" stop="20190303090000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Laura televisa</title>
-  </programme>
-  <programme start="20190303090000 -0300" stop="20190303100000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20190303100000 -0300" stop="20190303103000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">3, 2, 1 vamos</title>
-  </programme>
-  <programme start="20190303103000 -0300" stop="20190303110000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Vic, el vikingo</title>
-  </programme>
-  <programme start="20190303110000 -0300" stop="20190303120000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Los padrinos mágicos</title>
-  </programme>
-  <programme start="20190303120000 -0300" stop="20190303123000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Pink Panther</title>
-  </programme>
-  <programme start="20190303123000 -0300" stop="20190303130000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Vida y salud</title>
-  </programme>
-  <programme start="20190303130000 -0300" stop="20190303133000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Just for Laughs Gags</title>
-  </programme>
-  <programme start="20190303133000 -0300" stop="20190303143000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Fear Factor</title>
-  </programme>
-  <programme start="20190303143000 -0300" stop="20190303160000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Sobrevivientes</title>
-  </programme>
-  <programme start="20190303160000 -0300" stop="20190303163000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Vida y salud</title>
-  </programme>
-  <programme start="20190303163000 -0300" stop="20190303170000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">María de todos los Angeles</title>
-  </programme>
-  <programme start="20190303170000 -0300" stop="20190303173000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Durmiendo con mi Jefe</title>
-  </programme>
-  <programme start="20190303173000 -0300" stop="20190303180000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">La parodia</title>
-  </programme>
-  <programme start="20190303180000 -0300" stop="20190303190000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Chespirito</title>
-  </programme>
-  <programme start="20190303190000 -0300" stop="20190303193000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">El Chapulín colorado</title>
-  </programme>
-  <programme start="20190303193000 -0300" stop="20190303203000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">El Chavo del Ocho</title>
-    <desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad(n)</desc>
-    <date>1972</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20190303203000 -0300" stop="20190303210000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">La Familia Peluche</title>
-  </programme>
-  <programme start="20190303210000 -0300" stop="20190303230000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Mira quien baila</title>
-  </programme>
-  <programme start="20190303230000 -0300" stop="20190304000000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Aquí y ahora 2018</title>
-  </programme>
-  <programme start="20190304000000 -0300" stop="20190304010000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Informe 11, Las historias - El show</title>
-  </programme>
-  <programme start="20190304010000 -0300" stop="20190304020000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318010000 -0300" stop="20190318020000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">NC Once - Edición dominical</title>
   </programme>
-  <programme start="20190304020000 -0300" stop="20190304023000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318020000 -0300" stop="20190318023000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Renta Congelada</title>
   </programme>
-  <programme start="20190304023000 -0300" stop="20190304030000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318023000 -0300" stop="20190318030000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Noticiero Univisión</title>
   </programme>
-  <programme start="20190304030000 -0300" stop="20190304034500 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318030000 -0300" stop="20190318034500 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Al Rojo Vivo</title>
   </programme>
-  <programme start="20190304034500 -0300" stop="20190304043000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Cuentamelo Ya</title>
+  <programme start="20190318034500 -0300" stop="20190318043000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">¡Cuéntamelo ya!</title>
   </programme>
-  <programme start="20190304043000 -0300" stop="20190304050000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318043000 -0300" stop="20190318050000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">La hora pico</title>
   </programme>
-  <programme start="20190304050000 -0300" stop="20190304053000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318050000 -0300" stop="20190318053000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Los Perplejos</title>
   </programme>
-  <programme start="20190304053000 -0300" stop="20190304060000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Vecinos</title>
+  <programme start="20190318053000 -0300" stop="20190318060000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">S.O.S. sexo y otros secretos</title>
   </programme>
-  <programme start="20190304060000 -0300" stop="20190304070000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318060000 -0300" stop="20190318070000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Cero en conducta</title>
   </programme>
-  <programme start="20190304070000 -0300" stop="20190304080000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318070000 -0300" stop="20190318080000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">El Gordo y la Flaca</title>
   </programme>
-  <programme start="20190304080000 -0300" stop="20190304090000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318080000 -0300" stop="20190318090000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Laura televisa</title>
   </programme>
-  <programme start="20190304090000 -0300" stop="20190304100000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318090000 -0300" stop="20190318100000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Plaza Sésamo</title>
   </programme>
-  <programme start="20190304100000 -0300" stop="20190304120000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318100000 -0300" stop="20190318120000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">La vida es una canción</title>
     <desc lang="es">Un programa donde se cuentan las historias siendo acompañadas por el nombre de una canción que mejor la representan(n)</desc>
     <date>2004</date>
@@ -166,13 +75,13 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_vida_es_una_cancion.jpg" />
   </programme>
-  <programme start="20190304120000 -0300" stop="20190304140000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318120000 -0300" stop="20190318140000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">120 minutos</title>
   </programme>
-  <programme start="20190304140000 -0300" stop="20190304143000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318140000 -0300" stop="20190318143000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Vida y salud</title>
   </programme>
-  <programme start="20190304143000 -0300" stop="20190304151500 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318143000 -0300" stop="20190318151500 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">A cada quien su santo</title>
     <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas(n)</desc>
     <date>2009</date>
@@ -181,408 +90,673 @@
     <category lang="es">Novela</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
   </programme>
-  <programme start="20190304151500 -0300" stop="20190304160000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Mujer casos de la vida real</title>
+  <programme start="20190318151500 -0300" stop="20190318160000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Mujer, Casos de la Vida Real</title>
   </programme>
-  <programme start="20190304160000 -0300" stop="20190304163000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318160000 -0300" stop="20190318163000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Vida y salud</title>
   </programme>
-  <programme start="20190304163000 -0300" stop="20190304180000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318163000 -0300" stop="20190318180000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">NC Once - Tarde</title>
   </programme>
-  <programme start="20190304180000 -0300" stop="20190304190000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318180000 -0300" stop="20190318190000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Desafío Marruecos</title>
   </programme>
-  <programme start="20190304190000 -0300" stop="20190304200000 -0300" channel="Canal 11 de Costa Rica">
+  <programme start="20190318190000 -0300" stop="20190318200000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Primer Impacto</title>
   </programme>
-  <programme start="20190304200000 -0300" stop="20190304210000 -0300" channel="Canal 11 de Costa Rica">
-    <title lang="es">Caso cerrado 2018</title>
-  </programme>
-  <programme start="20190303010000 -0300" stop="20190303021500 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Europa en concierto</title>
-  </programme>
-  <programme start="20190303021500 -0300" stop="20190303023000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Haciendo discos</title>
-  </programme>
-  <programme start="20190303023000 -0300" stop="20190303030000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Instinto</title>
-  </programme>
-  <programme start="20190303030000 -0300" stop="20190303040000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Alucine</title>
-  </programme>
-  <programme start="20190303040000 -0300" stop="20190303050000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Costa rica noticias</title>
-  </programme>
-  <programme start="20190303050000 -0300" stop="20190303053000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Haciendo discos</title>
-  </programme>
-  <programme start="20190303053000 -0300" stop="20190303070000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Costa Rica suena así</title>
-  </programme>
-  <programme start="20190303070000 -0300" stop="20190303073000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">El mundo de Arcadio</title>
-  </programme>
-  <programme start="20190303073000 -0300" stop="20190303080000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">La nave</title>
-  </programme>
-  <programme start="20190303080000 -0300" stop="20190303090000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Los musicales del 13</title>
-  </programme>
-  <programme start="20190303090000 -0300" stop="20190303093000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20190303093000 -0300" stop="20190303100000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Umbrales</title>
-  </programme>
-  <programme start="20190303100000 -0300" stop="20190303103000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Punto y coma</title>
-  </programme>
-  <programme start="20190303103000 -0300" stop="20190303120000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">En primera fila</title>
-  </programme>
-  <programme start="20190303120000 -0300" stop="20190303130000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20190303130000 -0300" stop="20190303143000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20190303143000 -0300" stop="20190303150000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">La nave</title>
-  </programme>
-  <programme start="20190303150000 -0300" stop="20190303153000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Nexos</title>
-  </programme>
-  <programme start="20190303153000 -0300" stop="20190303160000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Punto y coma</title>
-  </programme>
-  <programme start="20190303160000 -0300" stop="20190303163000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Primer Plano</title>
-  </programme>
-  <programme start="20190303163000 -0300" stop="20190303173000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Costa Rica suena así</title>
-  </programme>
-  <programme start="20190303173000 -0300" stop="20190303190000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Arte 13</title>
-  </programme>
-  <programme start="20190303190000 -0300" stop="20190303210000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20190303210000 -0300" stop="20190303213000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Domingo</title>
-  </programme>
-  <programme start="20190303213000 -0300" stop="20190303220000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Construyendo nuestra Nación</title>
-  </programme>
-  <programme start="20190303220000 -0300" stop="20190303223000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">San José de noche</title>
-  </programme>
-  <programme start="20190303223000 -0300" stop="20190303233000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Lotería</title>
-  </programme>
-  <programme start="20190303233000 -0300" stop="20190304013000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Deportivas del Trece</title>
-  </programme>
-  <programme start="20190304013000 -0300" stop="20190304020000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Todo gol</title>
-  </programme>
-  <programme start="20190304020000 -0300" stop="20190304030000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Costa Rica suena así</title>
-  </programme>
-  <programme start="20190304030000 -0300" stop="20190304033000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Domingo</title>
-  </programme>
-  <programme start="20190304033000 -0300" stop="20190304040000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Construyendo nuestra Nación</title>
-  </programme>
-  <programme start="20190304040000 -0300" stop="20190304043000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">San José de noche</title>
-  </programme>
-  <programme start="20190304043000 -0300" stop="20190304053000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Lotería</title>
-  </programme>
-  <programme start="20190304053000 -0300" stop="20190304060000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Instinto</title>
-  </programme>
-  <programme start="20190304060000 -0300" stop="20190304063000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Genios de la comedia</title>
-  </programme>
-  <programme start="20190304063000 -0300" stop="20190304083000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Deportivas del Trece</title>
-  </programme>
-  <programme start="20190304083000 -0300" stop="20190304090000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Promuevete</title>
-  </programme>
-  <programme start="20190304090000 -0300" stop="20190304093000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20190304093000 -0300" stop="20190304110000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">La revista - Costa Rica Noticias</title>
-  </programme>
-  <programme start="20190304110000 -0300" stop="20190304113000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Promuevete</title>
-  </programme>
-  <programme start="20190304113000 -0300" stop="20190304120000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Sin secretos con Doris</title>
-  </programme>
-  <programme start="20190304120000 -0300" stop="20190304123000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Con sello de oro</title>
-  </programme>
-  <programme start="20190304123000 -0300" stop="20190304130000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Documentales - Uned</title>
-  </programme>
-  <programme start="20190304130000 -0300" stop="20190304133000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">La pulperia</title>
-  </programme>
-  <programme start="20190304133000 -0300" stop="20190304140000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Arraigados</title>
-  </programme>
-  <programme start="20190304140000 -0300" stop="20190304150000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Deportivas radio</title>
-  </programme>
-  <programme start="20190304150000 -0300" stop="20190304153000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">La magia del color</title>
-  </programme>
-  <programme start="20190304153000 -0300" stop="20190304160000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">De China a tu cocina</title>
-  </programme>
-  <programme start="20190304160000 -0300" stop="20190304170000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Seis hermanas</title>
-  </programme>
-  <programme start="20190304170000 -0300" stop="20190304173000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Sin secretos con Doris</title>
-  </programme>
-  <programme start="20190304173000 -0300" stop="20190304180000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Con sello de oro</title>
-  </programme>
-  <programme start="20190304180000 -0300" stop="20190304183000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Incluidos trabajar sin prejuicios</title>
-  </programme>
-  <programme start="20190304183000 -0300" stop="20190304190000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Somos cultura</title>
-  </programme>
-  <programme start="20190304190000 -0300" stop="20190304193000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Instinto</title>
-  </programme>
-  <programme start="20190304193000 -0300" stop="20190304200000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Generacion Z</title>
-  </programme>
-  <programme start="20190304200000 -0300" stop="20190304203000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">La magia del color</title>
-  </programme>
-  <programme start="20190304203000 -0300" stop="20190304210000 -0300" channel="Canal 13 de Costa Rica">
-    <title lang="es">Costa rica noticias</title>
-  </programme>
-  <programme start="20190303010000 -0300" stop="20190303030000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Cosa fácil</title>
-  </programme>
-  <programme start="20190303030000 -0300" stop="20190303133000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
-  <programme start="20190303133000 -0300" stop="20190303140000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Spot Central</title>
-  </programme>
-  <programme start="20190303140000 -0300" stop="20190303150000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Los animales más graciosos</title>
-  </programme>
-  <programme start="20190303150000 -0300" stop="20190303153000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Me duele cuando me rio</title>
-  </programme>
-  <programme start="20190303153000 -0300" stop="20190303160000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Cámara Loca</title>
-  </programme>
-  <programme start="20190303160000 -0300" stop="20190303170000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">SAF3</title>
-  </programme>
-  <programme start="20190303170000 -0300" stop="20190303180000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Jane la inmortal</title>
-  </programme>
-  <programme start="20190303180000 -0300" stop="20190303190000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Highlander, El Inmortal</title>
-  </programme>
-  <programme start="20190303190000 -0300" stop="20190303200000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Los impostores</title>
-  </programme>
-  <programme start="20190303200000 -0300" stop="20190303210000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Números</title>
-  </programme>
-  <programme start="20190303210000 -0300" stop="20190303220000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Lucha libre WWE - Smackdown</title>
-  </programme>
-  <programme start="20190303220000 -0300" stop="20190303230000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Falling Skies</title>
-  </programme>
-  <programme start="20190303230000 -0300" stop="20190304000000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Criminología naval</title>
-  </programme>
-  <programme start="20190304000000 -0300" stop="20190304010000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Medium</title>
-  </programme>
-  <programme start="20190304010000 -0300" stop="20190304030000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Cine</title>
-  </programme>
-  <programme start="20190304030000 -0300" stop="20190304110000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
-  <programme start="20190304110000 -0300" stop="20190304133000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Despierta, América</title>
-  </programme>
-  <programme start="20190304133000 -0300" stop="20190304140000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Spot Central</title>
-  </programme>
-  <programme start="20190304140000 -0300" stop="20190304150000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Los animales más graciosos</title>
-  </programme>
-  <programme start="20190304150000 -0300" stop="20190304153000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Me duele cuando me rio</title>
-  </programme>
-  <programme start="20190304153000 -0300" stop="20190304160000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Cámara Loca</title>
-  </programme>
-  <programme start="20190304160000 -0300" stop="20190304163000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Reino Animal</title>
-  </programme>
-  <programme start="20190304163000 -0300" stop="20190304180000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Cine mexicano</title>
-  </programme>
-  <programme start="20190304180000 -0300" stop="20190304190000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Grachi</title>
-  </programme>
-  <programme start="20190304190000 -0300" stop="20190304200000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">Primer amor... a mil por hora</title>
-  </programme>
-  <programme start="20190304200000 -0300" stop="20190304210000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
-    <title lang="es">La Vecina</title>
-  </programme>
-  <programme start="20190303004500 -0300" stop="20190303020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Vikingos</title>
-    <title lang="xx">Vikings</title>
-    <desc lang="es">Los guerreros más voraces de todos los tiempos, ladrones y comerciantes, pero también buscadores de tierras y visionarios adelantados a su época(n)</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Katheryn Winnick</actor>
-      <actor>Clive Standen</actor>
-      <actor>Jessalyn Gilsig</actor>
-      <actor>Gustaf Skarsgård</actor>
-      <actor>George Blagden</actor>
-      <actor>Gabriel Byrne</actor>
-      <actor>Alyssa Sutherland</actor>
-      <actor>Donal Logue</actor>
-      <actor>Alexander Ludwig</actor>
-      <actor>Linus Roache</actor>
-      <actor>Ben Robson</actor>
-      <actor>Kevin Durand</actor>
-      <actor>Lothaire Bluteau</actor>
-      <actor>John Kavanagh</actor>
-      <actor>Peter Franzén</actor>
-      <actor>Jasper Pääkkönen</actor>
-      <actor>Moe Dunford</actor>
-      <actor>Alex Høgh</actor>
-      <actor>Marco Ilsø</actor>
-      <actor>David Lindström</actor>
-      <actor>Jordan Patrick Smith</actor>
-      <actor>Jonathan Rhys Meyers</actor>
-      <producer>Steve Wakefield</producer>
-      <producer>Keith Thompson</producer>
-      <producer>Sanne Wohlenberg</producer>
-      <producer>Liz Gill</producer>
-      <composer>Trevor Morris</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Historia</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/vikingos.jpg" />
-    <country>Canadá</country>
-    <country>Irlanda</country>
-  </programme>
-  <programme start="20190303020000 -0300" stop="20190303030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Penny dreadful</title>
-  </programme>
-  <programme start="20190303030000 -0300" stop="20190303044500 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Freerunner</title>
-  </programme>
-  <programme start="20190303044500 -0300" stop="20190303063000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Camino a la Muerte</title>
-  </programme>
-  <programme start="20190303063000 -0300" stop="20190303080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318200000 -0300" stop="20190318210000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20190303080000 -0300" stop="20190303090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Impostores</title>
+  <programme start="20190318210000 -0300" stop="20190318220000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once, edición estelar</title>
   </programme>
-  <programme start="20190303090000 -0300" stop="20190303100000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Al extremo</title>
+  <programme start="20190318220000 -0300" stop="20190318230000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Baywatch</title>
   </programme>
-  <programme start="20190303100000 -0300" stop="20190303104000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Extranormal</title>
-    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal(n)</desc>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
-  </programme>
-  <programme start="20190303104000 -0300" stop="20190303110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
-  <programme start="20190303110000 -0300" stop="20190303120000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Pop Corn</title>
-  </programme>
-  <programme start="20190303120000 -0300" stop="20190303130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Wipeout</title>
-  </programme>
-  <programme start="20190303130000 -0300" stop="20190303140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Desafío Extremo</title>
-  </programme>
-  <programme start="20190303140000 -0300" stop="20190303150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Scorpion</title>
-  </programme>
-  <programme start="20190303150000 -0300" stop="20190303154500 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Alerta Cobra</title>
-  </programme>
-  <programme start="20190303154500 -0300" stop="20190303171500 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Beat the world</title>
-  </programme>
-  <programme start="20190303171500 -0300" stop="20190303193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Van Helsing</title>
-    <desc lang="es">Van Helsing es enviado a Transilvania para detener a Drácula quien está utilizando las investigaciones del Dr. Frankenstein y un hombre lobo para sus planes siniestros(n)</desc>
-    <credits>
-      <actor>Hugh Jackman</actor>
-      <actor>Kate Beckinsale</actor>
-      <actor>Richard Roxburgh</actor>
-      <actor>David Wenham</actor>
-      <actor>Will Kemp</actor>
-      <producer>Stephen Sommers</producer>
-      <producer>Bob Ducsay</producer>
-      <composer>Alan Silvestri</composer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Fantasía</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/van_helsing.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20190303193000 -0300" stop="20190303203000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Guerrero Ninja Americano</title>
-  </programme>
-  <programme start="20190303203000 -0300" stop="20190303210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Previo Partido</title>
-  </programme>
-  <programme start="20190303210000 -0300" stop="20190303230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Grecia vs. Heredia</title>
-  </programme>
-  <programme start="20190303230000 -0300" stop="20190304000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318230000 -0300" stop="20190319000000 -0300" channel="Canal 11 de Costa Rica">
     <title lang="es">Conexión fútbol</title>
   </programme>
-  <programme start="20190304000000 -0300" stop="20190304003000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Noticias Repretel</title>
+  <programme start="20190319000000 -0300" stop="20190319010000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Informe 11, Las historias - Escuelita</title>
   </programme>
-  <programme start="20190304003000 -0300" stop="20190304020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">El vengador fantasma II</title>
+  <programme start="20190319010000 -0300" stop="20190319020000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once - Edición Nocturna</title>
   </programme>
-  <programme start="20190304020000 -0300" stop="20190304030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319020000 -0300" stop="20190319023000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20190319023000 -0300" stop="20190319030000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20190319030000 -0300" stop="20190319034500 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20190319034500 -0300" stop="20190319043000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">¡Cuéntamelo ya!</title>
+  </programme>
+  <programme start="20190319043000 -0300" stop="20190319050000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20190319050000 -0300" stop="20190319053000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Los Perplejos</title>
+  </programme>
+  <programme start="20190319053000 -0300" stop="20190319060000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">S.O.S. sexo y otros secretos</title>
+  </programme>
+  <programme start="20190319060000 -0300" stop="20190319070000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Cero en conducta</title>
+  </programme>
+  <programme start="20190319070000 -0300" stop="20190319080000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20190319080000 -0300" stop="20190319090000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Laura televisa</title>
+  </programme>
+  <programme start="20190319090000 -0300" stop="20190319100000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Plaza Sésamo</title>
+  </programme>
+  <programme start="20190319100000 -0300" stop="20190319120000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">La vida es una canción</title>
+    <desc lang="es">Un programa donde se cuentan las historias siendo acompañadas por el nombre de una canción que mejor la representan(n)</desc>
+    <date>2004</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_vida_es_una_cancion.jpg" />
+  </programme>
+  <programme start="20190319120000 -0300" stop="20190319140000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">120 minutos</title>
+  </programme>
+  <programme start="20190319140000 -0300" stop="20190319143000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20190319143000 -0300" stop="20190319151500 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">A cada quien su santo</title>
+    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas(n)</desc>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
+  </programme>
+  <programme start="20190319151500 -0300" stop="20190319160000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Mujer, Casos de la Vida Real</title>
+  </programme>
+  <programme start="20190319160000 -0300" stop="20190319163000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20190319163000 -0300" stop="20190319180000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once - Tarde</title>
+  </programme>
+  <programme start="20190319180000 -0300" stop="20190319190000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Desafío Marruecos</title>
+  </programme>
+  <programme start="20190319190000 -0300" stop="20190319200000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20190319200000 -0300" stop="20190319210000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20190319210000 -0300" stop="20190319220000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once, edición estelar</title>
+  </programme>
+  <programme start="20190319220000 -0300" stop="20190319230000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Baywatch</title>
+  </programme>
+  <programme start="20190319230000 -0300" stop="20190320000000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Conexión fútbol</title>
+  </programme>
+  <programme start="20190320000000 -0300" stop="20190320010000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Informe 11, Las historias - Personajes</title>
+  </programme>
+  <programme start="20190320010000 -0300" stop="20190320020000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once - Edición Nocturna</title>
+  </programme>
+  <programme start="20190320020000 -0300" stop="20190320023000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Salud y alternativas</title>
+  </programme>
+  <programme start="20190320023000 -0300" stop="20190320030000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20190320030000 -0300" stop="20190320034500 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20190320034500 -0300" stop="20190320043000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">¡Cuéntamelo ya!</title>
+  </programme>
+  <programme start="20190320043000 -0300" stop="20190320050000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20190320050000 -0300" stop="20190320053000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Los Perplejos</title>
+  </programme>
+  <programme start="20190320053000 -0300" stop="20190320060000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">S.O.S. sexo y otros secretos</title>
+  </programme>
+  <programme start="20190320060000 -0300" stop="20190320070000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Cero en conducta</title>
+  </programme>
+  <programme start="20190320070000 -0300" stop="20190320080000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20190320080000 -0300" stop="20190320090000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Laura televisa</title>
+  </programme>
+  <programme start="20190320090000 -0300" stop="20190320100000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Plaza Sésamo</title>
+  </programme>
+  <programme start="20190320100000 -0300" stop="20190320120000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">La vida es una canción</title>
+    <desc lang="es">Un programa donde se cuentan las historias siendo acompañadas por el nombre de una canción que mejor la representan(n)</desc>
+    <date>2004</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_vida_es_una_cancion.jpg" />
+  </programme>
+  <programme start="20190320120000 -0300" stop="20190320140000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">120 minutos</title>
+  </programme>
+  <programme start="20190320140000 -0300" stop="20190320143000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20190320143000 -0300" stop="20190320151500 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">A cada quien su santo</title>
+    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas(n)</desc>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
+  </programme>
+  <programme start="20190320151500 -0300" stop="20190320160000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Mujer, Casos de la Vida Real</title>
+  </programme>
+  <programme start="20190320160000 -0300" stop="20190320163000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20190320163000 -0300" stop="20190320180000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once - Tarde</title>
+  </programme>
+  <programme start="20190320180000 -0300" stop="20190320190000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Desafío Marruecos</title>
+  </programme>
+  <programme start="20190320190000 -0300" stop="20190320200000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20190320200000 -0300" stop="20190320210000 -0300" channel="Canal 11 de Costa Rica">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20190318010000 -0300" stop="20190318013000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20190318013000 -0300" stop="20190318014500 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20190318014500 -0300" stop="20190318020000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20190318020000 -0300" stop="20190318030000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa Rica suena así</title>
+  </programme>
+  <programme start="20190318030000 -0300" stop="20190318040000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">DocTV Latinoamérica</title>
+  </programme>
+  <programme start="20190318040000 -0300" stop="20190318043000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">San José de noche</title>
+  </programme>
+  <programme start="20190318043000 -0300" stop="20190318053000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Lotería</title>
+  </programme>
+  <programme start="20190318053000 -0300" stop="20190318060000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20190318060000 -0300" stop="20190318063000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Genios de la comedia</title>
+  </programme>
+  <programme start="20190318063000 -0300" stop="20190318083000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Deportivas del Trece</title>
+  </programme>
+  <programme start="20190318083000 -0300" stop="20190318090000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20190318090000 -0300" stop="20190318093000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20190318093000 -0300" stop="20190318110000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La revista - Costa Rica Noticias</title>
+  </programme>
+  <programme start="20190318110000 -0300" stop="20190318113000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20190318113000 -0300" stop="20190318120000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20190318120000 -0300" stop="20190318123000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Con sello de oro</title>
+  </programme>
+  <programme start="20190318123000 -0300" stop="20190318130000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Documentales - Uned</title>
+  </programme>
+  <programme start="20190318130000 -0300" stop="20190318133000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La pulperia</title>
+  </programme>
+  <programme start="20190318133000 -0300" stop="20190318140000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Anónimas extraordinarias</title>
+  </programme>
+  <programme start="20190318140000 -0300" stop="20190318150000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Deportivas radio</title>
+  </programme>
+  <programme start="20190318150000 -0300" stop="20190318153000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20190318153000 -0300" stop="20190318160000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">De China a tu cocina</title>
+  </programme>
+  <programme start="20190318160000 -0300" stop="20190318170000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190318170000 -0300" stop="20190318173000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20190318173000 -0300" stop="20190318180000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Con sello de oro</title>
+  </programme>
+  <programme start="20190318180000 -0300" stop="20190318183000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Incluidos trabajar sin prejuicios</title>
+  </programme>
+  <programme start="20190318183000 -0300" stop="20190318190000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Somos cultura</title>
+  </programme>
+  <programme start="20190318190000 -0300" stop="20190318193000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20190318193000 -0300" stop="20190318194200 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Generacion Z</title>
+  </programme>
+  <programme start="20190318194200 -0300" stop="20190318195200 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Umbrales</title>
+  </programme>
+  <programme start="20190318195200 -0300" stop="20190318200000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Anónimas extraordinarias</title>
+  </programme>
+  <programme start="20190318200000 -0300" stop="20190318203000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20190318203000 -0300" stop="20190318210000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190318210000 -0300" stop="20190318220000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190318220000 -0300" stop="20190318230000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Alucine</title>
+  </programme>
+  <programme start="20190318230000 -0300" stop="20190319000000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190319000000 -0300" stop="20190319010000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Mata Hari</title>
+  </programme>
+  <programme start="20190319010000 -0300" stop="20190319014500 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Cuadriga</title>
+  </programme>
+  <programme start="20190319014500 -0300" stop="20190319020000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20190319020000 -0300" stop="20190319023000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Punto y coma</title>
+  </programme>
+  <programme start="20190319023000 -0300" stop="20190319030000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20190319030000 -0300" stop="20190319040000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Mata Hari</title>
+  </programme>
+  <programme start="20190319040000 -0300" stop="20190319050000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190319050000 -0300" stop="20190319053000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Somos cultura</title>
+  </programme>
+  <programme start="20190319053000 -0300" stop="20190319060000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20190319060000 -0300" stop="20190319063000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Genios de la comedia</title>
+  </programme>
+  <programme start="20190319063000 -0300" stop="20190319070000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Punto y coma</title>
+  </programme>
+  <programme start="20190319070000 -0300" stop="20190319073000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20190319073000 -0300" stop="20190319083000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190319083000 -0300" stop="20190319090000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20190319090000 -0300" stop="20190319093000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20190319093000 -0300" stop="20190319110000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La revista - Costa Rica Noticias</title>
+  </programme>
+  <programme start="20190319110000 -0300" stop="20190319113000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20190319113000 -0300" stop="20190319120000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20190319120000 -0300" stop="20190319123000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Con sello de oro</title>
+  </programme>
+  <programme start="20190319123000 -0300" stop="20190319130000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">De pueblo en pueblo</title>
+  </programme>
+  <programme start="20190319130000 -0300" stop="20190319133000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La pulperia</title>
+  </programme>
+  <programme start="20190319133000 -0300" stop="20190319140000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Anónimas extraordinarias</title>
+  </programme>
+  <programme start="20190319140000 -0300" stop="20190319150000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Deportivas radio</title>
+  </programme>
+  <programme start="20190319150000 -0300" stop="20190319153000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20190319153000 -0300" stop="20190319160000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20190319160000 -0300" stop="20190319170000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190319170000 -0300" stop="20190319173000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20190319173000 -0300" stop="20190319180000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Con sello de oro</title>
+  </programme>
+  <programme start="20190319180000 -0300" stop="20190319193000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Alucine</title>
+  </programme>
+  <programme start="20190319193000 -0300" stop="20190319200000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20190319200000 -0300" stop="20190319203000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20190319203000 -0300" stop="20190319210000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190319210000 -0300" stop="20190319220000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190319220000 -0300" stop="20190319223000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La pulperia</title>
+  </programme>
+  <programme start="20190319223000 -0300" stop="20190319224400 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Los chances</title>
+  </programme>
+  <programme start="20190319224400 -0300" stop="20190319230000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Somos cultura</title>
+  </programme>
+  <programme start="20190319230000 -0300" stop="20190320000000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190320000000 -0300" stop="20190320010000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Cartoneros</title>
+  </programme>
+  <programme start="20190320010000 -0300" stop="20190320014500 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20190320014500 -0300" stop="20190320020000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20190320020000 -0300" stop="20190320021500 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Umbrales</title>
+  </programme>
+  <programme start="20190320021500 -0300" stop="20190320022200 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Generacion Z</title>
+  </programme>
+  <programme start="20190320022200 -0300" stop="20190320023000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Algunos lugares</title>
+  </programme>
+  <programme start="20190320023000 -0300" stop="20190320030000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20190320030000 -0300" stop="20190320040000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Cartoneros</title>
+  </programme>
+  <programme start="20190320040000 -0300" stop="20190320050000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190320050000 -0300" stop="20190320053000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">De pueblo en pueblo</title>
+  </programme>
+  <programme start="20190320053000 -0300" stop="20190320060000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20190320060000 -0300" stop="20190320063000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Genios de la comedia</title>
+  </programme>
+  <programme start="20190320063000 -0300" stop="20190320064500 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Umbrales</title>
+  </programme>
+  <programme start="20190320064500 -0300" stop="20190320065200 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Generacion Z</title>
+  </programme>
+  <programme start="20190320065200 -0300" stop="20190320070000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Anónimas extraordinarias</title>
+  </programme>
+  <programme start="20190320070000 -0300" stop="20190320073000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20190320073000 -0300" stop="20190320083000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190320083000 -0300" stop="20190320090000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20190320090000 -0300" stop="20190320093000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20190320093000 -0300" stop="20190320110000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La revista - Costa Rica Noticias</title>
+  </programme>
+  <programme start="20190320110000 -0300" stop="20190320113000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20190320113000 -0300" stop="20190320120000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20190320120000 -0300" stop="20190320123000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Con sello de oro</title>
+  </programme>
+  <programme start="20190320123000 -0300" stop="20190320130000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Punto y coma</title>
+  </programme>
+  <programme start="20190320130000 -0300" stop="20190320133000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La pulperia</title>
+  </programme>
+  <programme start="20190320133000 -0300" stop="20190320140000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Anónimas extraordinarias</title>
+  </programme>
+  <programme start="20190320140000 -0300" stop="20190320150000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Deportivas radio</title>
+  </programme>
+  <programme start="20190320150000 -0300" stop="20190320153000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20190320153000 -0300" stop="20190320160000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Asi es China</title>
+  </programme>
+  <programme start="20190320160000 -0300" stop="20190320170000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Seis hermanas</title>
+  </programme>
+  <programme start="20190320170000 -0300" stop="20190320173000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20190320173000 -0300" stop="20190320180000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Con sello de oro</title>
+  </programme>
+  <programme start="20190320180000 -0300" stop="20190320190000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Campaña 1856-1857</title>
+  </programme>
+  <programme start="20190320190000 -0300" stop="20190320193000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Viaje al 56</title>
+  </programme>
+  <programme start="20190320193000 -0300" stop="20190320200000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Ella fue testigo</title>
+  </programme>
+  <programme start="20190320200000 -0300" stop="20190320203000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Santa Rosa Batalla de la libertad</title>
+  </programme>
+  <programme start="20190320203000 -0300" stop="20190320210000 -0300" channel="Canal 13 de Costa Rica">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20190318010000 -0300" stop="20190318030000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">El ausente</title>
+  </programme>
+  <programme start="20190318030000 -0300" stop="20190318110000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20190318110000 -0300" stop="20190318133000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Despierta, América</title>
+  </programme>
+  <programme start="20190318133000 -0300" stop="20190318140000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Spot Central</title>
+  </programme>
+  <programme start="20190318140000 -0300" stop="20190318150000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Los animales más graciosos</title>
+  </programme>
+  <programme start="20190318150000 -0300" stop="20190318153000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Me duele cuando me rio</title>
+  </programme>
+  <programme start="20190318153000 -0300" stop="20190318160000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cámara Loca</title>
+  </programme>
+  <programme start="20190318160000 -0300" stop="20190318163000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Reino Animal</title>
+  </programme>
+  <programme start="20190318163000 -0300" stop="20190318180000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cine mexicano</title>
+  </programme>
+  <programme start="20190318180000 -0300" stop="20190318190000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Grachi</title>
+  </programme>
+  <programme start="20190318190000 -0300" stop="20190318200000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Primer amor... a mil por hora</title>
+  </programme>
+  <programme start="20190318200000 -0300" stop="20190318210000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">La Vecina</title>
+  </programme>
+  <programme start="20190318210000 -0300" stop="20190318220000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Amy, la niña de la mochila azul</title>
+  </programme>
+  <programme start="20190318220000 -0300" stop="20190318230000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">El juego de la vida</title>
+  </programme>
+  <programme start="20190318230000 -0300" stop="20190319000000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20190319000000 -0300" stop="20190319010000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Los misterios de laura</title>
+  </programme>
+  <programme start="20190319010000 -0300" stop="20190319020000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Bandolera</title>
+  </programme>
+  <programme start="20190319020000 -0300" stop="20190319030000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Capitán Alatriste</title>
+  </programme>
+  <programme start="20190319030000 -0300" stop="20190319110000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20190319110000 -0300" stop="20190319133000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Despierta, América</title>
+  </programme>
+  <programme start="20190319133000 -0300" stop="20190319140000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Spot Central</title>
+  </programme>
+  <programme start="20190319140000 -0300" stop="20190319150000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Los animales más graciosos</title>
+  </programme>
+  <programme start="20190319150000 -0300" stop="20190319153000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Me duele cuando me rio</title>
+  </programme>
+  <programme start="20190319153000 -0300" stop="20190319160000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cámara Loca</title>
+  </programme>
+  <programme start="20190319160000 -0300" stop="20190319163000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Reino Animal</title>
+  </programme>
+  <programme start="20190319163000 -0300" stop="20190319180000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cine mexicano</title>
+  </programme>
+  <programme start="20190319180000 -0300" stop="20190319190000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Grachi</title>
+  </programme>
+  <programme start="20190319190000 -0300" stop="20190319200000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Primer amor... a mil por hora</title>
+  </programme>
+  <programme start="20190319200000 -0300" stop="20190319210000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">La Vecina</title>
+  </programme>
+  <programme start="20190319210000 -0300" stop="20190319220000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Amy, la niña de la mochila azul</title>
+  </programme>
+  <programme start="20190319220000 -0300" stop="20190319230000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">El juego de la vida</title>
+  </programme>
+  <programme start="20190319230000 -0300" stop="20190320000000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20190320000000 -0300" stop="20190320010000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Los misterios de laura</title>
+  </programme>
+  <programme start="20190320010000 -0300" stop="20190320020000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Bandolera</title>
+  </programme>
+  <programme start="20190320020000 -0300" stop="20190320030000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Capitán Alatriste</title>
+  </programme>
+  <programme start="20190320030000 -0300" stop="20190320110000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20190320110000 -0300" stop="20190320133000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Despierta, América</title>
+  </programme>
+  <programme start="20190320133000 -0300" stop="20190320140000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Spot Central</title>
+  </programme>
+  <programme start="20190320140000 -0300" stop="20190320150000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Los animales más graciosos</title>
+  </programme>
+  <programme start="20190320150000 -0300" stop="20190320153000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Me duele cuando me rio</title>
+  </programme>
+  <programme start="20190320153000 -0300" stop="20190320160000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cámara Loca</title>
+  </programme>
+  <programme start="20190320160000 -0300" stop="20190320163000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Reino Animal</title>
+  </programme>
+  <programme start="20190320163000 -0300" stop="20190320180000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cine mexicano</title>
+  </programme>
+  <programme start="20190320180000 -0300" stop="20190320190000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Grachi</title>
+  </programme>
+  <programme start="20190320190000 -0300" stop="20190320200000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Primer amor... a mil por hora</title>
+  </programme>
+  <programme start="20190320200000 -0300" stop="20190320210000 -0300" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">La Vecina</title>
+  </programme>
+  <programme start="20190318020000 -0300" stop="20190318030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
@@ -611,7 +785,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20190304030000 -0300" stop="20190304040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318030000 -0300" stop="20190318040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día(n)</desc>
     <date>2005</date>
@@ -623,46 +797,46 @@
     <country>Estados Unidos</country>
     <country>Colombia</country>
   </programme>
-  <programme start="20190304040000 -0300" stop="20190304050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318040000 -0300" stop="20190318050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Así es la vida</title>
   </programme>
-  <programme start="20190304050000 -0300" stop="20190304060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318050000 -0300" stop="20190318060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Cambio de vida</title>
   </programme>
-  <programme start="20190304060000 -0300" stop="20190304070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318060000 -0300" stop="20190318070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Aquí y ahora 2018</title>
   </programme>
-  <programme start="20190304070000 -0300" stop="20190304080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318070000 -0300" stop="20190318080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Al Rojo Vivo</title>
   </programme>
-  <programme start="20190304080000 -0300" stop="20190304090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318080000 -0300" stop="20190318090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Teresa</title>
   </programme>
-  <programme start="20190304090000 -0300" stop="20190304110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318090000 -0300" stop="20190318110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190304110000 -0300" stop="20190304130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318110000 -0300" stop="20190318130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros</title>
   </programme>
-  <programme start="20190304130000 -0300" stop="20190304133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318130000 -0300" stop="20190318133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros de la fama</title>
   </programme>
-  <programme start="20190304133000 -0300" stop="20190304140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318133000 -0300" stop="20190318140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">María la del barrio</title>
   </programme>
-  <programme start="20190304140000 -0300" stop="20190304150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318140000 -0300" stop="20190318150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Mi marido tiene mas familia</title>
   </programme>
-  <programme start="20190304150000 -0300" stop="20190304163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318150000 -0300" stop="20190318163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190304163000 -0300" stop="20190304173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318163000 -0300" stop="20190318173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Sin Tu Mirada</title>
   </programme>
-  <programme start="20190304173000 -0300" stop="20190304183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318173000 -0300" stop="20190318183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20190304183000 -0300" stop="20190304193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318183000 -0300" stop="20190318193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
     <credits>
@@ -675,31 +849,31 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20190304193000 -0300" stop="20190304210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318193000 -0300" stop="20190318210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20190304210000 -0300" stop="20190304220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318210000 -0300" stop="20190318220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Nuevo rico, nuevo pobre</title>
   </programme>
-  <programme start="20190304220000 -0300" stop="20190304230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318220000 -0300" stop="20190318230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190304230000 -0300" stop="20190305000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190318230000 -0300" stop="20190319000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Me robó mi vida</title>
   </programme>
-  <programme start="20190305000000 -0300" stop="20190305010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319000000 -0300" stop="20190319010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Amor Prohibido</title>
   </programme>
-  <programme start="20190305010000 -0300" stop="20190305020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319010000 -0300" stop="20190319020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Pablo Escobar, El Patrón</title>
   </programme>
-  <programme start="20190305020000 -0300" stop="20190305023000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319020000 -0300" stop="20190319023000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190305023000 -0300" stop="20190305030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319023000 -0300" stop="20190319030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20190305030000 -0300" stop="20190305040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319030000 -0300" stop="20190319040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día(n)</desc>
     <date>2005</date>
@@ -711,46 +885,46 @@
     <country>Estados Unidos</country>
     <country>Colombia</country>
   </programme>
-  <programme start="20190305040000 -0300" stop="20190305050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319040000 -0300" stop="20190319050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Así es la vida</title>
   </programme>
-  <programme start="20190305050000 -0300" stop="20190305060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319050000 -0300" stop="20190319060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Cambio de vida</title>
   </programme>
-  <programme start="20190305060000 -0300" stop="20190305070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319060000 -0300" stop="20190319070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Aquí y ahora 2018</title>
   </programme>
-  <programme start="20190305070000 -0300" stop="20190305080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319070000 -0300" stop="20190319080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Al Rojo Vivo</title>
   </programme>
-  <programme start="20190305080000 -0300" stop="20190305090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319080000 -0300" stop="20190319090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Teresa</title>
   </programme>
-  <programme start="20190305090000 -0300" stop="20190305110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319090000 -0300" stop="20190319110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190305110000 -0300" stop="20190305130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319110000 -0300" stop="20190319130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros</title>
   </programme>
-  <programme start="20190305130000 -0300" stop="20190305133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319130000 -0300" stop="20190319133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros de la fama</title>
   </programme>
-  <programme start="20190305133000 -0300" stop="20190305140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319133000 -0300" stop="20190319140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">María la del barrio</title>
   </programme>
-  <programme start="20190305140000 -0300" stop="20190305150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319140000 -0300" stop="20190319150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Mi marido tiene mas familia</title>
   </programme>
-  <programme start="20190305150000 -0300" stop="20190305163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319150000 -0300" stop="20190319163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190305163000 -0300" stop="20190305173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319163000 -0300" stop="20190319173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Sin Tu Mirada</title>
   </programme>
-  <programme start="20190305173000 -0300" stop="20190305183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319173000 -0300" stop="20190319183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20190305183000 -0300" stop="20190305193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319183000 -0300" stop="20190319193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
     <credits>
@@ -763,31 +937,31 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20190305193000 -0300" stop="20190305210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319193000 -0300" stop="20190319210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20190305210000 -0300" stop="20190305220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319210000 -0300" stop="20190319220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Nuevo rico, nuevo pobre</title>
   </programme>
-  <programme start="20190305220000 -0300" stop="20190305230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319220000 -0300" stop="20190319230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190305230000 -0300" stop="20190306000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190319230000 -0300" stop="20190320000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Me robó mi vida</title>
   </programme>
-  <programme start="20190306000000 -0300" stop="20190306010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320000000 -0300" stop="20190320010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Amor Prohibido</title>
   </programme>
-  <programme start="20190306010000 -0300" stop="20190306020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320010000 -0300" stop="20190320020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Pablo Escobar, El Patrón</title>
   </programme>
-  <programme start="20190306020000 -0300" stop="20190306023000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320020000 -0300" stop="20190320023000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190306023000 -0300" stop="20190306030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320023000 -0300" stop="20190320030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20190306030000 -0300" stop="20190306040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320030000 -0300" stop="20190320040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día(n)</desc>
     <date>2005</date>
@@ -799,46 +973,46 @@
     <country>Estados Unidos</country>
     <country>Colombia</country>
   </programme>
-  <programme start="20190306040000 -0300" stop="20190306050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320040000 -0300" stop="20190320050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Así es la vida</title>
   </programme>
-  <programme start="20190306050000 -0300" stop="20190306060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320050000 -0300" stop="20190320060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Cambio de vida</title>
   </programme>
-  <programme start="20190306060000 -0300" stop="20190306070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320060000 -0300" stop="20190320070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Aquí y ahora 2018</title>
   </programme>
-  <programme start="20190306070000 -0300" stop="20190306080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320070000 -0300" stop="20190320080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Al Rojo Vivo</title>
   </programme>
-  <programme start="20190306080000 -0300" stop="20190306090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320080000 -0300" stop="20190320090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Teresa</title>
   </programme>
-  <programme start="20190306090000 -0300" stop="20190306110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320090000 -0300" stop="20190320110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190306110000 -0300" stop="20190306130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320110000 -0300" stop="20190320130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros</title>
   </programme>
-  <programme start="20190306130000 -0300" stop="20190306133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320130000 -0300" stop="20190320133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros de la fama</title>
   </programme>
-  <programme start="20190306133000 -0300" stop="20190306140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320133000 -0300" stop="20190320140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">María la del barrio</title>
   </programme>
-  <programme start="20190306140000 -0300" stop="20190306150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320140000 -0300" stop="20190320150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Mi marido tiene mas familia</title>
   </programme>
-  <programme start="20190306150000 -0300" stop="20190306163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320150000 -0300" stop="20190320163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190306163000 -0300" stop="20190306173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320163000 -0300" stop="20190320173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Sin Tu Mirada</title>
   </programme>
-  <programme start="20190306173000 -0300" stop="20190306183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320173000 -0300" stop="20190320183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20190306183000 -0300" stop="20190306193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320183000 -0300" stop="20190320193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
     <credits>
@@ -851,31 +1025,34 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20190306193000 -0300" stop="20190306210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320193000 -0300" stop="20190320210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20190306210000 -0300" stop="20190306220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320210000 -0300" stop="20190320220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Nuevo rico, nuevo pobre</title>
   </programme>
-  <programme start="20190306220000 -0300" stop="20190306230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190320220000 -0300" stop="20190320224500 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190306230000 -0300" stop="20190307000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Me robó mi vida</title>
+  <programme start="20190320224500 -0300" stop="20190320230500 -0300" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Previo Partido</title>
   </programme>
-  <programme start="20190307000000 -0300" stop="20190307010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
-    <title lang="es">Amor Prohibido</title>
+  <programme start="20190320230500 -0300" stop="20190321010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Alajuela vs. Limón</title>
   </programme>
-  <programme start="20190307010000 -0300" stop="20190307020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190321230500 -0300" stop="20190322010000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Alajuela vs. Limón</title>
+  </programme>
+  <programme start="20190322010000 -0300" stop="20190322020000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Pablo Escobar, El Patrón</title>
   </programme>
-  <programme start="20190307020000 -0300" stop="20190307023000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322020000 -0300" stop="20190322023000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190307023000 -0300" stop="20190307030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322023000 -0300" stop="20190322030000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20190307030000 -0300" stop="20190307040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322030000 -0300" stop="20190322040000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día(n)</desc>
     <date>2005</date>
@@ -887,46 +1064,46 @@
     <country>Estados Unidos</country>
     <country>Colombia</country>
   </programme>
-  <programme start="20190307040000 -0300" stop="20190307050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322040000 -0300" stop="20190322050000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Así es la vida</title>
   </programme>
-  <programme start="20190307050000 -0300" stop="20190307060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322050000 -0300" stop="20190322060000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Cambio de vida</title>
   </programme>
-  <programme start="20190307060000 -0300" stop="20190307070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322060000 -0300" stop="20190322070000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Aquí y ahora 2018</title>
   </programme>
-  <programme start="20190307070000 -0300" stop="20190307080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322070000 -0300" stop="20190322080000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Al Rojo Vivo</title>
   </programme>
-  <programme start="20190307080000 -0300" stop="20190307090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322080000 -0300" stop="20190322090000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Teresa</title>
   </programme>
-  <programme start="20190307090000 -0300" stop="20190307110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322090000 -0300" stop="20190322110000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190307110000 -0300" stop="20190307130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322110000 -0300" stop="20190322130000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros</title>
   </programme>
-  <programme start="20190307130000 -0300" stop="20190307133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322130000 -0300" stop="20190322133000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Giros de la fama</title>
   </programme>
-  <programme start="20190307133000 -0300" stop="20190307140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322133000 -0300" stop="20190322140000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">María la del barrio</title>
   </programme>
-  <programme start="20190307140000 -0300" stop="20190307150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322140000 -0300" stop="20190322150000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Mi marido tiene mas familia</title>
   </programme>
-  <programme start="20190307150000 -0300" stop="20190307163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322150000 -0300" stop="20190322163000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190307163000 -0300" stop="20190307173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322163000 -0300" stop="20190322173000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Sin Tu Mirada</title>
   </programme>
-  <programme start="20190307173000 -0300" stop="20190307183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322173000 -0300" stop="20190322183000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20190307183000 -0300" stop="20190307193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322183000 -0300" stop="20190322193000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
     <credits>
@@ -939,262 +1116,476 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20190307193000 -0300" stop="20190307210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322193000 -0300" stop="20190322210000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20190307210000 -0300" stop="20190307220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322210000 -0300" stop="20190322220000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Nuevo rico, nuevo pobre</title>
   </programme>
-  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322220000 -0300" stop="20190322230000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20190307230000 -0300" stop="20190308000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
+  <programme start="20190322230000 -0300" stop="20190323000000 -0300" channel="Canal 6 Repretel (Costa Rica)">
     <title lang="es">Me robó mi vida</title>
   </programme>
-  <programme start="20190303010000 -0300" stop="20190303030000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Best seller</title>
-  </programme>
-  <programme start="20190303030000 -0300" stop="20190303043000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Cine de medianoche</title>
-  </programme>
-  <programme start="20190303043000 -0300" stop="20190303063000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Cine madrugada</title>
-  </programme>
-  <programme start="20190303063000 -0300" stop="20190303090000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Cine madrugada</title>
-  </programme>
-  <programme start="20190303090000 -0300" stop="20190303110000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Bloque Religioso</title>
-  </programme>
-  <programme start="20190303110000 -0300" stop="20190303120000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Deporte</title>
-  </programme>
-  <programme start="20190303120000 -0300" stop="20190303123000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Serie</title>
-  </programme>
-  <programme start="20190303123000 -0300" stop="20190303133000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Zona técnica</title>
-  </programme>
-  <programme start="20190303133000 -0300" stop="20190303140000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Teletica Deportes</title>
-  </programme>
-  <programme start="20190303140000 -0300" stop="20190303160000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Cine Matineé</title>
-  </programme>
-  <programme start="20190303160000 -0300" stop="20190303210000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Futbol Nacional</title>
-  </programme>
-  <programme start="20190303210000 -0300" stop="20190303213000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Resumen deportivo</title>
-  </programme>
-  <programme start="20190303213000 -0300" stop="20190303220000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Telenoticias</title>
-  </programme>
-  <programme start="20190303220000 -0300" stop="20190304000000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Tu Cara Me Suena</title>
-  </programme>
-  <programme start="20190304000000 -0300" stop="20190304020000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Super cine</title>
-  </programme>
-  <programme start="20190304020000 -0300" stop="20190304030000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318020000 -0300" stop="20190318030000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Macgyver</title>
   </programme>
-  <programme start="20190304030000 -0300" stop="20190304033000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318030000 -0300" stop="20190318033000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Serie</title>
   </programme>
-  <programme start="20190304033000 -0300" stop="20190304043000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318033000 -0300" stop="20190318043000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">De boca en boca</title>
   </programme>
-  <programme start="20190304043000 -0300" stop="20190304053000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318043000 -0300" stop="20190318053000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">¡Qué buena tarde!</title>
   </programme>
-  <programme start="20190304053000 -0300" stop="20190304063000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318053000 -0300" stop="20190318063000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">¡Qué vida buena!</title>
   </programme>
-  <programme start="20190304063000 -0300" stop="20190304070000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Habitat soluciones</title>
+  <programme start="20190318063000 -0300" stop="20190318070000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Serie</title>
   </programme>
-  <programme start="20190304070000 -0300" stop="20190304073000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318070000 -0300" stop="20190318073000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">El ABC de los Padres</title>
   </programme>
-  <programme start="20190304073000 -0300" stop="20190304080000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318073000 -0300" stop="20190318080000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Más que noticias</title>
   </programme>
-  <programme start="20190304080000 -0300" stop="20190304090000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318080000 -0300" stop="20190318090000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">El Cuerpo del Deseo</title>
   </programme>
-  <programme start="20190304090000 -0300" stop="20190304110000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318090000 -0300" stop="20190318110000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Telenoticias matutina</title>
   </programme>
-  <programme start="20190304110000 -0300" stop="20190304130000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318110000 -0300" stop="20190318130000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Buen día</title>
   </programme>
-  <programme start="20190304130000 -0300" stop="20190304140000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318130000 -0300" stop="20190318140000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">La Trampa</title>
   </programme>
-  <programme start="20190304140000 -0300" stop="20190304150000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318140000 -0300" stop="20190318150000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Elif</title>
   </programme>
-  <programme start="20190304150000 -0300" stop="20190304163000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318150000 -0300" stop="20190318163000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">Telenoticias meridiana</title>
   </programme>
-  <programme start="20190304163000 -0300" stop="20190304173000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318163000 -0300" stop="20190318173000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">De boca en boca</title>
   </programme>
-  <programme start="20190304173000 -0300" stop="20190304183000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">Zumba Despierta tu pasión</title>
+  <programme start="20190318173000 -0300" stop="20190318183000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Hasta el final</title>
   </programme>
-  <programme start="20190304183000 -0300" stop="20190304193000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318183000 -0300" stop="20190318193000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">¡Qué vida buena!</title>
   </programme>
-  <programme start="20190304193000 -0300" stop="20190304203000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
-    <title lang="es">El inútil</title>
+  <programme start="20190318193000 -0300" stop="20190318203000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Los Reyes</title>
   </programme>
-  <programme start="20190304203000 -0300" stop="20190304213000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+  <programme start="20190318203000 -0300" stop="20190318213000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
     <title lang="es">¡Qué buena tarde!</title>
   </programme>
-  <programme start="20190303010000 -0300" stop="20190303020000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318213000 -0300" stop="20190318220000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20190318220000 -0300" stop="20190318230000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20190318230000 -0300" stop="20190319000000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">7 días</title>
+  </programme>
+  <programme start="20190319000000 -0300" stop="20190319010000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20190319010000 -0300" stop="20190319020000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">José José</title>
+  </programme>
+  <programme start="20190319020000 -0300" stop="20190319023000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20190319023000 -0300" stop="20190319033000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Blue Bloods</title>
+    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD)(n)</desc>
+    <credits>
+      <actor>Will Estes</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Tom Selleck</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/blue_bloods.png" />
+  </programme>
+  <programme start="20190319033000 -0300" stop="20190319043000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20190319043000 -0300" stop="20190319053000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué buena tarde!</title>
+  </programme>
+  <programme start="20190319053000 -0300" stop="20190319063000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué vida buena!</title>
+  </programme>
+  <programme start="20190319063000 -0300" stop="20190319073000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Deporte</title>
+  </programme>
+  <programme start="20190319073000 -0300" stop="20190319080000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20190319080000 -0300" stop="20190319090000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">El Cuerpo del Deseo</title>
+  </programme>
+  <programme start="20190319090000 -0300" stop="20190319110000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias matutina</title>
+  </programme>
+  <programme start="20190319110000 -0300" stop="20190319130000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20190319130000 -0300" stop="20190319140000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20190319140000 -0300" stop="20190319150000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190319150000 -0300" stop="20190319163000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias meridiana</title>
+  </programme>
+  <programme start="20190319163000 -0300" stop="20190319173000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20190319173000 -0300" stop="20190319183000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Hasta el final</title>
+  </programme>
+  <programme start="20190319183000 -0300" stop="20190319193000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué vida buena!</title>
+  </programme>
+  <programme start="20190319193000 -0300" stop="20190319203000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Los Reyes</title>
+  </programme>
+  <programme start="20190319203000 -0300" stop="20190319213000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué buena tarde!</title>
+  </programme>
+  <programme start="20190319213000 -0300" stop="20190319220000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20190319220000 -0300" stop="20190319230000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20190319230000 -0300" stop="20190320000000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">7 estrellas</title>
+  </programme>
+  <programme start="20190320000000 -0300" stop="20190320010000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20190320010000 -0300" stop="20190320020000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">José José</title>
+  </programme>
+  <programme start="20190320020000 -0300" stop="20190320023000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20190320023000 -0300" stop="20190320033000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Bull</title>
+  </programme>
+  <programme start="20190320033000 -0300" stop="20190320043000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20190320043000 -0300" stop="20190320053000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué buena tarde!</title>
+  </programme>
+  <programme start="20190320053000 -0300" stop="20190320063000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué vida buena!</title>
+  </programme>
+  <programme start="20190320063000 -0300" stop="20190320073000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">7 días</title>
+  </programme>
+  <programme start="20190320073000 -0300" stop="20190320080000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20190320080000 -0300" stop="20190320090000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">El Cuerpo del Deseo</title>
+  </programme>
+  <programme start="20190320090000 -0300" stop="20190320110000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias matutina</title>
+  </programme>
+  <programme start="20190320110000 -0300" stop="20190320130000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20190320130000 -0300" stop="20190320140000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20190320140000 -0300" stop="20190320150000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190320150000 -0300" stop="20190320163000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias meridiana</title>
+  </programme>
+  <programme start="20190320163000 -0300" stop="20190320173000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20190320173000 -0300" stop="20190320183000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Hasta el final</title>
+  </programme>
+  <programme start="20190320183000 -0300" stop="20190320193000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué vida buena!</title>
+  </programme>
+  <programme start="20190320193000 -0300" stop="20190320203000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Los Reyes</title>
+  </programme>
+  <programme start="20190320203000 -0300" stop="20190320213000 -0300" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué buena tarde!</title>
+  </programme>
+  <programme start="20190318010000 -0300" stop="20190318020000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Fiesta TV</title>
   </programme>
-  <programme start="20190303020000 -0300" stop="20190303030000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Más Deporte</title>
-  </programme>
-  <programme start="20190303030000 -0300" stop="20190303040000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Vivienda y construcción</title>
-  </programme>
-  <programme start="20190303040000 -0300" stop="20190303060000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Detente y acelera</title>
-  </programme>
-  <programme start="20190303060000 -0300" stop="20190303070000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Con sabor y saber</title>
-  </programme>
-  <programme start="20190303070000 -0300" stop="20190303110000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Música</title>
-  </programme>
-  <programme start="20190303110000 -0300" stop="20190303113000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20190303113000 -0300" stop="20190303120000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Cuestión de fe</title>
-  </programme>
-  <programme start="20190303120000 -0300" stop="20190303130000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Fútbol TV</title>
-  </programme>
-  <programme start="20190303130000 -0300" stop="20190303133000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">El destino de la suerte</title>
-  </programme>
-  <programme start="20190303133000 -0300" stop="20190303140000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Música</title>
-  </programme>
-  <programme start="20190303140000 -0300" stop="20190303150000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20190303150000 -0300" stop="20190303163000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Gana millones</title>
-  </programme>
-  <programme start="20190303163000 -0300" stop="20190303170000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20190303170000 -0300" stop="20190303180000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Música</title>
-  </programme>
-  <programme start="20190303180000 -0300" stop="20190303190000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20190303190000 -0300" stop="20190303200000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Gana millones</title>
-  </programme>
-  <programme start="20190303200000 -0300" stop="20190303210000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318020000 -0300" stop="20190318030000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Familia dorada</title>
   </programme>
-  <programme start="20190303210000 -0300" stop="20190303220000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Extra noticias</title>
-  </programme>
-  <programme start="20190303220000 -0300" stop="20190303221500 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">En corto y directo</title>
-  </programme>
-  <programme start="20190303221500 -0300" stop="20190303230000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Tierra y tradición Tica</title>
-  </programme>
-  <programme start="20190303230000 -0300" stop="20190304000000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Tiempo Extra</title>
-  </programme>
-  <programme start="20190304000000 -0300" stop="20190304010000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Música</title>
-  </programme>
-  <programme start="20190304010000 -0300" stop="20190304020000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Fiesta TV</title>
-  </programme>
-  <programme start="20190304020000 -0300" stop="20190304030000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Familia dorada</title>
-  </programme>
-  <programme start="20190304030000 -0300" stop="20190304040000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318030000 -0300" stop="20190318040000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Fútbol TV</title>
   </programme>
-  <programme start="20190304040000 -0300" stop="20190304050000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318040000 -0300" stop="20190318050000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Tiempo Extra</title>
   </programme>
-  <programme start="20190304050000 -0300" stop="20190304060000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318050000 -0300" stop="20190318060000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Cuestión de fe</title>
   </programme>
-  <programme start="20190304060000 -0300" stop="20190304063000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318060000 -0300" stop="20190318090000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Música</title>
   </programme>
-  <programme start="20190304063000 -0300" stop="20190304090000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Música</title>
-  </programme>
-  <programme start="20190304090000 -0300" stop="20190304100000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318090000 -0300" stop="20190318100000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Extra noticias</title>
   </programme>
-  <programme start="20190304100000 -0300" stop="20190304103000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318100000 -0300" stop="20190318110000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190318110000 -0300" stop="20190318113000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Camino al éxito</title>
   </programme>
-  <programme start="20190304103000 -0300" stop="20190304110000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Música</title>
-  </programme>
-  <programme start="20190304110000 -0300" stop="20190304113000 -0300" channel="Canal Extra TV 42 de Costa Rica">
-    <title lang="es">Cultura.21</title>
-  </programme>
-  <programme start="20190304113000 -0300" stop="20190304114500 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318113000 -0300" stop="20190318114500 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Economía creativa</title>
   </programme>
-  <programme start="20190304114500 -0300" stop="20190304120000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318114500 -0300" stop="20190318120000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Reporteros por el mundo</title>
   </programme>
-  <programme start="20190304120000 -0300" stop="20190304130000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318120000 -0300" stop="20190318130000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Documentales</title>
   </programme>
-  <programme start="20190304130000 -0300" stop="20190304140000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318130000 -0300" stop="20190318140000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Somos Familia</title>
   </programme>
-  <programme start="20190304140000 -0300" stop="20190304143000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318140000 -0300" stop="20190318143000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Música</title>
   </programme>
-  <programme start="20190304143000 -0300" stop="20190304150000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318143000 -0300" stop="20190318150000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Camino al éxito</title>
   </programme>
-  <programme start="20190304150000 -0300" stop="20190304160000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318150000 -0300" stop="20190318160000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Extra noticias</title>
   </programme>
-  <programme start="20190304160000 -0300" stop="20190304170000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318160000 -0300" stop="20190318170000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Documentales</title>
   </programme>
-  <programme start="20190304170000 -0300" stop="20190304173000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318170000 -0300" stop="20190318173000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Música</title>
   </programme>
-  <programme start="20190304173000 -0300" stop="20190304180000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318173000 -0300" stop="20190318180000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Documentales</title>
   </programme>
-  <programme start="20190304180000 -0300" stop="20190304190000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318180000 -0300" stop="20190318190000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Siempre contigo</title>
   </programme>
-  <programme start="20190304190000 -0300" stop="20190304193000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318190000 -0300" stop="20190318193000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Camino al éxito</title>
   </programme>
-  <programme start="20190304193000 -0300" stop="20190304200000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318193000 -0300" stop="20190318200000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Vida y salud</title>
   </programme>
-  <programme start="20190304200000 -0300" stop="20190304210000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+  <programme start="20190318200000 -0300" stop="20190318210000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Zona motriz</title>
+  </programme>
+  <programme start="20190318210000 -0300" stop="20190318220000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190318220000 -0300" stop="20190318230000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Dr. Mauro Un mundo sexual</title>
+  </programme>
+  <programme start="20190318230000 -0300" stop="20190319000000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">La verdad</title>
+  </programme>
+  <programme start="20190319000000 -0300" stop="20190319003000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Fútbol de noche</title>
+  </programme>
+  <programme start="20190319003000 -0300" stop="20190319010000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">El destino de tu suerte</title>
+  </programme>
+  <programme start="20190319010000 -0300" stop="20190319020000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190319020000 -0300" stop="20190319030000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190319030000 -0300" stop="20190319040000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Zona motriz</title>
+  </programme>
+  <programme start="20190319040000 -0300" stop="20190319043000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Dr. Mauro Un mundo sexual</title>
+  </programme>
+  <programme start="20190319043000 -0300" stop="20190319050000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Siempre contigo</title>
+  </programme>
+  <programme start="20190319050000 -0300" stop="20190319060000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">La verdad</title>
+  </programme>
+  <programme start="20190319060000 -0300" stop="20190319070000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Fútbol de noche</title>
+  </programme>
+  <programme start="20190319070000 -0300" stop="20190319080000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20190319080000 -0300" stop="20190319082500 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Somos Familia</title>
+  </programme>
+  <programme start="20190319082500 -0300" stop="20190319090000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190319090000 -0300" stop="20190319100000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190319100000 -0300" stop="20190319110000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190319110000 -0300" stop="20190319113000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20190319113000 -0300" stop="20190319120000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20190319120000 -0300" stop="20190319130000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20190319130000 -0300" stop="20190319140000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Somos Familia</title>
+  </programme>
+  <programme start="20190319140000 -0300" stop="20190319143000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190319143000 -0300" stop="20190319150000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20190319150000 -0300" stop="20190319160000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190319160000 -0300" stop="20190319170000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20190319170000 -0300" stop="20190319180000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Horizontes</title>
+  </programme>
+  <programme start="20190319180000 -0300" stop="20190319190000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Siempre contigo</title>
+  </programme>
+  <programme start="20190319190000 -0300" stop="20190319193000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20190319193000 -0300" stop="20190319200000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20190319200000 -0300" stop="20190319210000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Salud y algo más</title>
+  </programme>
+  <programme start="20190319210000 -0300" stop="20190319220000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190319220000 -0300" stop="20190319230000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Vida dura</title>
+  </programme>
+  <programme start="20190319230000 -0300" stop="20190320000000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Sin rodeos municipal</title>
+  </programme>
+  <programme start="20190320000000 -0300" stop="20190320003000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Fútbol de noche</title>
+  </programme>
+  <programme start="20190320003000 -0300" stop="20190320010000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">El destino de tu suerte</title>
+  </programme>
+  <programme start="20190320010000 -0300" stop="20190320020000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190320020000 -0300" stop="20190320030000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190320030000 -0300" stop="20190320040000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Horizontes</title>
+  </programme>
+  <programme start="20190320040000 -0300" stop="20190320043000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Sin rodeos municipal</title>
+  </programme>
+  <programme start="20190320043000 -0300" stop="20190320050000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Salud y algo más</title>
+  </programme>
+  <programme start="20190320050000 -0300" stop="20190320060000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Siempre contigo</title>
+  </programme>
+  <programme start="20190320060000 -0300" stop="20190320070000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Fútbol de noche</title>
+  </programme>
+  <programme start="20190320070000 -0300" stop="20190320080000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20190320080000 -0300" stop="20190320082500 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Somos Familia</title>
+  </programme>
+  <programme start="20190320082500 -0300" stop="20190320090000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190320090000 -0300" stop="20190320100000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190320100000 -0300" stop="20190320110000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190320110000 -0300" stop="20190320113000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20190320113000 -0300" stop="20190320120000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190320120000 -0300" stop="20190320130000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20190320130000 -0300" stop="20190320140000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Somos Familia</title>
+  </programme>
+  <programme start="20190320140000 -0300" stop="20190320143000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190320143000 -0300" stop="20190320150000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20190320150000 -0300" stop="20190320160000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra noticias</title>
+  </programme>
+  <programme start="20190320160000 -0300" stop="20190320170000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Gana millones</title>
+  </programme>
+  <programme start="20190320170000 -0300" stop="20190320173000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Fuerza latina</title>
+  </programme>
+  <programme start="20190320173000 -0300" stop="20190320180000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20190320180000 -0300" stop="20190320190000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Opción natural</title>
+  </programme>
+  <programme start="20190320190000 -0300" stop="20190320193000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20190320193000 -0300" stop="20190320200000 -0300" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20190320200000 -0300" stop="20190320210000 -0300" channel="Canal Extra TV 42 de Costa Rica">
     <title lang="es">Zona motriz</title>
   </programme>
 </tv>
