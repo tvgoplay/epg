@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv><channel id="Chilevision.cl">
+<tv><channel id="PPV CINEMA">
     <display-name lang="es">PPV CINEMA</display-name>
     
     <url>http://www.reportv.com.ar</url>
-  <icon src="http://static.iptv-epg.com/cl/Chilevision.cl.png"/></channel>
+   <icon src="http://static.iptv-epg.com/cl/Chilevision.cl.png"/></channel>
 <iepg>62880</iepg>
 
   </programme><programme start="20190905130000 -0300" stop="20190905153000 -0300" channel="PPV CINEMA">
