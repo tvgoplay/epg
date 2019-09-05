@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv>
-
-
-<programme start="20190903003000 +0000" stop="20200903013000 +0000" channel="PPV">
-    <title lang="es">Canal Exclusivo de ePro</title>
-    <sub-title lang="es">Canal Exclusivo de ePro</sub-title>
-    <desc lang="es">Peliculas estrenos exclusivas de Evolution Pro</desc>
-    <category lang="es">Cine</category>
-    <category lang="es">Cine</category>
+<tv><channel id="13C.cl">
+    <display-name lang="es">13 C CL</display-name>
+    <url>http://www.mi.tv</url>
+  <icon src="http://static.iptv-epg.com/cl/13C.cl.png"/></channel>
+  
+  <iepg>62784</iepg>
+  
+  <programme start="20190905003000 +0000" stop="20190903013000 +0000" channel="13C.cl">
+    <title lang="es">Avivando la cueca</title>
+    <sub-title lang="es">La cueca porteña</sub-title>
+    <desc lang="es">Serie documental que recorre las principales ciudades del pais descubriendo las diferentes representaciones, exponentes y lugares en que se desarrolla la cueca brava</desc>
+    <category lang="es">Episodio 2 -</category>
+    <category lang="es">Series</category>
     <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme><programme start="20190903013000 +0000" stop="20190903023000 +0000" channel="13C.cl">
+    <title lang="es">Recomiendo América</title>
+    <sub-title lang="es">Cuenca, Ecuador</sub-title>
+    <desc lang="es">Serie documental que aporta una mirada moderna hacia la gastronomía tradicional del continente</desc>
+    <category lang="es">Episodio 1 -</category>
+    <category lang="es">Series</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
 	
 	
-	
-	
-	
-	</programme></tv>
+</programme></tv>
