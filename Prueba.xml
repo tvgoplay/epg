@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv><channel id="13C.cl">
+    <display-name lang="es">13 C CL</display-name>
+    <url>http://www.mi.tv</url>
+  <icon src="http://static.iptv-epg.com/cl/13C.cl.png"/></channel>
+
+
+<programme start="20190903003000 +0000" stop="20200903013000 +0000" channel="PPV">
+    <title lang="es">Canal Exclusivo de ePro</title>
+    <sub-title lang="es">Canal Exclusivo de ePro</sub-title>
+    <desc lang="es">Peliculas estrenos exclusivas de Evolution Pro24/7</desc>
+    <category lang="es"></category>
+    <category lang="es">Series</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+	
+	
+	
+	
+	
+	</programme></tv>
