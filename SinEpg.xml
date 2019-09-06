@@ -16,22 +16,28 @@
 
   <programme start="20190906110000 +0000" stop="20191020020000 +0000" channel="PROG EXCLUSIVA">
     <title lang="es">Programación Exclusiva de Evolution Pro</title>
+	<desc lang="es">Programación exclusiva para clientes de Evolution Pro, ¡Lo mejor lo encontraras siempre aqui! ePro+</desc>
   </programme>
   <programme start="20191020020000 +0000" stop="20191130030000 +0000" channel="PROG EXCLUSIVA">
     <title lang="es">Programación Exclusiva de Evolution Pro</title>
+	<desc lang="es">Programación exclusiva para clientes de Evolution Pro, ¡Lo mejor lo encontraras siempre aqui! ePro+</desc>
   </programme>
   <programme start="20191130030000 +0000" stop="20191230040000 +0000" channel="PROG EXCLUSIVA">
     <title lang="es">Programación Exclusiva de Evolution Pro</title>
+	<desc lang="es">Programación exclusiva para clientes de Evolution Pro, ¡Lo mejor lo encontraras siempre aqui! ePro+</desc>
   </programme>
   
     <programme start="20190906110000 +0000" stop="20191020020000 +0000" channel="SIN EPG">
-    <title lang="es">Programación variada, aún no ha sido definida</title>
+    <title lang="es">Programación variada, no definida</title>
+	<desc lang="es">Programación aún no definida por la emisora del canal que estas viendo, ¡Lo mejor lo encontraras siempre aqui! ePro+</desc>
   </programme>
   <programme start="20191020020000 +0000" stop="20191130030000 +0000" channel="SIN EPG">
-    <title lang="es">Programación variada, aún no ha sido definida</title>
+    <title lang="es">Programación variada, no definida</title>
+	<desc lang="es">Programación aún no definida por la emisora del canal que estas viendo, ¡Lo mejor lo encontraras siempre aqui! ePro+</desc>
   </programme>
   <programme start="20191130030000 +0000" stop="20191230040000 +0000" channel="SIN EPG">
-    <title lang="es">Programación variada, aún no ha sido definida</title>
+    <title lang="es">Programación variada, no definida</title>
+	<desc lang="es">Programación aún no definida por la emisora del canal que estas viendo, ¡Lo mejor lo encontraras siempre aqui! ePro+</desc>
   </programme>
 
 
