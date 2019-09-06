@@ -2,18 +2,21 @@
 <tv><channel id="PPV CINEMA">
     <display-name lang="es">PPV CINEMA</display-name>
     
-  
+  </channel>
 
 
 <programme start="20190906110000 +0000" stop="20190920020000 +0000" channel="PPV CINEMA">
     <title lang="es">Pelicula Exclusiva de Evolution Pro</title>
-  </programme><programme start="20190920020000 +0000" stop="20190930030000 +0000" channel="PPV CINEMA">
+</programme>
+	
+ <programme start="20190920020000 +0000" stop="20190930030000 +0000" channel="PPV CINEMA">
     <title lang="es">Primera tapa</title>
+</programme>
 
-
-  </programme><programme start="20190930030000 +0000" stop="20191030030000 +0000" channel="PPV CINEMA">
+<programme start="20190930030000 +0000" stop="20191030030000 +0000" channel="PPV CINEMA">
     <title lang="es">Pelicula Exclusiva de Evolution Pro</title>
-  </programme><programme start="20191030030000 +0000" stop="20191110180000 +0000" channel="PPV CINEMA">
+</programme>
+<programme start="20191030030000 +0000" stop="20191110180000 +0000" channel="PPV CINEMA">
     <title lang="es">Pelicula Exclusiva de Evolution Pro</title>
   </programme>
   </tv>
