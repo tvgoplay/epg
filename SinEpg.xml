@@ -5,6 +5,12 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  
+  <channel id="SIN EPG">
+    <display-name lang="es">SIN EPG</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
 
   
 
@@ -16,6 +22,16 @@
   </programme>
   <programme start="20191130030000 +0000" stop="20191230040000 +0000" channel="PROG EXCLUSIVA">
     <title lang="es">Programación Exclusiva de Evolution Pro</title>
+  </programme>
+  
+    <programme start="20190906110000 +0000" stop="20191020020000 +0000" channel="SIN EPG">
+    <title lang="es">Programación variada, aún no ha sido definida</title>
+  </programme>
+  <programme start="20191020020000 +0000" stop="20191130030000 +0000" channel="SIN EPG">
+    <title lang="es">Programación variada, aún no ha sido definida</title>
+  </programme>
+  <programme start="20191130030000 +0000" stop="20191230040000 +0000" channel="SIN EPG">
+    <title lang="es">Programación variada, aún no ha sido definida</title>
   </programme>
 
 
