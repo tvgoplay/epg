@@ -17,115 +17,7 @@
 <channel id="Telemetro.pa"><display-name>Telemetro PA</display-name><icon src="https://static.epg.best/pa/Telemetro.pa.png"/></channel>
 
 <channel id="TVNCanal2.pa"><display-name>TVN Canal 2 PA</display-name><icon src="https://static.epg.best/pa/TVNCanal2.pa.png"/></channel>
-<iepg>101175</iepg>
-<programme start="20201013020000 +0200" stop="20201013040000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013040000 +0200" stop="20201013060000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013060000 +0200" stop="20201013080000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013080000 +0200" stop="20201013100000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013100000 +0200" stop="20201013120000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013120000 +0200" stop="20201013140000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013140000 +0200" stop="20201013160000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013160000 +0200" stop="20201013180000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013180000 +0200" stop="20201013200000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013200000 +0200" stop="20201013220000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201013220000 +0200" stop="20201014000000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014000000 +0200" stop="20201014020000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014020000 +0200" stop="20201014040000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014040000 +0200" stop="20201014060000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014060000 +0200" stop="20201014080000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014080000 +0200" stop="20201014100000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014100000 +0200" stop="20201014120000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014120000 +0200" stop="20201014140000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014140000 +0200" stop="20201014160000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014160000 +0200" stop="20201014180000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014180000 +0200" stop="20201014200000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014200000 +0200" stop="20201014220000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201014220000 +0200" stop="20201015000000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015000000 +0200" stop="20201015020000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015020000 +0200" stop="20201015040000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015040000 +0200" stop="20201015060000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015060000 +0200" stop="20201015080000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015080000 +0200" stop="20201015100000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015100000 +0200" stop="20201015120000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015120000 +0200" stop="20201015140000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015140000 +0200" stop="20201015160000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015160000 +0200" stop="20201015180000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015180000 +0200" stop="20201015200000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015200000 +0200" stop="20201015220000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201015220000 +0200" stop="20201016000000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
-<programme start="20201016000000 +0200" stop="20201016020000 +0200" channel="CB24.pa">
-    <title lang="en">CB24</title>
-  </programme>
+<iepg>101373</iepg>
 <programme start="20201016020000 +0200" stop="20201016040000 +0200" channel="CB24.pa">
     <title lang="en">CB24</title>
   </programme>
@@ -249,59 +141,116 @@
 <programme start="20201019100000 +0200" stop="20201019120000 +0200" channel="CB24.pa">
     <title lang="en">CB24</title>
   </programme>
-<programme start="20201013030000 +0200" stop="20201013033000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Korealo</title>
+<programme start="20201019120000 +0200" stop="20201019140000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201013033000 +0200" stop="20201013050000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201019140000 +0200" stop="20201019160000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201013050000 +0200" stop="20201013060000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Explict</title>
+<programme start="20201019160000 +0200" stop="20201019180000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201013060000 +0200" stop="20201013130000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201019180000 +0200" stop="20201019200000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201013130000 +0200" stop="20201013230000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201019200000 +0200" stop="20201019220000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201013230000 +0200" stop="20201014000000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Tardes de complacencias</title>
+<programme start="20201019220000 +0200" stop="20201020000000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201014000000 +0200" stop="20201014050000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020000000 +0200" stop="20201020020000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201014050000 +0200" stop="20201014060000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Explict</title>
+<programme start="20201020020000 +0200" stop="20201020040000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201014060000 +0200" stop="20201014130000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020040000 +0200" stop="20201020060000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201014130000 +0200" stop="20201014230000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020060000 +0200" stop="20201020080000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201014230000 +0200" stop="20201014233000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Korealo</title>
+<programme start="20201020080000 +0200" stop="20201020100000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201014233000 +0200" stop="20201015003000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Tardes de complacencias</title>
+<programme start="20201020100000 +0200" stop="20201020120000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201015003000 +0200" stop="20201015050000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020120000 +0200" stop="20201020140000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201015050000 +0200" stop="20201015060000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Explict</title>
+<programme start="20201020140000 +0200" stop="20201020160000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201015060000 +0200" stop="20201015130000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020160000 +0200" stop="20201020180000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201015130000 +0200" stop="20201015230000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020180000 +0200" stop="20201020200000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201015230000 +0200" stop="20201016000000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Tardes de complacencias</title>
+<programme start="20201020200000 +0200" stop="20201020220000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
-<programme start="20201016000000 +0200" stop="20201016050000 +0200" channel="CanalPlus23.pa">
-    <title lang="en">Videos Musicales</title>
+<programme start="20201020220000 +0200" stop="20201021000000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021000000 +0200" stop="20201021020000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021020000 +0200" stop="20201021040000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021040000 +0200" stop="20201021060000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021060000 +0200" stop="20201021080000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021080000 +0200" stop="20201021100000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021100000 +0200" stop="20201021120000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021120000 +0200" stop="20201021140000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021140000 +0200" stop="20201021160000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021160000 +0200" stop="20201021180000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021180000 +0200" stop="20201021200000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021200000 +0200" stop="20201021220000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201021220000 +0200" stop="20201022000000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022000000 +0200" stop="20201022020000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022020000 +0200" stop="20201022040000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022040000 +0200" stop="20201022060000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022060000 +0200" stop="20201022080000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022080000 +0200" stop="20201022100000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022100000 +0200" stop="20201022120000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
+  </programme>
+<programme start="20201022120000 +0200" stop="20201022140000 +0200" channel="CB24.pa">
+    <title lang="en">CB24</title>
   </programme>
 <programme start="20201016050000 +0200" stop="20201016060000 +0200" channel="CanalPlus23.pa">
     <title lang="en">Explict</title>
@@ -342,243 +291,59 @@
 <programme start="20201019060000 +0200" stop="20201019130000 +0200" channel="CanalPlus23.pa">
     <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013030000 +0200" stop="20201013040000 +0200" channel="NexTV.pa">
-    <title lang="en">Día a Día</title>
+<programme start="20201019130000 +0200" stop="20201019230000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013040000 +0200" stop="20201013050000 +0200" channel="NexTV.pa">
-    <title lang="en">Mi Gorda Bella</title>
+<programme start="20201019230000 +0200" stop="20201020000000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Tardes de complacencias</title>
   </programme>
-<programme start="20201013050000 +0200" stop="20201013060000 +0200" channel="NexTV.pa">
-    <title lang="en">El chiringuito</title>
+<programme start="20201020000000 +0200" stop="20201020030000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013060000 +0200" stop="20201013070000 +0200" channel="NexTV.pa">
-    <title lang="en">Será anunciado</title>
+<programme start="20201020030000 +0200" stop="20201020033000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Korealo</title>
   </programme>
-<programme start="20201013070000 +0200" stop="20201013080000 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
+<programme start="20201020033000 +0200" stop="20201020050000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013080000 +0200" stop="20201013130000 +0200" channel="NexTV.pa">
-    <title lang="en">Cierre de estación</title>
+<programme start="20201020050000 +0200" stop="20201020060000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Explict</title>
   </programme>
-<programme start="20201013130000 +0200" stop="20201013140000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero KWC</title>
-    <category lang="en">News</category>
+<programme start="20201020060000 +0200" stop="20201020130000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013140000 +0200" stop="20201013160000 +0200" channel="NexTV.pa">
-    <title lang="en">NEX Noticias</title>
-    <category lang="en">News</category>
+<programme start="20201020130000 +0200" stop="20201020230000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013160000 +0200" stop="20201013163000 +0200" channel="NexTV.pa">
-    <title lang="en">Be Fit</title>
-    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
-    <date>2018</date>
+<programme start="20201020230000 +0200" stop="20201021000000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Tardes de complacencias</title>
   </programme>
-<programme start="20201013163000 +0200" stop="20201013183000 +0200" channel="NexTV.pa">
-    <title lang="en">Mujer</title>
-    <date>2018</date>
+<programme start="20201021000000 +0200" stop="20201021050000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013183000 +0200" stop="20201013190000 +0200" channel="NexTV.pa">
-    <title lang="en">Ají</title>
-    <desc lang="en">Programa matutino con temas de interés familiar orientados por especialistas y donde se preparan las más deliciosas recetas con el conocido chef Alexis Sitón</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
+<programme start="20201021050000 +0200" stop="20201021060000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Explict</title>
   </programme>
-<programme start="20201013190000 +0200" stop="20201013200000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero Mediodía</title>
-    <category lang="en">News</category>
+<programme start="20201021060000 +0200" stop="20201021130000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013200000 +0200" stop="20201013210000 +0200" channel="NexTV.pa">
-    <title lang="en">Pura Sangre</title>
+<programme start="20201021130000 +0200" stop="20201021230000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013210000 +0200" stop="20201013213000 +0200" channel="NexTV.pa">
-    <title lang="en">Be Fit</title>
-    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
-    <date>2018</date>
+<programme start="20201021230000 +0200" stop="20201021233000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Korealo</title>
   </programme>
-<programme start="20201013213000 +0200" stop="20201013231800 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
+<programme start="20201021233000 +0200" stop="20201022003000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Tardes de complacencias</title>
   </programme>
-<programme start="20201013231800 +0200" stop="20201013233000 +0200" channel="NexTV.pa">
-    <title lang="en">Especial Coronavirus</title>
-    <desc lang="en">Programa especial</desc>
-    <date>2020</date>
+<programme start="20201022003000 +0200" stop="20201022050000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
-<programme start="20201013233000 +0200" stop="20201014000000 +0200" channel="NexTV.pa">
-    <title lang="en">En Forma</title>
+<programme start="20201022050000 +0200" stop="20201022060000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Explict</title>
   </programme>
-<programme start="20201014000000 +0200" stop="20201014003000 +0200" channel="NexTV.pa">
-    <title lang="en">DW Noticias</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014003000 +0200" stop="20201014013000 +0200" channel="NexTV.pa">
-    <title lang="en">Viralisimo</title>
-    <date>2019</date>
-  </programme>
-<programme start="20201014013000 +0200" stop="20201014030000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero Estelar</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014030000 +0200" stop="20201014040000 +0200" channel="NexTV.pa">
-    <title lang="en">Día a Día</title>
-  </programme>
-<programme start="20201014040000 +0200" stop="20201014050000 +0200" channel="NexTV.pa">
-    <title lang="en">Mi Gorda Bella</title>
-  </programme>
-<programme start="20201014050000 +0200" stop="20201014060000 +0200" channel="NexTV.pa">
-    <title lang="en">El chiringuito</title>
-  </programme>
-<programme start="20201014060000 +0200" stop="20201014061500 +0200" channel="NexTV.pa">
-    <title lang="en">La made</title>
-  </programme>
-<programme start="20201014061500 +0200" stop="20201014070000 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
-  </programme>
-<programme start="20201014070000 +0200" stop="20201014080000 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
-  </programme>
-<programme start="20201014080000 +0200" stop="20201014130000 +0200" channel="NexTV.pa">
-    <title lang="en">Cierre de estación</title>
-  </programme>
-<programme start="20201014130000 +0200" stop="20201014140000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero KWC</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014140000 +0200" stop="20201014160000 +0200" channel="NexTV.pa">
-    <title lang="en">NEX Noticias</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014160000 +0200" stop="20201014163000 +0200" channel="NexTV.pa">
-    <title lang="en">Be Fit</title>
-    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201014163000 +0200" stop="20201014183000 +0200" channel="NexTV.pa">
-    <title lang="en">Mujer</title>
-    <date>2018</date>
-  </programme>
-<programme start="20201014183000 +0200" stop="20201014190000 +0200" channel="NexTV.pa">
-    <title lang="en">Ají</title>
-    <desc lang="en">Programa matutino con temas de interés familiar orientados por especialistas y donde se preparan las más deliciosas recetas con el conocido chef Alexis Sitón</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014190000 +0200" stop="20201014200000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero Mediodía</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014200000 +0200" stop="20201014210000 +0200" channel="NexTV.pa">
-    <title lang="en">Pura Sangre</title>
-  </programme>
-<programme start="20201014210000 +0200" stop="20201014213000 +0200" channel="NexTV.pa">
-    <title lang="en">Be Fit</title>
-    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201014213000 +0200" stop="20201014231800 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
-  </programme>
-<programme start="20201014231800 +0200" stop="20201014233000 +0200" channel="NexTV.pa">
-    <title lang="en">Especial Coronavirus</title>
-    <desc lang="en">Programa especial</desc>
-    <date>2020</date>
-  </programme>
-<programme start="20201014233000 +0200" stop="20201015000000 +0200" channel="NexTV.pa">
-    <title lang="en">Visión Futuro</title>
-    <desc lang="en">Magacín científico dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro desde la astronáutica hasta la protecci</desc>
-    <date>2014</date>
-  </programme>
-<programme start="20201015000000 +0200" stop="20201015003000 +0200" channel="NexTV.pa">
-    <title lang="en">DW Noticias</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015003000 +0200" stop="20201015013000 +0200" channel="NexTV.pa">
-    <title lang="en">Viralisimo</title>
-    <date>2019</date>
-  </programme>
-<programme start="20201015013000 +0200" stop="20201015030000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero Estelar</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015030000 +0200" stop="20201015040000 +0200" channel="NexTV.pa">
-    <title lang="en">Día a Día</title>
-  </programme>
-<programme start="20201015040000 +0200" stop="20201015050000 +0200" channel="NexTV.pa">
-    <title lang="en">Mi Gorda Bella</title>
-  </programme>
-<programme start="20201015050000 +0200" stop="20201015060000 +0200" channel="NexTV.pa">
-    <title lang="en">El chiringuito</title>
-  </programme>
-<programme start="20201015060000 +0200" stop="20201015061500 +0200" channel="NexTV.pa">
-    <title lang="en">La made</title>
-  </programme>
-<programme start="20201015061500 +0200" stop="20201015070000 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
-  </programme>
-<programme start="20201015070000 +0200" stop="20201015080000 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
-  </programme>
-<programme start="20201015080000 +0200" stop="20201015130000 +0200" channel="NexTV.pa">
-    <title lang="en">Cierre de estación</title>
-  </programme>
-<programme start="20201015130000 +0200" stop="20201015140000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero KWC</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015140000 +0200" stop="20201015160000 +0200" channel="NexTV.pa">
-    <title lang="en">NEX Noticias</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015160000 +0200" stop="20201015163000 +0200" channel="NexTV.pa">
-    <title lang="en">Be Fit</title>
-    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201015163000 +0200" stop="20201015183000 +0200" channel="NexTV.pa">
-    <title lang="en">Mujer</title>
-    <date>2018</date>
-  </programme>
-<programme start="20201015183000 +0200" stop="20201015190000 +0200" channel="NexTV.pa">
-    <title lang="en">Ají</title>
-    <desc lang="en">Programa matutino con temas de interés familiar orientados por especialistas y donde se preparan las más deliciosas recetas con el conocido chef Alexis Sitón</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015190000 +0200" stop="20201015200000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero Mediodía</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015200000 +0200" stop="20201015210000 +0200" channel="NexTV.pa">
-    <title lang="en">Pura Sangre</title>
-  </programme>
-<programme start="20201015210000 +0200" stop="20201015213000 +0200" channel="NexTV.pa">
-    <title lang="en">Be Fit</title>
-    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201015213000 +0200" stop="20201015231800 +0200" channel="NexTV.pa">
-    <title lang="en">Nex Music</title>
-  </programme>
-<programme start="20201015231800 +0200" stop="20201015233000 +0200" channel="NexTV.pa">
-    <title lang="en">Especial Coronavirus</title>
-    <desc lang="en">Programa especial</desc>
-    <date>2020</date>
-  </programme>
-<programme start="20201015233000 +0200" stop="20201016000000 +0200" channel="NexTV.pa">
-    <title lang="en">Fuerza latina</title>
-    <desc lang="en">Programa local</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201016000000 +0200" stop="20201016003000 +0200" channel="NexTV.pa">
-    <title lang="en">DW Noticias</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201016003000 +0200" stop="20201016013000 +0200" channel="NexTV.pa">
-    <title lang="en">Viralisimo</title>
-    <date>2019</date>
-  </programme>
-<programme start="20201016013000 +0200" stop="20201016030000 +0200" channel="NexTV.pa">
-    <title lang="en">Noticiero Estelar</title>
-    <category lang="en">News</category>
+<programme start="20201022060000 +0200" stop="20201022130000 +0200" channel="CanalPlus23.pa">
+    <title lang="en">Videos Musicales</title>
   </programme>
 <programme start="20201016030000 +0200" stop="20201016040000 +0200" channel="NexTV.pa">
     <title lang="en">Día a Día</title>
@@ -819,225 +584,251 @@
 <programme start="20201019080000 +0200" stop="20201019130000 +0200" channel="NexTV.pa">
     <title lang="en">Cierre de estación</title>
   </programme>
-<programme start="20201013020000 +0200" stop="20201013040000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Película</title>
-  </programme>
-<programme start="20201013040000 +0200" stop="20201013050000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">El Chapo</title>
-    <sub-title lang="en">Capítulo 1</sub-title>
-  </programme>
-<programme start="20201013050000 +0200" stop="20201013070000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Bayly</title>
-  </programme>
-<programme start="20201013070000 +0200" stop="20201013080000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Oración Fuerte al Espíritu Santo</title>
-  </programme>
-<programme start="20201013080000 +0200" stop="20201013090000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">El after</title>
-  </programme>
-<programme start="20201013090000 +0200" stop="20201013100000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Poveda Tunai Show</title>
-  </programme>
-<programme start="20201013100000 +0200" stop="20201013110000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Infraganti</title>
-  </programme>
-<programme start="20201013110000 +0200" stop="20201013120000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Oración Fuerte al Espíritu Santo</title>
-  </programme>
-<programme start="20201013120000 +0200" stop="20201013130000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
-  </programme>
-<programme start="20201013130000 +0200" stop="20201013140000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Plaza Sésamo</title>
-    <desc lang="en">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad</desc>
-    <date>1972</date>
-  </programme>
-<programme start="20201013140000 +0200" stop="20201013143000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Los Jetson y la WWE</title>
-  </programme>
-<programme start="20201013143000 +0200" stop="20201013200000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Animados</title>
-  </programme>
-<programme start="20201013200000 +0200" stop="20201013210000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">MacGyver</title>
-  </programme>
-<programme start="20201013210000 +0200" stop="20201013220000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201013220000 +0200" stop="20201013230000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">FBI</title>
-    <sub-title lang="en">Most Wanted</sub-title>
-    <desc lang="en">Un drama de alto riesgo que se centra en la Fugitive Task Force, que rastrea y captura de forma implacable a los criminales más buscado por las fuerzas del estado. El experimentado agente Jess LaCroix supervisa el equipo altamente cualificado que funciona como una unidad encubierta móvil que siempre está en el campo. Dick Wolf, René Balcer, Arthur W</desc>
-    <date>2020</date>
-  </programme>
-<programme start="20201013230000 +0200" stop="20201014000000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías..</desc>
-    <date>2005</date>
+<programme start="20201019130000 +0200" stop="20201019140000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero KWC</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201014000000 +0200" stop="20201014010000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
+<programme start="20201019140000 +0200" stop="20201019160000 +0200" channel="NexTV.pa">
+    <title lang="en">NEX Noticias</title>
+    <category lang="en">News</category>
   </programme>
-<programme start="20201014010000 +0200" stop="20201014040000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
-  </programme>
-<programme start="20201014040000 +0200" stop="20201014060000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Amistoso</title>
-    <sub-title lang="en">Costa Rica vs. Panamá</sub-title>
-    <desc lang="en">Costa Rica vs. Panamá</desc>
-    <date>2019</date>
-    <category lang="en">Mapi</category>
-    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
-  </programme>
-<programme start="20201014060000 +0200" stop="20201014070000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Bayly</title>
-  </programme>
-<programme start="20201014070000 +0200" stop="20201014080000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Oración Fuerte al Espíritu Santo</title>
-  </programme>
-<programme start="20201014080000 +0200" stop="20201014090000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">El after</title>
-  </programme>
-<programme start="20201014090000 +0200" stop="20201014100000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Poveda Tunai Show</title>
-  </programme>
-<programme start="20201014100000 +0200" stop="20201014110000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Infraganti</title>
-  </programme>
-<programme start="20201014110000 +0200" stop="20201014120000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Oración Fuerte al Espíritu Santo</title>
-  </programme>
-<programme start="20201014120000 +0200" stop="20201014130000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
-  </programme>
-<programme start="20201014130000 +0200" stop="20201014140000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Plaza Sésamo</title>
-    <desc lang="en">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad</desc>
-    <date>1972</date>
-  </programme>
-<programme start="20201014140000 +0200" stop="20201014143000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">DC Super Hero Girls</title>
-    <desc lang="en">Un grupo de jóvenes súper heroínas asisten a la secundaria y padecen problemas adolescentes. La escuela es un lugar difícil, inclusive siendo súper heroína. La Mujer Maravilla, Bati Chica, Super Girl y muchas más, asisten a este especial escuela en la cual, sus súper poderes las ayudan a resolver situaciones de la vida cotidiana</desc>
+<programme start="20201019160000 +0200" stop="20201019163000 +0200" channel="NexTV.pa">
+    <title lang="en">Be Fit</title>
+    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
     <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
-<programme start="20201014143000 +0200" stop="20201014200000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Animados</title>
+<programme start="20201019163000 +0200" stop="20201019183000 +0200" channel="NexTV.pa">
+    <title lang="en">Mujer</title>
+    <date>2018</date>
   </programme>
-<programme start="20201014200000 +0200" stop="20201014210000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">MacGyver</title>
-  </programme>
-<programme start="20201014210000 +0200" stop="20201014220000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
+<programme start="20201019183000 +0200" stop="20201019190000 +0200" channel="NexTV.pa">
+    <title lang="en">Ají</title>
+    <desc lang="en">Programa matutino con temas de interés familiar orientados por especialistas y donde se preparan las más deliciosas recetas con el conocido chef Alexis Sitón</desc>
     <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201014220000 +0200" stop="20201014230000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">FBI</title>
-    <sub-title lang="en">Most Wanted</sub-title>
-    <desc lang="en">Un drama de alto riesgo que se centra en la Fugitive Task Force, que rastrea y captura de forma implacable a los criminales más buscado por las fuerzas del estado. El experimentado agente Jess LaCroix supervisa el equipo altamente cualificado que funciona como una unidad encubierta móvil que siempre está en el campo. Dick Wolf, René Balcer, Arthur W</desc>
-    <date>2020</date>
-  </programme>
-<programme start="20201014230000 +0200" stop="20201015000000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías..</desc>
-    <date>2005</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201015000000 +0200" stop="20201015010000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
+<programme start="20201019190000 +0200" stop="20201019200000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero Mediodía</title>
+    <category lang="en">News</category>
   </programme>
-<programme start="20201015010000 +0200" stop="20201015020000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
+<programme start="20201019200000 +0200" stop="20201019210000 +0200" channel="NexTV.pa">
+    <title lang="en">Pura Sangre</title>
   </programme>
-<programme start="20201015020000 +0200" stop="20201015040000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Película</title>
+<programme start="20201019210000 +0200" stop="20201019213000 +0200" channel="NexTV.pa">
+    <title lang="en">Be Fit</title>
+    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
+    <date>2018</date>
   </programme>
-<programme start="20201015040000 +0200" stop="20201015050000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">El Chapo</title>
-    <sub-title lang="en">Capítulo 2</sub-title>
-    <date>2017</date>
+<programme start="20201019213000 +0200" stop="20201019231800 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
   </programme>
-<programme start="20201015050000 +0200" stop="20201015060000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Bayly</title>
+<programme start="20201019231800 +0200" stop="20201019233000 +0200" channel="NexTV.pa">
+    <title lang="en">Especial Coronavirus</title>
+    <desc lang="en">Programa especial</desc>
+    <date>2020</date>
   </programme>
-<programme start="20201015060000 +0200" stop="20201015070000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Serie</title>
-  </programme>
-<programme start="20201015070000 +0200" stop="20201015080000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Oración Fuerte al Espíritu Santo</title>
-  </programme>
-<programme start="20201015080000 +0200" stop="20201015090000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">El after</title>
-  </programme>
-<programme start="20201015090000 +0200" stop="20201015100000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Poveda Tunai Show</title>
-  </programme>
-<programme start="20201015100000 +0200" stop="20201015110000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Infraganti</title>
-  </programme>
-<programme start="20201015110000 +0200" stop="20201015120000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Oración Fuerte al Espíritu Santo</title>
-  </programme>
-<programme start="20201015120000 +0200" stop="20201015130000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
-  </programme>
-<programme start="20201015130000 +0200" stop="20201015140000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Plaza Sésamo</title>
-    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones</desc>
-    <date>1973</date>
+<programme start="20201019233000 +0200" stop="20201020000000 +0200" channel="NexTV.pa">
+    <title lang="en">Global 3000</title>
+    <desc lang="en">Global 3000 ? el magacín de DW sobre la globalización trata temas de interés para todos los habitantes del planeta, en especial cómo la gente afronta las oportunidades y los riesgos que conlleva la globalización. Global 3000 da un rostro al mundo globali</desc>
+    <date>2015</date>
+    <category lang="en">News</category>
     <rating system="MPAA">
-      <value>TV-Y</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-<programme start="20201015140000 +0200" stop="20201015143000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Lego DC comics Super Heroes</title>
-    <sub-title lang="en">Batman Be-Leaguered</sub-title>
-    <desc lang="en">Especial animado en el que Súperman quiere que Batman se una a su nuevo equipo de superhéroes, pero Batman se enorgullece de ser un solitario autosuficiente</desc>
+<programme start="20201020000000 +0200" stop="20201020003000 +0200" channel="NexTV.pa">
+    <title lang="en">DW Noticias</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020003000 +0200" stop="20201020013000 +0200" channel="NexTV.pa">
+    <title lang="en">Viralisimo</title>
+    <date>2019</date>
+  </programme>
+<programme start="20201020013000 +0200" stop="20201020030000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020030000 +0200" stop="20201020040000 +0200" channel="NexTV.pa">
+    <title lang="en">Día a Día</title>
+  </programme>
+<programme start="20201020040000 +0200" stop="20201020050000 +0200" channel="NexTV.pa">
+    <title lang="en">Mi Gorda Bella</title>
+  </programme>
+<programme start="20201020050000 +0200" stop="20201020060000 +0200" channel="NexTV.pa">
+    <title lang="en">El chiringuito</title>
+  </programme>
+<programme start="20201020060000 +0200" stop="20201020070000 +0200" channel="NexTV.pa">
+    <title lang="en">Será anunciado</title>
+  </programme>
+<programme start="20201020070000 +0200" stop="20201020080000 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201020080000 +0200" stop="20201020130000 +0200" channel="NexTV.pa">
+    <title lang="en">Cierre de estación</title>
+  </programme>
+<programme start="20201020130000 +0200" stop="20201020140000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero KWC</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020140000 +0200" stop="20201020160000 +0200" channel="NexTV.pa">
+    <title lang="en">NEX Noticias</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020160000 +0200" stop="20201020163000 +0200" channel="NexTV.pa">
+    <title lang="en">Be Fit</title>
+    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201020163000 +0200" stop="20201020183000 +0200" channel="NexTV.pa">
+    <title lang="en">Mujer</title>
+    <date>2018</date>
+  </programme>
+<programme start="20201020183000 +0200" stop="20201020190000 +0200" channel="NexTV.pa">
+    <title lang="en">Ají</title>
+    <desc lang="en">Programa matutino con temas de interés familiar orientados por especialistas y donde se preparan las más deliciosas recetas con el conocido chef Alexis Sitón</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020190000 +0200" stop="20201020200000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero Mediodía</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020200000 +0200" stop="20201020210000 +0200" channel="NexTV.pa">
+    <title lang="en">Pura Sangre</title>
+  </programme>
+<programme start="20201020210000 +0200" stop="20201020213000 +0200" channel="NexTV.pa">
+    <title lang="en">Be Fit</title>
+    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201020213000 +0200" stop="20201020231800 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201020231800 +0200" stop="20201020233000 +0200" channel="NexTV.pa">
+    <title lang="en">Especial Coronavirus</title>
+    <desc lang="en">Programa especial</desc>
+    <date>2020</date>
+  </programme>
+<programme start="20201020233000 +0200" stop="20201021000000 +0200" channel="NexTV.pa">
+    <title lang="en">En Forma</title>
+  </programme>
+<programme start="20201021000000 +0200" stop="20201021003000 +0200" channel="NexTV.pa">
+    <title lang="en">DW Noticias</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021003000 +0200" stop="20201021013000 +0200" channel="NexTV.pa">
+    <title lang="en">Viralisimo</title>
+    <date>2019</date>
+  </programme>
+<programme start="20201021013000 +0200" stop="20201021030000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021030000 +0200" stop="20201021040000 +0200" channel="NexTV.pa">
+    <title lang="en">Día a Día</title>
+  </programme>
+<programme start="20201021040000 +0200" stop="20201021050000 +0200" channel="NexTV.pa">
+    <title lang="en">Mi Gorda Bella</title>
+  </programme>
+<programme start="20201021050000 +0200" stop="20201021060000 +0200" channel="NexTV.pa">
+    <title lang="en">El chiringuito</title>
+  </programme>
+<programme start="20201021060000 +0200" stop="20201021061500 +0200" channel="NexTV.pa">
+    <title lang="en">La made</title>
+  </programme>
+<programme start="20201021061500 +0200" stop="20201021070000 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201021070000 +0200" stop="20201021080000 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201021080000 +0200" stop="20201021130000 +0200" channel="NexTV.pa">
+    <title lang="en">Cierre de estación</title>
+  </programme>
+<programme start="20201021130000 +0200" stop="20201021140000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero KWC</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021140000 +0200" stop="20201021160000 +0200" channel="NexTV.pa">
+    <title lang="en">NEX Noticias</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021160000 +0200" stop="20201021163000 +0200" channel="NexTV.pa">
+    <title lang="en">Be Fit</title>
+    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201021163000 +0200" stop="20201021183000 +0200" channel="NexTV.pa">
+    <title lang="en">Mujer</title>
+    <date>2018</date>
+  </programme>
+<programme start="20201021183000 +0200" stop="20201021190000 +0200" channel="NexTV.pa">
+    <title lang="en">Ají</title>
+    <desc lang="en">Programa matutino con temas de interés familiar orientados por especialistas y donde se preparan las más deliciosas recetas con el conocido chef Alexis Sitón</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021190000 +0200" stop="20201021200000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero Mediodía</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021200000 +0200" stop="20201021210000 +0200" channel="NexTV.pa">
+    <title lang="en">Pura Sangre</title>
+  </programme>
+<programme start="20201021210000 +0200" stop="20201021213000 +0200" channel="NexTV.pa">
+    <title lang="en">Be Fit</title>
+    <desc lang="en">¡Be fit es perfecto para ti! Los ejercicios y entrenamientos son perfectos para ti</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201021213000 +0200" stop="20201021231800 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201021231800 +0200" stop="20201021233000 +0200" channel="NexTV.pa">
+    <title lang="en">Especial Coronavirus</title>
+    <desc lang="en">Programa especial</desc>
+    <date>2020</date>
+  </programme>
+<programme start="20201021233000 +0200" stop="20201022000000 +0200" channel="NexTV.pa">
+    <title lang="en">Visión Futuro</title>
+    <desc lang="en">Magacín científico dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro desde la astronáutica hasta la protecci</desc>
     <date>2014</date>
   </programme>
-<programme start="20201015143000 +0200" stop="20201015200000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Animados</title>
-  </programme>
-<programme start="20201015200000 +0200" stop="20201015210000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">MacGyver</title>
-  </programme>
-<programme start="20201015210000 +0200" stop="20201015220000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201015220000 +0200" stop="20201015230000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">FBI</title>
-    <sub-title lang="en">Most Wanted</sub-title>
-    <desc lang="en">Un drama de alto riesgo que se centra en la Fugitive Task Force, que rastrea y captura de forma implacable a los criminales más buscado por las fuerzas del estado. El experimentado agente Jess LaCroix supervisa el equipo altamente cualificado que funciona como una unidad encubierta móvil que siempre está en el campo. Dick Wolf, René Balcer, Arthur W</desc>
-    <date>2020</date>
-  </programme>
-<programme start="20201015230000 +0200" stop="20201016000000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías..</desc>
-    <date>2005</date>
+<programme start="20201022000000 +0200" stop="20201022003000 +0200" channel="NexTV.pa">
+    <title lang="en">DW Noticias</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201016000000 +0200" stop="20201016010000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Series</title>
+<programme start="20201022003000 +0200" stop="20201022013000 +0200" channel="NexTV.pa">
+    <title lang="en">Viralisimo</title>
+    <date>2019</date>
   </programme>
-<programme start="20201016010000 +0200" stop="20201016030000 +0200" channel="RPCCanal4.pa">
-    <title lang="en">Película</title>
+<programme start="20201022013000 +0200" stop="20201022030000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201022030000 +0200" stop="20201022040000 +0200" channel="NexTV.pa">
+    <title lang="en">Día a Día</title>
+  </programme>
+<programme start="20201022040000 +0200" stop="20201022050000 +0200" channel="NexTV.pa">
+    <title lang="en">Mi Gorda Bella</title>
+  </programme>
+<programme start="20201022050000 +0200" stop="20201022060000 +0200" channel="NexTV.pa">
+    <title lang="en">El chiringuito</title>
+  </programme>
+<programme start="20201022060000 +0200" stop="20201022061500 +0200" channel="NexTV.pa">
+    <title lang="en">La made</title>
+  </programme>
+<programme start="20201022061500 +0200" stop="20201022070000 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201022070000 +0200" stop="20201022080000 +0200" channel="NexTV.pa">
+    <title lang="en">Nex Music</title>
+  </programme>
+<programme start="20201022080000 +0200" stop="20201022130000 +0200" channel="NexTV.pa">
+    <title lang="en">Cierre de estación</title>
+  </programme>
+<programme start="20201022130000 +0200" stop="20201022140000 +0200" channel="NexTV.pa">
+    <title lang="en">Noticiero KWC</title>
+    <category lang="en">News</category>
   </programme>
 <programme start="20201016030000 +0200" stop="20201016040000 +0200" channel="RPCCanal4.pa">
     <title lang="en">El Cesar</title>
@@ -1143,8 +934,8 @@
   </programme>
 <programme start="20201017130000 +0200" stop="20201017133000 +0200" channel="RPCCanal4.pa">
     <title lang="en">Guardianes de la Galaxia</title>
-    <sub-title lang="en">Titan Up</sub-title>
-    <desc lang="en">Thanos se encuentra en una intensa persecución, cuyo objetivo primordial es detenerlo a él. Thanos huye hacia su pueblo natal, en un intento por escapar de Los Guardianes de la Galaxia. Al llegar Thanos, se da cuenta de que el lugar no es ni la sombra de lo que solía ser. Allí, Los Guardianes descubren una arena de gladiadores, la cual está presentando al padre de Sam, Jesse Alexander. Junto a él, un grupo de luchadores que Thanos ha llevado para que entrenen y luchen como gladiadores</desc>
+    <sub-title lang="en">Entra Carnage</sub-title>
+    <desc lang="en">Los Guardianes de la Galaxia en conjunto con El Hombre Araña luchan contra el peligroso Thanos. Los Guardianes se enfrentan a un Thanos que está poseído por Carnage y va en la búsqueda del simbionte Venom. Luego de que Rocket Raccoon deja a Max Modell sin conocimiento, un ataque de Thanos propicia que Spiderman se una con el simbionte Venom. Thanos continúa con su malvado plan de esparcir los simbiontes por todo Manhattan</desc>
     <date>2018</date>
     <rating system="MPAA">
       <value>TV-Y7</value>
@@ -1178,10 +969,19 @@
 <programme start="20201018030000 +0200" stop="20201018040000 +0200" channel="RPCCanal4.pa">
     <title lang="en">Lo Mejor del Boxeo</title>
   </programme>
-<programme start="20201018040000 +0200" stop="20201018070000 +0200" channel="RPCCanal4.pa">
+<programme start="20201018040000 +0200" stop="20201018060000 +0200" channel="RPCCanal4.pa">
     <title lang="en">El Chapo</title>
     <desc lang="en">Serie sobre el notorio jefe mexicano de la droga Joaquín "El Chapo" Guzmán</desc>
     <date>2017</date>
+  </programme>
+<programme start="20201018060000 +0200" stop="20201018070000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Arrow</title>
+    <sub-title lang="en">Piloto</sub-title>
+    <desc lang="en">Oliver es rescatado y vive detrás del personaje "Arrow", un arquero experto decidido a luchar contra el mal en su ciudad. El multimillonario playboy Oliver Queen se convierte en un vigilante tras naufragar durante cinco años en una isla remota</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
 <programme start="20201018070000 +0200" stop="20201018080000 +0200" channel="RPCCanal4.pa">
     <title lang="en">Oración Fuerte al Espíritu Santo</title>
@@ -1276,254 +1076,279 @@
 <programme start="20201019120000 +0200" stop="20201019130000 +0200" channel="RPCCanal4.pa">
     <title lang="en">Series</title>
   </programme>
-<programme start="20201013030000 +0200" stop="20201013043000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">"Fuerza de mujer" es la historia de Bahar, una hermosa mujer que conoce a su esposo Sarp en un barco, con quien vive una historia de amor de ensueño. Se casan y tienen dos hijos, pero el mundo de Bahar se derrumba cuando su esposo muere y ella queda al frente de su familia</desc>
-    <date>2018</date>
+<programme start="20201019130000 +0200" stop="20201019150000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Animados</title>
   </programme>
-<programme start="20201013043000 +0200" stop="20201013060000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">100 días para enamorarnos</title>
-    <desc lang="en">La historia gira en torno a dos buenas amigas, Constanza Franco, una abogada muy sofisticada y exitosa, además de madre y esposa; y a Remedios Rivera, también madre y esposa amorosas, pero que, a diferencia de su amiga, es un espíritu libre que no puede mantener su vida en orden. Ambas mujeres deciden terminar 20 años de matrimonio con sus respectivos esposos. La vida de Remedios es complicada cuando decide separarse de su esposo actual y reaparece su primer amor</desc>
-    <date>2020</date>
+<programme start="20201019150000 +0200" stop="20201019160000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Plaza Sésamo</title>
+    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones</desc>
+    <date>1973</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
   </programme>
-<programme start="20201013060000 +0200" stop="20201013070000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">El Clon</title>
-    <desc lang="en">Una historia de amor que traspasa los límites del tiempo, las ideologías religiosas y la ciencia</desc>
+<programme start="20201019160000 +0200" stop="20201019180000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Conectate a la Estrella / Meduca</title>
+    <desc lang="en">Programa de entretenimiento</desc>
   </programme>
-<programme start="20201013070000 +0200" stop="20201013080000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Los Reyes del Humor</title>
+<programme start="20201019180000 +0200" stop="20201019200000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Animados</title>
   </programme>
-<programme start="20201013080000 +0200" stop="20201013090000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Sabores del chef</title>
-  </programme>
-<programme start="20201013090000 +0200" stop="20201013110000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Hecho en Panamá</title>
-    <desc lang="en">Un espacio dedicado al poblador rural panameño que crea una imagen positiva y realista</desc>
-    <date>2010</date>
-  </programme>
-<programme start="20201013110000 +0200" stop="20201013120000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Los Reyes del Humor</title>
-  </programme>
-<programme start="20201013120000 +0200" stop="20201013150000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">"Fuerza de mujer" es la historia de Bahar, una hermosa mujer que conoce a su esposo Sarp en un barco, con quien vive una historia de amor de ensueño. Se casan y tienen dos hijos, pero el mundo de Bahar se derrumba cuando su esposo muere y ella queda al frente de su familia</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201013150000 +0200" stop="20201013180000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Jelou</title>
-    <desc lang="en">Revista matutina en la que se tratan temas relacionados con: la psicología, la moda, la salud, la farándula el fitness y las recetas culinarias</desc>
+<programme start="20201019200000 +0200" stop="20201019210000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">MacGyver</title>
+    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
     <date>2016</date>
-  </programme>
-<programme start="20201013180000 +0200" stop="20201013200000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">La trampa</title>
-    <desc lang="en">Un hombre debe luchar por mantener el amor de su vida y al mismo tiempo evitar el enfado de su madre</desc>
-    <date>1985</date>
-  </programme>
-<programme start="20201013200000 +0200" stop="20201013210000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Al Rojo Vivo con María Celeste</title>
-    <desc lang="en">Programa de corte informativo sobre el acontecer nacional e internacional, matizado con interesantes segmentos sobre temas de actualidad</desc>
-    <date>2002</date>
-    <category lang="en">Tvshow</category>
-    <icon src="https://tvguide1.cbsistatic.com/feed/1/220/118560220.jpg"/>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201013210000 +0200" stop="20201013220000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Mujeres rompiendo el silencio</title>
-    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales</desc>
-    <date>2017</date>
-  </programme>
-<programme start="20201013220000 +0200" stop="20201013230000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Mujer desconocida</title>
-  </programme>
-<programme start="20201013230000 +0200" stop="20201014030000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201014030000 +0200" stop="20201014043000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">"Fuerza de mujer" es la historia de Bahar, una hermosa mujer que conoce a su esposo Sarp en un barco, con quien vive una historia de amor de ensueño. Se casan y tienen dos hijos, pero el mundo de Bahar se derrumba cuando su esposo muere y ella queda al frente de su familia</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201014043000 +0200" stop="20201014060000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">100 días para enamorarnos</title>
-    <desc lang="en">La historia gira en torno a dos buenas amigas, Constanza Franco, una abogada muy sofisticada y exitosa, además de madre y esposa; y a Remedios Rivera, también madre y esposa amorosas, pero que, a diferencia de su amiga, es un espíritu libre que no puede mantener su vida en orden. Ambas mujeres deciden terminar 20 años de matrimonio con sus respectivos esposos. La vida de Remedios es complicada cuando decide separarse de su esposo actual y reaparece su primer amor</desc>
-    <date>2020</date>
-  </programme>
-<programme start="20201014060000 +0200" stop="20201014070000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">El Clon</title>
-    <desc lang="en">Una historia de amor que traspasa los límites del tiempo, las ideologías religiosas y la ciencia</desc>
-  </programme>
-<programme start="20201014070000 +0200" stop="20201014080000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Los Reyes del Humor</title>
-  </programme>
-<programme start="20201014080000 +0200" stop="20201014090000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Sabores del chef</title>
-  </programme>
-<programme start="20201014090000 +0200" stop="20201014110000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Hecho en Panamá</title>
-    <desc lang="en">Un espacio dedicado al poblador rural panameño que crea una imagen positiva y realista</desc>
-    <date>2010</date>
-  </programme>
-<programme start="20201014110000 +0200" stop="20201014120000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Los Reyes del Humor</title>
-  </programme>
-<programme start="20201014120000 +0200" stop="20201014130000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">"Fuerza de mujer" es la historia de Bahar, una hermosa mujer que conoce a su esposo Sarp en un barco, con quien vive una historia de amor de ensueño. Se casan y tienen dos hijos, pero el mundo de Bahar se derrumba cuando su esposo muere y ella queda al frente de su familia</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201014130000 +0200" stop="20201014150000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Noticiero AM</title>
-    <sub-title lang="en">14-10-2020</sub-title>
-    <desc lang="en">Noticias y informaciones de actualidad</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014150000 +0200" stop="20201014180000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Jelou</title>
-    <desc lang="en">Revista matutina en la que se tratan temas relacionados con: la psicología, la moda, la salud, la farándula el fitness y las recetas culinarias</desc>
+<programme start="20201019210000 +0200" stop="20201019220000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">MacGyver</title>
+    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
     <date>2016</date>
-  </programme>
-<programme start="20201014180000 +0200" stop="20201014190000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">La trampa</title>
-    <desc lang="en">Un hombre debe luchar por mantener el amor de su vida y al mismo tiempo evitar el enfado de su madre</desc>
-    <date>1985</date>
-  </programme>
-<programme start="20201014190000 +0200" stop="20201014200000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">TVN Noticias: Edición Medio Día</title>
-    <sub-title lang="en">14-10-2020</sub-title>
-    <desc lang="en">Noticias locales, deportes y tiempo</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201014200000 +0200" stop="20201014210000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Al Rojo Vivo con María Celeste</title>
-    <desc lang="en">Programa de corte informativo sobre el acontecer nacional e internacional, matizado con interesantes segmentos sobre temas de actualidad</desc>
-    <date>2002</date>
-    <category lang="en">Tvshow</category>
-    <icon src="https://tvguide1.cbsistatic.com/feed/1/220/118560220.jpg"/>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201014210000 +0200" stop="20201014220000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Mujeres rompiendo el silencio</title>
-    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales</desc>
-    <date>2017</date>
-  </programme>
-<programme start="20201014220000 +0200" stop="20201014230000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Mujer desconocida</title>
-  </programme>
-<programme start="20201014230000 +0200" stop="20201015010000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201015010000 +0200" stop="20201015030000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Noticiero Estelar</title>
-    <sub-title lang="en">14-10-2020</sub-title>
-    <desc lang="en">Noticias nacionales y internacionales</desc>
+<programme start="20201019220000 +0200" stop="20201019230000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">FBI</title>
+    <sub-title lang="en">Most Wanted</sub-title>
+    <desc lang="en">Un drama de alto riesgo que se centra en la Fugitive Task Force, que rastrea y captura de forma implacable a los criminales más buscado por las fuerzas del estado. El experimentado agente Jess LaCroix supervisa el equipo altamente cualificado que funciona como una unidad encubierta móvil que siempre está en el campo. Dick Wolf, René Balcer, Arthur W</desc>
     <date>2020</date>
+  </programme>
+<programme start="20201019230000 +0200" stop="20201020000000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías..</desc>
+    <date>2005</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201015030000 +0200" stop="20201015043000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">"Fuerza de mujer" es la historia de Bahar, una hermosa mujer que conoce a su esposo Sarp en un barco, con quien vive una historia de amor de ensueño. Se casan y tienen dos hijos, pero el mundo de Bahar se derrumba cuando su esposo muere y ella queda al frente de su familia</desc>
-    <date>2018</date>
+<programme start="20201020000000 +0200" stop="20201020010000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
   </programme>
-<programme start="20201015043000 +0200" stop="20201015060000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">100 días para enamorarnos</title>
-    <desc lang="en">La historia gira en torno a dos buenas amigas, Constanza Franco, una abogada muy sofisticada y exitosa, además de madre y esposa; y a Remedios Rivera, también madre y esposa amorosas, pero que, a diferencia de su amiga, es un espíritu libre que no puede mantener su vida en orden. Ambas mujeres deciden terminar 20 años de matrimonio con sus respectivos esposos. La vida de Remedios es complicada cuando decide separarse de su esposo actual y reaparece su primer amor</desc>
-    <date>2020</date>
+<programme start="20201020010000 +0200" stop="20201020020000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
   </programme>
-<programme start="20201015060000 +0200" stop="20201015070000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">El Clon</title>
-    <desc lang="en">Una historia de amor que traspasa los límites del tiempo, las ideologías religiosas y la ciencia</desc>
-  </programme>
-<programme start="20201015070000 +0200" stop="20201015080000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Los Reyes del Humor</title>
-  </programme>
-<programme start="20201015080000 +0200" stop="20201015090000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Sabores del chef</title>
-  </programme>
-<programme start="20201015090000 +0200" stop="20201015110000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Hecho en Panamá</title>
-    <desc lang="en">Un espacio dedicado al poblador rural panameño que crea una imagen positiva y realista</desc>
-    <date>2010</date>
-  </programme>
-<programme start="20201015110000 +0200" stop="20201015120000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Los Reyes del Humor</title>
-  </programme>
-<programme start="20201015120000 +0200" stop="20201015130000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">"Fuerza de mujer" es la historia de Bahar, una hermosa mujer que conoce a su esposo Sarp en un barco, con quien vive una historia de amor de ensueño. Se casan y tienen dos hijos, pero el mundo de Bahar se derrumba cuando su esposo muere y ella queda al frente de su familia</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201015130000 +0200" stop="20201015150000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Noticiero AM</title>
-    <sub-title lang="en">15-10-2020</sub-title>
-    <desc lang="en">Noticias y informaciones de actualidad</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015150000 +0200" stop="20201015180000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Jelou</title>
-    <desc lang="en">Revista matutina en la que se tratan temas relacionados con: la psicología, la moda, la salud, la farándula el fitness y las recetas culinarias</desc>
+<programme start="20201020020000 +0200" stop="20201020050000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Bunnicula</title>
+    <desc lang="en">Las aventuras de un conejo paranormal que bebe el zumo de zanahorias y de otras verduras</desc>
     <date>2016</date>
-  </programme>
-<programme start="20201015180000 +0200" stop="20201015190000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">La trampa</title>
-    <desc lang="en">Un hombre debe luchar por mantener el amor de su vida y al mismo tiempo evitar el enfado de su madre</desc>
-    <date>1985</date>
-  </programme>
-<programme start="20201015190000 +0200" stop="20201015200000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">TVN Noticias: Edición Medio Día</title>
-    <sub-title lang="en">15-10-2020</sub-title>
-    <desc lang="en">Noticias locales, deportes y tiempo</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201015200000 +0200" stop="20201015210000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Al Rojo Vivo con María Celeste</title>
-    <desc lang="en">Programa de corte informativo sobre el acontecer nacional e internacional, matizado con interesantes segmentos sobre temas de actualidad</desc>
-    <date>2002</date>
-    <category lang="en">Tvshow</category>
-    <icon src="https://tvguide1.cbsistatic.com/feed/1/220/118560220.jpg"/>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>TV-Y7</value>
     </rating>
   </programme>
-<programme start="20201015210000 +0200" stop="20201015220000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Mujeres rompiendo el silencio</title>
-    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales</desc>
-    <date>2017</date>
+<programme start="20201020050000 +0200" stop="20201020060000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Bayly</title>
   </programme>
-<programme start="20201015220000 +0200" stop="20201015230000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Mujer desconocida</title>
+<programme start="20201020060000 +0200" stop="20201020070000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Serie</title>
   </programme>
-<programme start="20201015230000 +0200" stop="20201016010000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
-    <date>2001</date>
+<programme start="20201020070000 +0200" stop="20201020080000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Oración Fuerte al Espíritu Santo</title>
+  </programme>
+<programme start="20201020080000 +0200" stop="20201020090000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">El after</title>
+  </programme>
+<programme start="20201020090000 +0200" stop="20201020100000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Poveda Tunai Show</title>
+  </programme>
+<programme start="20201020100000 +0200" stop="20201020110000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Infraganti</title>
+  </programme>
+<programme start="20201020110000 +0200" stop="20201020120000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Oración Fuerte al Espíritu Santo</title>
+  </programme>
+<programme start="20201020120000 +0200" stop="20201020130000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201020130000 +0200" stop="20201020153000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Animados</title>
+  </programme>
+<programme start="20201020153000 +0200" stop="20201020160000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Plaza Sésamo</title>
+    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones</desc>
+    <date>1973</date>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-<programme start="20201016010000 +0200" stop="20201016030000 +0200" channel="TVNCanal2.pa">
-    <title lang="en">Noticiero Estelar</title>
-    <sub-title lang="en">15-10-2020</sub-title>
-    <desc lang="en">Noticias nacionales y internacionales</desc>
+<programme start="20201020160000 +0200" stop="20201020180000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Conectate a la Estrella / Meduca</title>
+    <desc lang="en">Programa de entretenimiento</desc>
+  </programme>
+<programme start="20201020180000 +0200" stop="20201020183000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201020183000 +0200" stop="20201020190000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201020190000 +0200" stop="20201020193000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201020193000 +0200" stop="20201020200000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201020200000 +0200" stop="20201020210000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">MacGyver</title>
+    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201020210000 +0200" stop="20201020220000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">MacGyver</title>
+    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201020220000 +0200" stop="20201020230000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">FBI</title>
+    <sub-title lang="en">Most Wanted</sub-title>
+    <desc lang="en">Un drama de alto riesgo que se centra en la Fugitive Task Force, que rastrea y captura de forma implacable a los criminales más buscado por las fuerzas del estado. El experimentado agente Jess LaCroix supervisa el equipo altamente cualificado que funciona como una unidad encubierta móvil que siempre está en el campo. Dick Wolf, René Balcer, Arthur W</desc>
     <date>2020</date>
+  </programme>
+<programme start="20201020230000 +0200" stop="20201021000000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías..</desc>
+    <date>2005</date>
     <category lang="en">News</category>
+  </programme>
+<programme start="20201021000000 +0200" stop="20201021010000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201021010000 +0200" stop="20201021020000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201021020000 +0200" stop="20201021040000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Película</title>
+  </programme>
+<programme start="20201021040000 +0200" stop="20201021050000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">El Chapo</title>
+    <sub-title lang="en">Capítulo 1</sub-title>
+  </programme>
+<programme start="20201021050000 +0200" stop="20201021060000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Bayly</title>
+  </programme>
+<programme start="20201021060000 +0200" stop="20201021070000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Estación 19</title>
+    <sub-title lang="en">Nunca llueve a gusto de todos</sub-title>
+    <desc lang="en">En Seattle, los bomberos son, además, técnicos de emergencias, y el equipo de la estación 19 es insuperable</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201021070000 +0200" stop="20201021080000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Oración Fuerte al Espíritu Santo</title>
+  </programme>
+<programme start="20201021080000 +0200" stop="20201021090000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">El after</title>
+  </programme>
+<programme start="20201021090000 +0200" stop="20201021100000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Poveda Tunai Show</title>
+  </programme>
+<programme start="20201021100000 +0200" stop="20201021110000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Infraganti</title>
+  </programme>
+<programme start="20201021110000 +0200" stop="20201021120000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Oración Fuerte al Espíritu Santo</title>
+  </programme>
+<programme start="20201021120000 +0200" stop="20201021130000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201021130000 +0200" stop="20201021153000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Animados</title>
+  </programme>
+<programme start="20201021153000 +0200" stop="20201021160000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Plaza Sésamo</title>
+    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones</desc>
+    <date>1973</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+<programme start="20201021160000 +0200" stop="20201021180000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Conectate a la Estrella / Meduca</title>
+    <desc lang="en">Programa de entretenimiento</desc>
+  </programme>
+<programme start="20201021180000 +0200" stop="20201021183000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201021183000 +0200" stop="20201021190000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201021190000 +0200" stop="20201021193000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201021193000 +0200" stop="20201021200000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">RPC Televisión Canal 4</title>
+  </programme>
+<programme start="20201021200000 +0200" stop="20201021210000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">MacGyver</title>
+    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201021210000 +0200" stop="20201021220000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">MacGyver</title>
+    <desc lang="en">Las aventuras de un ingenioso ex agente especial que realiza misiones peligrosas sin violencia</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201021220000 +0200" stop="20201021230000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">FBI</title>
+    <sub-title lang="en">Most Wanted</sub-title>
+    <desc lang="en">Un drama de alto riesgo que se centra en la Fugitive Task Force, que rastrea y captura de forma implacable a los criminales más buscado por las fuerzas del estado. El experimentado agente Jess LaCroix supervisa el equipo altamente cualificado que funciona como una unidad encubierta móvil que siempre está en el campo. Dick Wolf, René Balcer, Arthur W</desc>
+    <date>2020</date>
+  </programme>
+<programme start="20201021230000 +0200" stop="20201022000000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías..</desc>
+    <date>2005</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201022000000 +0200" stop="20201022010000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201022010000 +0200" stop="20201022020000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201022020000 +0200" stop="20201022040000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Película</title>
+  </programme>
+<programme start="20201022040000 +0200" stop="20201022050000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">El Chapo</title>
+    <sub-title lang="en">Capítulo 1</sub-title>
+  </programme>
+<programme start="20201022050000 +0200" stop="20201022060000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Bayly</title>
+  </programme>
+<programme start="20201022060000 +0200" stop="20201022070000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Serie</title>
+  </programme>
+<programme start="20201022070000 +0200" stop="20201022080000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Oración Fuerte al Espíritu Santo</title>
+  </programme>
+<programme start="20201022080000 +0200" stop="20201022090000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">El after</title>
+  </programme>
+<programme start="20201022090000 +0200" stop="20201022100000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Poveda Tunai Show</title>
+  </programme>
+<programme start="20201022100000 +0200" stop="20201022110000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Infraganti</title>
+  </programme>
+<programme start="20201022110000 +0200" stop="20201022120000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Oración Fuerte al Espíritu Santo</title>
+  </programme>
+<programme start="20201022120000 +0200" stop="20201022130000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Series</title>
+  </programme>
+<programme start="20201022130000 +0200" stop="20201022153000 +0200" channel="RPCCanal4.pa">
+    <title lang="en">Animados</title>
   </programme>
 <programme start="20201016030000 +0200" stop="20201016043000 +0200" channel="TVNCanal2.pa">
     <title lang="en">Fuerza de mujer</title>
@@ -1758,13 +1583,20 @@
 <programme start="20201018193000 +0200" stop="20201018223000 +0200" channel="TVNCanal2.pa">
     <title lang="en">Bandido honrado</title>
   </programme>
-<programme start="20201018223000 +0200" stop="20201019020000 +0200" channel="TVNCanal2.pa">
+<programme start="20201018223000 +0200" stop="20201019010000 +0200" channel="TVNCanal2.pa">
     <title lang="en">Caso cerrado</title>
     <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
     <date>2001</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
+  </programme>
+<programme start="20201019010000 +0200" stop="20201019020000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticias Fin de Semana</title>
+    <sub-title lang="en">18-10-2020</sub-title>
+    <desc lang="en">Noticias y informaciones de actualidad</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
   </programme>
 <programme start="20201019020000 +0200" stop="20201019040000 +0200" channel="TVNCanal2.pa">
     <title lang="en">Película</title>
@@ -1798,267 +1630,275 @@
 <programme start="20201019120000 +0200" stop="20201019130000 +0200" channel="TVNCanal2.pa">
     <title lang="en">Bandido honrado</title>
   </programme>
-<programme start="20201013030000 +0200" stop="20201013050000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+<programme start="20201019130000 +0200" stop="20201019150000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero AM</title>
+    <category lang="en">News</category>
   </programme>
-<programme start="20201013050000 +0200" stop="20201013053000 +0200" channel="Telemetro.pa">
-    <title lang="en">Jezabel</title>
-    <desc lang="en">Ambientada en Israel, Jezabel cuenta la historia de una princesa fenicia que usa su belleza y poder seductor para lograr todo lo que desea. Se casa con el rey Acab para convertirse en reina, pero sufre una fuerte oposición del pueblo israelí al tratar de imponer adoración a los dioses paganos Baal y Asherah</desc>
-    <date>2019</date>
+<programme start="20201019150000 +0200" stop="20201019170000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Jelou</title>
+    <desc lang="en">Revista matutina en la que se tratan temas relacionados con: la psicología, la moda, la salud, la farándula el fitness y las recetas culinarias</desc>
+    <date>2016</date>
   </programme>
-<programme start="20201013053000 +0200" stop="20201013061500 +0200" channel="Telemetro.pa">
-    <title lang="en">Médicos</title>
-    <sub-title lang="en">Línea de vida</sub-title>
-  </programme>
-<programme start="20201013061500 +0200" stop="20201013064500 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Nocturno</title>
-  </programme>
-<programme start="20201013064500 +0200" stop="20201013071000 +0200" channel="Telemetro.pa">
-    <title lang="en">Muertos de hambre</title>
-  </programme>
-<programme start="20201013071000 +0200" stop="20201013080000 +0200" channel="Telemetro.pa">
-    <title lang="en">A lo Panameño</title>
-  </programme>
-<programme start="20201013080000 +0200" stop="20201013083000 +0200" channel="Telemetro.pa">
-    <title lang="en">Mamá y compañía</title>
-    <desc lang="en">Segmento especialmente dedicado a todas las madres. Tips, consejos, información y secretos para las mamás jóvenes y las más adultas. Salud, bienestar, crianza, educación y muchos otros temas de interés son tratados con seriedad y objetividad</desc>
+<programme start="20201019170000 +0200" stop="20201019180000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Orgullo y Pasión</title>
+    <desc lang="en">Teleserie brasileña sobre una joven rebelde y llena de sueños que lucha contra el destino del matrimonio sin amor</desc>
     <date>2018</date>
   </programme>
-<programme start="20201013083000 +0200" stop="20201013093000 +0200" channel="Telemetro.pa">
-    <title lang="en">Da'Flow</title>
+<programme start="20201019180000 +0200" stop="20201019190000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales</desc>
+    <date>2017</date>
   </programme>
-<programme start="20201013093000 +0200" stop="20201013113000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Estelar</title>
+<programme start="20201019190000 +0200" stop="20201019200000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">TVN Noticias</title>
+    <sub-title lang="en">Edición Medio Día</sub-title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201013113000 +0200" stop="20201013120000 +0200" channel="Telemetro.pa">
-    <title lang="en">Más Que Cine</title>
-  </programme>
-<programme start="20201013120000 +0200" stop="20201013130000 +0200" channel="Telemetro.pa">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
-  </programme>
-<programme start="20201013130000 +0200" stop="20201013150000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Matutino</title>
-  </programme>
-<programme start="20201013150000 +0200" stop="20201013180000 +0200" channel="Telemetro.pa">
-    <title lang="en">Tu Mañana</title>
-  </programme>
-<programme start="20201013180000 +0200" stop="20201013190000 +0200" channel="Telemetro.pa">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
-  </programme>
-<programme start="20201013190000 +0200" stop="20201013200000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Mediodía</title>
-    <desc lang="en">Noticias locales, deportes y tiempo</desc>
-    <date>2009</date>
-  </programme>
-<programme start="20201013200000 +0200" stop="20201013204500 +0200" channel="Telemetro.pa">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella</desc>
-    <date>2008</date>
+<programme start="20201019200000 +0200" stop="20201019220000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Al Rojo Vivo con María Celeste</title>
+    <desc lang="en">Programa de corte informativo sobre el acontecer nacional e internacional, matizado con interesantes segmentos sobre temas de actualidad</desc>
+    <date>2002</date>
+    <category lang="en">Tvshow</category>
+    <icon src="https://tvguide1.cbsistatic.com/feed/1/220/118560220.jpg"/>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201013204500 +0200" stop="20201013213000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella</desc>
-    <date>2008</date>
+<programme start="20201019220000 +0200" stop="20201019223000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">En casa</title>
+    <desc lang="en">Programa local</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201019223000 +0200" stop="20201019230000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Tarde lo Conoci</title>
+  </programme>
+<programme start="20201019230000 +0200" stop="20201020010000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
+    <date>2001</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201013213000 +0200" stop="20201013224500 +0200" channel="Telemetro.pa">
-    <title lang="en">Lo que la vida me robó</title>
-    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre, que hará lo imposible para conseguir que su hija se case con el hombre que le ayude a mantener el estatus social que están a punto de perder</desc>
-    <date>2013</date>
-  </programme>
-<programme start="20201013224500 +0200" stop="20201014000000 +0200" channel="Telemetro.pa">
-    <title lang="en">Te doy la vida</title>
-    <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201014000000 +0200" stop="20201014010000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Tierra Prometida</title>
-    <desc lang="en">Historia ficticia basada en la salida del pueblo de Israel del cautiverio de los egipcios. Luego de la muerte de Moisés, el pueblo hebreo, liderado por Josué, tendrá que enfrentarse a distintos reinos para tomar Canaán, la tierra que Dios les ha prometido</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201014010000 +0200" stop="20201014030000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Estelar</title>
+<programme start="20201020010000 +0200" stop="20201020030000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero Estelar</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201014030000 +0200" stop="20201014033000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+<programme start="20201020030000 +0200" stop="20201020040000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Bandido honrado</title>
   </programme>
-<programme start="20201014033000 +0200" stop="20201014053000 +0200" channel="Telemetro.pa">
-    <title lang="en">Fuego vs. Fuego</title>
-    <desc lang="en">Dos equipos se enfretan para alaborar los platillos mas deliciosos</desc>
-    <date>2020</date>
+<programme start="20201020040000 +0200" stop="20201020050000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Nefes</title>
   </programme>
-<programme start="20201014053000 +0200" stop="20201014061500 +0200" channel="Telemetro.pa">
-    <title lang="en">Médicos</title>
-    <sub-title lang="en">Línea de vida</sub-title>
+<programme start="20201020050000 +0200" stop="20201020060000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">La Nocturna</title>
+    <desc lang="en">Programa local</desc>
+    <date>2018</date>
   </programme>
-<programme start="20201014061500 +0200" stop="20201014064500 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Nocturno</title>
+<programme start="20201020060000 +0200" stop="20201020063000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">For my son</title>
   </programme>
-<programme start="20201014064500 +0200" stop="20201014071000 +0200" channel="Telemetro.pa">
-    <title lang="en">Cara a Cara</title>
-  </programme>
-<programme start="20201014071000 +0200" stop="20201014080000 +0200" channel="Telemetro.pa">
-    <title lang="en">Da'Flow</title>
-  </programme>
-<programme start="20201014080000 +0200" stop="20201014093000 +0200" channel="Telemetro.pa">
-    <title lang="en">¿Quién TV</title>
-  </programme>
-<programme start="20201014093000 +0200" stop="20201014113000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Estelar</title>
+<programme start="20201020063000 +0200" stop="20201020070000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticias y Más</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201014113000 +0200" stop="20201014120000 +0200" channel="Telemetro.pa">
-    <title lang="en">Muertos de hambre</title>
+<programme start="20201020070000 +0200" stop="20201020080000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Los Reyes del Humor</title>
   </programme>
-<programme start="20201014120000 +0200" stop="20201014130000 +0200" channel="Telemetro.pa">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+<programme start="20201020080000 +0200" stop="20201020090000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Sabores del chef</title>
   </programme>
-<programme start="20201014130000 +0200" stop="20201014150000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Matutino</title>
+<programme start="20201020090000 +0200" stop="20201020110000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Hecho en Panamá</title>
+    <desc lang="en">Un espacio dedicado al poblador rural panameño que crea una imagen positiva y realista</desc>
+    <date>2010</date>
   </programme>
-<programme start="20201014150000 +0200" stop="20201014180000 +0200" channel="Telemetro.pa">
-    <title lang="en">Tu Mañana</title>
+<programme start="20201020110000 +0200" stop="20201020120000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Los Reyes del Humor</title>
   </programme>
-<programme start="20201014180000 +0200" stop="20201014190000 +0200" channel="Telemetro.pa">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+<programme start="20201020120000 +0200" stop="20201020130000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Bandido honrado</title>
   </programme>
-<programme start="20201014190000 +0200" stop="20201014200000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Mediodía</title>
-    <desc lang="en">Noticias locales, deportes y tiempo</desc>
-    <date>2009</date>
-  </programme>
-<programme start="20201014200000 +0200" stop="20201014204500 +0200" channel="Telemetro.pa">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201014204500 +0200" stop="20201014213000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201014213000 +0200" stop="20201014224500 +0200" channel="Telemetro.pa">
-    <title lang="en">Lo que la vida me robó</title>
-    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre, que hará lo imposible para conseguir que su hija se case con el hombre que le ayude a mantener el estatus social que están a punto de perder</desc>
-    <date>2013</date>
-  </programme>
-<programme start="20201014224500 +0200" stop="20201015000000 +0200" channel="Telemetro.pa">
-    <title lang="en">Te doy la vida</title>
-    <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201015000000 +0200" stop="20201015010000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Tierra Prometida</title>
-    <desc lang="en">Historia ficticia basada en la salida del pueblo de Israel del cautiverio de los egipcios. Luego de la muerte de Moisés, el pueblo hebreo, liderado por Josué, tendrá que enfrentarse a distintos reinos para tomar Canaán, la tierra que Dios les ha prometido</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201015010000 +0200" stop="20201015030000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Estelar</title>
+<programme start="20201020130000 +0200" stop="20201020150000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero AM</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201015030000 +0200" stop="20201015040000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+<programme start="20201020150000 +0200" stop="20201020170000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Jelou</title>
+    <desc lang="en">Revista matutina en la que se tratan temas relacionados con: la psicología, la moda, la salud, la farándula el fitness y las recetas culinarias</desc>
+    <date>2016</date>
   </programme>
-<programme start="20201015040000 +0200" stop="20201015044500 +0200" channel="Telemetro.pa">
-    <title lang="en">Hercai</title>
+<programme start="20201020170000 +0200" stop="20201020180000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Orgullo y Pasión</title>
+    <desc lang="en">Teleserie brasileña sobre una joven rebelde y llena de sueños que lucha contra el destino del matrimonio sin amor</desc>
+    <date>2018</date>
   </programme>
-<programme start="20201015044500 +0200" stop="20201015051500 +0200" channel="Telemetro.pa">
-    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+<programme start="20201020180000 +0200" stop="20201020190000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales</desc>
+    <date>2017</date>
   </programme>
-<programme start="20201015051500 +0200" stop="20201015054500 +0200" channel="Telemetro.pa">
-    <title lang="en">Jezabel</title>
-    <desc lang="en">Ambientada en Israel, Jezabel cuenta la historia de una princesa fenicia que usa su belleza y poder seductor para lograr todo lo que desea. Se casa con el rey Acab para convertirse en reina, pero sufre una fuerte oposición del pueblo israelí al tratar de imponer adoración a los dioses paganos Baal y Asherah</desc>
-    <date>2019</date>
-  </programme>
-<programme start="20201015054500 +0200" stop="20201015063000 +0200" channel="Telemetro.pa">
-    <title lang="en">Médicos</title>
-    <sub-title lang="en">Línea de vida</sub-title>
-  </programme>
-<programme start="20201015063000 +0200" stop="20201015071000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Nocturno</title>
-  </programme>
-<programme start="20201015071000 +0200" stop="20201015083000 +0200" channel="Telemetro.pa">
-    <title lang="en">¿Quién TV</title>
-  </programme>
-<programme start="20201015083000 +0200" stop="20201015093000 +0200" channel="Telemetro.pa">
-    <title lang="en">Da'Flow</title>
-  </programme>
-<programme start="20201015093000 +0200" stop="20201015113000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Estelar</title>
+<programme start="20201020190000 +0200" stop="20201020200000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">TVN Noticias</title>
+    <sub-title lang="en">Edición Medio Día</sub-title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201015113000 +0200" stop="20201015120000 +0200" channel="Telemetro.pa">
-    <title lang="en">Más Que Cine</title>
-  </programme>
-<programme start="20201015120000 +0200" stop="20201015130000 +0200" channel="Telemetro.pa">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
-  </programme>
-<programme start="20201015130000 +0200" stop="20201015150000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Matutino</title>
-  </programme>
-<programme start="20201015150000 +0200" stop="20201015180000 +0200" channel="Telemetro.pa">
-    <title lang="en">Tu Mañana</title>
-  </programme>
-<programme start="20201015180000 +0200" stop="20201015190000 +0200" channel="Telemetro.pa">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
-  </programme>
-<programme start="20201015190000 +0200" stop="20201015200000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Mediodía</title>
-    <desc lang="en">Noticias locales, deportes y tiempo</desc>
-    <date>2009</date>
-  </programme>
-<programme start="20201015200000 +0200" stop="20201015204500 +0200" channel="Telemetro.pa">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
-    <date>2008</date>
+<programme start="20201020200000 +0200" stop="20201020220000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Al Rojo Vivo con María Celeste</title>
+    <desc lang="en">Programa de corte informativo sobre el acontecer nacional e internacional, matizado con interesantes segmentos sobre temas de actualidad</desc>
+    <date>2002</date>
+    <category lang="en">Tvshow</category>
+    <icon src="https://tvguide1.cbsistatic.com/feed/1/220/118560220.jpg"/>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201015204500 +0200" stop="20201015213000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
-    <date>2008</date>
+<programme start="20201020220000 +0200" stop="20201020223000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">En casa</title>
+    <desc lang="en">Programa local</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201020223000 +0200" stop="20201020230000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Tarde lo Conoci</title>
+  </programme>
+<programme start="20201020230000 +0200" stop="20201021010000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
+    <date>2001</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201015213000 +0200" stop="20201015224500 +0200" channel="Telemetro.pa">
-    <title lang="en">Lo que la vida me robó</title>
-    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre, que hará lo imposible para conseguir que su hija se case con el hombre que le ayude a mantener el estatus social que están a punto de perder</desc>
-    <date>2013</date>
+<programme start="20201021010000 +0200" stop="20201021030000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero Estelar</title>
+    <category lang="en">News</category>
   </programme>
-<programme start="20201015224500 +0200" stop="20201016000000 +0200" channel="Telemetro.pa">
-    <title lang="en">Te doy la vida</title>
-    <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
+<programme start="20201021030000 +0200" stop="20201021040000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Bandido honrado</title>
+  </programme>
+<programme start="20201021040000 +0200" stop="20201021050000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Nefes</title>
+  </programme>
+<programme start="20201021050000 +0200" stop="20201021060000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">La Nocturna</title>
+    <desc lang="en">Programa local</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201021060000 +0200" stop="20201021063000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">For my son</title>
+  </programme>
+<programme start="20201021063000 +0200" stop="20201021070000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticias y Más</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021070000 +0200" stop="20201021080000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Los Reyes del Humor</title>
+  </programme>
+<programme start="20201021080000 +0200" stop="20201021090000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Sabores del chef</title>
+  </programme>
+<programme start="20201021090000 +0200" stop="20201021110000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Hecho en Panamá</title>
+    <desc lang="en">Un espacio dedicado al poblador rural panameño que crea una imagen positiva y realista</desc>
+    <date>2010</date>
+  </programme>
+<programme start="20201021110000 +0200" stop="20201021120000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Los Reyes del Humor</title>
+  </programme>
+<programme start="20201021120000 +0200" stop="20201021130000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Bandido honrado</title>
+  </programme>
+<programme start="20201021130000 +0200" stop="20201021150000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero AM</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021150000 +0200" stop="20201021170000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Jelou</title>
+    <desc lang="en">Revista matutina en la que se tratan temas relacionados con: la psicología, la moda, la salud, la farándula el fitness y las recetas culinarias</desc>
     <date>2016</date>
   </programme>
-<programme start="20201016000000 +0200" stop="20201016010000 +0200" channel="Telemetro.pa">
-    <title lang="en">La Tierra Prometida</title>
-    <desc lang="en">Historia ficticia basada en la salida del pueblo de Israel del cautiverio de los egipcios. Luego de la muerte de Moisés, el pueblo hebreo, liderado por Josué, tendrá que enfrentarse a distintos reinos para tomar Canaán, la tierra que Dios les ha prometido</desc>
-    <date>2016</date>
+<programme start="20201021170000 +0200" stop="20201021180000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Orgullo y Pasión</title>
+    <desc lang="en">Teleserie brasileña sobre una joven rebelde y llena de sueños que lucha contra el destino del matrimonio sin amor</desc>
+    <date>2018</date>
   </programme>
-<programme start="20201016010000 +0200" stop="20201016030000 +0200" channel="Telemetro.pa">
-    <title lang="en">Telemetro Reporta Estelar</title>
+<programme start="20201021180000 +0200" stop="20201021190000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales</desc>
+    <date>2017</date>
+  </programme>
+<programme start="20201021190000 +0200" stop="20201021200000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">TVN Noticias</title>
+    <sub-title lang="en">Edición Medio Día</sub-title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021200000 +0200" stop="20201021220000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Al Rojo Vivo con María Celeste</title>
+    <desc lang="en">Programa de corte informativo sobre el acontecer nacional e internacional, matizado con interesantes segmentos sobre temas de actualidad</desc>
+    <date>2002</date>
+    <category lang="en">Tvshow</category>
+    <icon src="https://tvguide1.cbsistatic.com/feed/1/220/118560220.jpg"/>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201021220000 +0200" stop="20201021223000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">En casa</title>
+    <desc lang="en">Programa local</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201021223000 +0200" stop="20201021230000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Tarde lo Conoci</title>
+  </programme>
+<programme start="20201021230000 +0200" stop="20201022010000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos</desc>
+    <date>2001</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201022010000 +0200" stop="20201022030000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201022030000 +0200" stop="20201022040000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Bandido honrado</title>
+  </programme>
+<programme start="20201022040000 +0200" stop="20201022050000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Nefes</title>
+  </programme>
+<programme start="20201022050000 +0200" stop="20201022060000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">La Nocturna</title>
+    <desc lang="en">Programa local</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201022060000 +0200" stop="20201022063000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">For my son</title>
+  </programme>
+<programme start="20201022063000 +0200" stop="20201022070000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticias y Más</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201022070000 +0200" stop="20201022080000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Los Reyes del Humor</title>
+  </programme>
+<programme start="20201022080000 +0200" stop="20201022090000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Sabores del chef</title>
+  </programme>
+<programme start="20201022090000 +0200" stop="20201022110000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Hecho en Panamá</title>
+    <desc lang="en">Un espacio dedicado al poblador rural panameño que crea una imagen positiva y realista</desc>
+    <date>2010</date>
+  </programme>
+<programme start="20201022110000 +0200" stop="20201022120000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Los Reyes del Humor</title>
+  </programme>
+<programme start="20201022120000 +0200" stop="20201022130000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Bandido honrado</title>
+  </programme>
+<programme start="20201022130000 +0200" stop="20201022150000 +0200" channel="TVNCanal2.pa">
+    <title lang="en">Noticiero AM</title>
     <category lang="en">News</category>
   </programme>
 <programme start="20201016030000 +0200" stop="20201016040000 +0200" channel="Telemetro.pa">
@@ -2360,10 +2200,299 @@
   </programme>
 <programme start="20201019120000 +0200" stop="20201019130000 +0200" channel="Telemetro.pa">
     <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente [(101175)]</desc>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
     <date>2011</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
+  </programme>
+<programme start="20201019130000 +0200" stop="20201019150000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Matutino</title>
+  </programme>
+<programme start="20201019150000 +0200" stop="20201019180000 +0200" channel="Telemetro.pa">
+    <title lang="en">Tu Mañana</title>
+  </programme>
+<programme start="20201019180000 +0200" stop="20201019190000 +0200" channel="Telemetro.pa">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201019190000 +0200" stop="20201019200000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Mediodía</title>
+    <desc lang="en">Noticias locales, deportes y tiempo</desc>
+    <date>2009</date>
+  </programme>
+<programme start="20201019200000 +0200" stop="20201019204500 +0200" channel="Telemetro.pa">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201019204500 +0200" stop="20201019213000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201019213000 +0200" stop="20201019224500 +0200" channel="Telemetro.pa">
+    <title lang="en">Lo que la vida me robó</title>
+    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre, que hará lo imposible para conseguir que su hija se case con el hombre que le ayude a mantener el estatus social que están a punto de perder</desc>
+    <date>2013</date>
+  </programme>
+<programme start="20201019224500 +0200" stop="20201020000000 +0200" channel="Telemetro.pa">
+    <title lang="en">Te doy la vida</title>
+    <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201020000000 +0200" stop="20201020010000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Tierra Prometida</title>
+    <desc lang="en">Historia ficticia basada en la salida del pueblo de Israel del cautiverio de los egipcios. Luego de la muerte de Moisés, el pueblo hebreo, liderado por Josué, tendrá que enfrentarse a distintos reinos para tomar Canaán, la tierra que Dios les ha prometido</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201020010000 +0200" stop="20201020030000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020030000 +0200" stop="20201020050000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+  </programme>
+<programme start="20201020050000 +0200" stop="20201020053000 +0200" channel="Telemetro.pa">
+    <title lang="en">Jezabel</title>
+    <desc lang="en">Ambientada en Israel, Jezabel cuenta la historia de una princesa fenicia que usa su belleza y poder seductor para lograr todo lo que desea. Se casa con el rey Acab para convertirse en reina, pero sufre una fuerte oposición del pueblo israelí al tratar de imponer adoración a los dioses paganos Baal y Asherah</desc>
+    <date>2019</date>
+  </programme>
+<programme start="20201020053000 +0200" stop="20201020061500 +0200" channel="Telemetro.pa">
+    <title lang="en">Médicos</title>
+    <sub-title lang="en">Línea de vida</sub-title>
+  </programme>
+<programme start="20201020061500 +0200" stop="20201020064500 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Nocturno</title>
+  </programme>
+<programme start="20201020064500 +0200" stop="20201020071000 +0200" channel="Telemetro.pa">
+    <title lang="en">Muertos de hambre</title>
+  </programme>
+<programme start="20201020071000 +0200" stop="20201020080000 +0200" channel="Telemetro.pa">
+    <title lang="en">A lo Panameño</title>
+  </programme>
+<programme start="20201020080000 +0200" stop="20201020083000 +0200" channel="Telemetro.pa">
+    <title lang="en">Mamá y compañía</title>
+    <desc lang="en">Segmento especialmente dedicado a todas las madres. Tips, consejos, información y secretos para las mamás jóvenes y las más adultas. Salud, bienestar, crianza, educación y muchos otros temas de interés son tratados con seriedad y objetividad</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201020083000 +0200" stop="20201020093000 +0200" channel="Telemetro.pa">
+    <title lang="en">Da'Flow</title>
+  </programme>
+<programme start="20201020093000 +0200" stop="20201020113000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201020113000 +0200" stop="20201020120000 +0200" channel="Telemetro.pa">
+    <title lang="en">Más Que Cine</title>
+  </programme>
+<programme start="20201020120000 +0200" stop="20201020130000 +0200" channel="Telemetro.pa">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201020130000 +0200" stop="20201020150000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Matutino</title>
+  </programme>
+<programme start="20201020150000 +0200" stop="20201020180000 +0200" channel="Telemetro.pa">
+    <title lang="en">Tu Mañana</title>
+  </programme>
+<programme start="20201020180000 +0200" stop="20201020190000 +0200" channel="Telemetro.pa">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201020190000 +0200" stop="20201020200000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Mediodía</title>
+    <desc lang="en">Noticias locales, deportes y tiempo</desc>
+    <date>2009</date>
+  </programme>
+<programme start="20201020200000 +0200" stop="20201020204500 +0200" channel="Telemetro.pa">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201020204500 +0200" stop="20201020213000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201020213000 +0200" stop="20201020224500 +0200" channel="Telemetro.pa">
+    <title lang="en">Lo que la vida me robó</title>
+    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre, que hará lo imposible para conseguir que su hija se case con el hombre que le ayude a mantener el estatus social que están a punto de perder</desc>
+    <date>2013</date>
+  </programme>
+<programme start="20201020224500 +0200" stop="20201021000000 +0200" channel="Telemetro.pa">
+    <title lang="en">Te doy la vida</title>
+    <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201021000000 +0200" stop="20201021010000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Tierra Prometida</title>
+    <desc lang="en">Historia ficticia basada en la salida del pueblo de Israel del cautiverio de los egipcios. Luego de la muerte de Moisés, el pueblo hebreo, liderado por Josué, tendrá que enfrentarse a distintos reinos para tomar Canaán, la tierra que Dios les ha prometido</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201021010000 +0200" stop="20201021030000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021030000 +0200" stop="20201021033000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+  </programme>
+<programme start="20201021033000 +0200" stop="20201021053000 +0200" channel="Telemetro.pa">
+    <title lang="en">Fuego vs. Fuego</title>
+    <desc lang="en">Dos equipos se enfretan para alaborar los platillos mas deliciosos</desc>
+    <date>2020</date>
+  </programme>
+<programme start="20201021053000 +0200" stop="20201021061500 +0200" channel="Telemetro.pa">
+    <title lang="en">Médicos</title>
+    <sub-title lang="en">Línea de vida</sub-title>
+  </programme>
+<programme start="20201021061500 +0200" stop="20201021064500 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Nocturno</title>
+  </programme>
+<programme start="20201021064500 +0200" stop="20201021071000 +0200" channel="Telemetro.pa">
+    <title lang="en">Cara a Cara</title>
+  </programme>
+<programme start="20201021071000 +0200" stop="20201021080000 +0200" channel="Telemetro.pa">
+    <title lang="en">Da'Flow</title>
+  </programme>
+<programme start="20201021080000 +0200" stop="20201021093000 +0200" channel="Telemetro.pa">
+    <title lang="en">¿Quién TV</title>
+  </programme>
+<programme start="20201021093000 +0200" stop="20201021113000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201021113000 +0200" stop="20201021120000 +0200" channel="Telemetro.pa">
+    <title lang="en">Muertos de hambre</title>
+  </programme>
+<programme start="20201021120000 +0200" stop="20201021130000 +0200" channel="Telemetro.pa">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201021130000 +0200" stop="20201021150000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Matutino</title>
+  </programme>
+<programme start="20201021150000 +0200" stop="20201021180000 +0200" channel="Telemetro.pa">
+    <title lang="en">Tu Mañana</title>
+  </programme>
+<programme start="20201021180000 +0200" stop="20201021190000 +0200" channel="Telemetro.pa">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201021190000 +0200" stop="20201021200000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Mediodía</title>
+    <desc lang="en">Noticias locales, deportes y tiempo</desc>
+    <date>2009</date>
+  </programme>
+<programme start="20201021200000 +0200" stop="20201021204500 +0200" channel="Telemetro.pa">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201021204500 +0200" stop="20201021213000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201021213000 +0200" stop="20201021224500 +0200" channel="Telemetro.pa">
+    <title lang="en">Lo que la vida me robó</title>
+    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre, que hará lo imposible para conseguir que su hija se case con el hombre que le ayude a mantener el estatus social que están a punto de perder</desc>
+    <date>2013</date>
+  </programme>
+<programme start="20201021224500 +0200" stop="20201022000000 +0200" channel="Telemetro.pa">
+    <title lang="en">Te doy la vida</title>
+    <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201022000000 +0200" stop="20201022010000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Tierra Prometida</title>
+    <desc lang="en">Historia ficticia basada en la salida del pueblo de Israel del cautiverio de los egipcios. Luego de la muerte de Moisés, el pueblo hebreo, liderado por Josué, tendrá que enfrentarse a distintos reinos para tomar Canaán, la tierra que Dios les ha prometido</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201022010000 +0200" stop="20201022030000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201022030000 +0200" stop="20201022050000 +0200" channel="Telemetro.pa">
+    <title lang="en">La Sra. Fazilet y sus Hijas</title>
+  </programme>
+<programme start="20201022050000 +0200" stop="20201022053000 +0200" channel="Telemetro.pa">
+    <title lang="en">Jezabel</title>
+    <desc lang="en">Ambientada en Israel, Jezabel cuenta la historia de una princesa fenicia que usa su belleza y poder seductor para lograr todo lo que desea. Se casa con el rey Acab para convertirse en reina, pero sufre una fuerte oposición del pueblo israelí al tratar de imponer adoración a los dioses paganos Baal y Asherah</desc>
+    <date>2019</date>
+  </programme>
+<programme start="20201022053000 +0200" stop="20201022061500 +0200" channel="Telemetro.pa">
+    <title lang="en">Médicos</title>
+    <sub-title lang="en">Línea de vida</sub-title>
+  </programme>
+<programme start="20201022061500 +0200" stop="20201022064500 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Nocturno</title>
+  </programme>
+<programme start="20201022064500 +0200" stop="20201022071000 +0200" channel="Telemetro.pa">
+    <title lang="en">Mamá y compañía</title>
+    <desc lang="en">Segmento especialmente dedicado a todas las madres. Tips, consejos, información y secretos para las mamás jóvenes y las más adultas. Salud, bienestar, crianza, educación y muchos otros temas de interés son tratados con seriedad y objetividad</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201022071000 +0200" stop="20201022083000 +0200" channel="Telemetro.pa">
+    <title lang="en">¿Quién TV</title>
+  </programme>
+<programme start="20201022083000 +0200" stop="20201022093000 +0200" channel="Telemetro.pa">
+    <title lang="en">Da'Flow</title>
+  </programme>
+<programme start="20201022093000 +0200" stop="20201022113000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201022113000 +0200" stop="20201022120000 +0200" channel="Telemetro.pa">
+    <title lang="en">Más Que Cine</title>
+  </programme>
+<programme start="20201022120000 +0200" stop="20201022130000 +0200" channel="Telemetro.pa">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201022130000 +0200" stop="20201022150000 +0200" channel="Telemetro.pa">
+    <title lang="en">Telemetro Reporta Matutino</title>
   </programme>
 </tv>
