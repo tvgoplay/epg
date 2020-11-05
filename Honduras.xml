@@ -15,225 +15,161 @@
 <channel id="Teleceiba.hn"><display-name>Teleceiba HN</display-name><icon src="https://static.epg.best/hn/Teleceiba.hn.png"/></channel>
 
 <channel id="Telesistema.hn"><display-name>Telesistema HN</display-name><icon src="https://static.epg.best/hn/Telesistema.hn.png"/></channel>
-<iepg>102075</iepg>
-<programme start="20201025070000 +0100" stop="20201025073000 +0100" channel="Canal6.hn">
+<iepg>102720</iepg>
+<programme start="20201104070000 +0100" stop="20201104073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201025073000 +0100" stop="20201026070000 +0100" channel="Canal6.hn">
+<programme start="20201104073000 +0100" stop="20201105070000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201026070000 +0100" stop="20201026073000 +0100" channel="Canal6.hn">
+<programme start="20201105070000 +0100" stop="20201105073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201026073000 +0100" stop="20201027070000 +0100" channel="Canal6.hn">
+<programme start="20201105073000 +0100" stop="20201106070000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201027070000 +0100" stop="20201027073000 +0100" channel="Canal6.hn">
+<programme start="20201106070000 +0100" stop="20201106073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201027073000 +0100" stop="20201028070000 +0100" channel="Canal6.hn">
+<programme start="20201106073000 +0100" stop="20201107070000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201028070000 +0100" stop="20201028073000 +0100" channel="Canal6.hn">
+<programme start="20201107070000 +0100" stop="20201107073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201028073000 +0100" stop="20201029070000 +0100" channel="Canal6.hn">
+<programme start="20201107073000 +0100" stop="20201108070000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201029070000 +0100" stop="20201029073000 +0100" channel="Canal6.hn">
+<programme start="20201108070000 +0100" stop="20201108073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201029073000 +0100" stop="20201030070000 +0100" channel="Canal6.hn">
+<programme start="20201108073000 +0100" stop="20201109070000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201030070000 +0100" stop="20201030073000 +0100" channel="Canal6.hn">
+<programme start="20201109070000 +0100" stop="20201109073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201030073000 +0100" stop="20201031070000 +0100" channel="Canal6.hn">
+<programme start="20201109073000 +0100" stop="20201110070000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201031070000 +0100" stop="20201031073000 +0100" channel="Canal6.hn">
+<programme start="20201110070000 +0100" stop="20201110073000 +0100" channel="Canal6.hn">
     <title lang="en">Canal 6</title>
   </programme>
-<programme start="20201025070000 +0100" stop="20201026070000 +0100" channel="Canal8.hn">
+<programme start="20201104070000 +0100" stop="20201105070000 +0100" channel="Canal8.hn">
     <title lang="en">Canal 8</title>
   </programme>
-<programme start="20201026070000 +0100" stop="20201027070000 +0100" channel="Canal8.hn">
+<programme start="20201105070000 +0100" stop="20201106070000 +0100" channel="Canal8.hn">
     <title lang="en">Canal 8</title>
   </programme>
-<programme start="20201027070000 +0100" stop="20201028070000 +0100" channel="Canal8.hn">
+<programme start="20201106070000 +0100" stop="20201107070000 +0100" channel="Canal8.hn">
     <title lang="en">Canal 8</title>
   </programme>
-<programme start="20201028070000 +0100" stop="20201029070000 +0100" channel="Canal8.hn">
+<programme start="20201107070000 +0100" stop="20201108070000 +0100" channel="Canal8.hn">
     <title lang="en">Canal 8</title>
   </programme>
-<programme start="20201029070000 +0100" stop="20201030070000 +0100" channel="Canal8.hn">
+<programme start="20201108070000 +0100" stop="20201109070000 +0100" channel="Canal8.hn">
     <title lang="en">Canal 8</title>
   </programme>
-<programme start="20201030070000 +0100" stop="20201031070000 +0100" channel="Canal8.hn">
+<programme start="20201109070000 +0100" stop="20201110070000 +0100" channel="Canal8.hn">
     <title lang="en">Canal 8</title>
   </programme>
-<programme start="20201025070000 +0100" stop="20201026070000 +0100" channel="Choluvision.hn">
+<programme start="20201104070000 +0100" stop="20201105070000 +0100" channel="Choluvision.hn">
     <title lang="en">27 TVH</title>
   </programme>
-<programme start="20201026070000 +0100" stop="20201027070000 +0100" channel="Choluvision.hn">
+<programme start="20201105070000 +0100" stop="20201106070000 +0100" channel="Choluvision.hn">
     <title lang="en">27 TVH</title>
   </programme>
-<programme start="20201027070000 +0100" stop="20201028070000 +0100" channel="Choluvision.hn">
+<programme start="20201106070000 +0100" stop="20201107070000 +0100" channel="Choluvision.hn">
     <title lang="en">27 TVH</title>
   </programme>
-<programme start="20201028070000 +0100" stop="20201029070000 +0100" channel="Choluvision.hn">
+<programme start="20201107070000 +0100" stop="20201108070000 +0100" channel="Choluvision.hn">
     <title lang="en">27 TVH</title>
   </programme>
-<programme start="20201029070000 +0100" stop="20201030070000 +0100" channel="Choluvision.hn">
+<programme start="20201108070000 +0100" stop="20201109070000 +0100" channel="Choluvision.hn">
     <title lang="en">27 TVH</title>
   </programme>
-<programme start="20201030070000 +0100" stop="20201031070000 +0100" channel="Choluvision.hn">
+<programme start="20201109070000 +0100" stop="20201110070000 +0100" channel="Choluvision.hn">
     <title lang="en">27 TVH</title>
   </programme>
-<programme start="20201025070000 +0100" stop="20201025080000 +0100" channel="Hondured.hn">
+<programme start="20201104070000 +0100" stop="20201104080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201025080000 +0100" stop="20201026070000 +0100" channel="Hondured.hn">
+<programme start="20201104080000 +0100" stop="20201105070000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201026070000 +0100" stop="20201026080000 +0100" channel="Hondured.hn">
+<programme start="20201105070000 +0100" stop="20201105080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201026080000 +0100" stop="20201027070000 +0100" channel="Hondured.hn">
+<programme start="20201105080000 +0100" stop="20201106070000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201027070000 +0100" stop="20201027080000 +0100" channel="Hondured.hn">
+<programme start="20201106070000 +0100" stop="20201106080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201027080000 +0100" stop="20201028070000 +0100" channel="Hondured.hn">
+<programme start="20201106080000 +0100" stop="20201107070000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201028070000 +0100" stop="20201028080000 +0100" channel="Hondured.hn">
+<programme start="20201107070000 +0100" stop="20201107080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201028080000 +0100" stop="20201029070000 +0100" channel="Hondured.hn">
+<programme start="20201107080000 +0100" stop="20201108070000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201029070000 +0100" stop="20201029080000 +0100" channel="Hondured.hn">
+<programme start="20201108070000 +0100" stop="20201108080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201029080000 +0100" stop="20201030070000 +0100" channel="Hondured.hn">
+<programme start="20201108080000 +0100" stop="20201109070000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201030070000 +0100" stop="20201030080000 +0100" channel="Hondured.hn">
+<programme start="20201109070000 +0100" stop="20201109080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201030080000 +0100" stop="20201031070000 +0100" channel="Hondured.hn">
+<programme start="20201109080000 +0100" stop="20201110070000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201031070000 +0100" stop="20201031080000 +0100" channel="Hondured.hn">
+<programme start="20201110070000 +0100" stop="20201110080000 +0100" channel="Hondured.hn">
     <title lang="en">Hondured</title>
   </programme>
-<programme start="20201025070000 +0100" stop="20201025073000 +0100" channel="MayaTV.hn">
+<programme start="20201104070000 +0100" stop="20201104073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201025073000 +0100" stop="20201026070000 +0100" channel="MayaTV.hn">
+<programme start="20201104073000 +0100" stop="20201105070000 +0100" channel="MayaTV.hn">
     <title lang="en">Maya TV Canal 66</title>
   </programme>
-<programme start="20201026070000 +0100" stop="20201026073000 +0100" channel="MayaTV.hn">
+<programme start="20201105070000 +0100" stop="20201105073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201026073000 +0100" stop="20201027070000 +0100" channel="MayaTV.hn">
+<programme start="20201105073000 +0100" stop="20201106070000 +0100" channel="MayaTV.hn">
     <title lang="en">Maya TV Canal 66</title>
   </programme>
-<programme start="20201027070000 +0100" stop="20201027073000 +0100" channel="MayaTV.hn">
+<programme start="20201106070000 +0100" stop="20201106073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201027073000 +0100" stop="20201028070000 +0100" channel="MayaTV.hn">
+<programme start="20201106073000 +0100" stop="20201107070000 +0100" channel="MayaTV.hn">
     <title lang="en">Maya TV Canal 66</title>
   </programme>
-<programme start="20201028070000 +0100" stop="20201028073000 +0100" channel="MayaTV.hn">
+<programme start="20201107070000 +0100" stop="20201107073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201028073000 +0100" stop="20201029070000 +0100" channel="MayaTV.hn">
+<programme start="20201107073000 +0100" stop="20201108070000 +0100" channel="MayaTV.hn">
     <title lang="en">Maya TV Canal 66</title>
   </programme>
-<programme start="20201029070000 +0100" stop="20201029073000 +0100" channel="MayaTV.hn">
+<programme start="20201108070000 +0100" stop="20201108073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201029073000 +0100" stop="20201030070000 +0100" channel="MayaTV.hn">
+<programme start="20201108073000 +0100" stop="20201109070000 +0100" channel="MayaTV.hn">
     <title lang="en">Maya TV Canal 66</title>
   </programme>
-<programme start="20201030070000 +0100" stop="20201030073000 +0100" channel="MayaTV.hn">
+<programme start="20201109070000 +0100" stop="20201109073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201030073000 +0100" stop="20201031070000 +0100" channel="MayaTV.hn">
+<programme start="20201109073000 +0100" stop="20201110070000 +0100" channel="MayaTV.hn">
     <title lang="en">Maya TV Canal 66</title>
   </programme>
-<programme start="20201031070000 +0100" stop="20201031073000 +0100" channel="MayaTV.hn">
+<programme start="20201110070000 +0100" stop="20201110073000 +0100" channel="MayaTV.hn">
     <title lang="en">Será Anunciado</title>
   </programme>
-<programme start="20201025030000 +0100" stop="20201025040000 +0100" channel="Telecadena.hn">
-    <title lang="en">Mint</title>
-  </programme>
-<programme start="20201025040000 +0100" stop="20201025050000 +0100" channel="Telecadena.hn">
-    <title lang="en">Silvia Pinal, frente a ti</title>
-  </programme>
-<programme start="20201025050000 +0100" stop="20201025060000 +0100" channel="Telecadena.hn">
-    <title lang="en">El Bronx</title>
-    <desc lang="en">Basado en los eventos que ocurrieron en la ciudad de El Bronx, un lugar que se encuentra en el centro de Bogotá, donde la gente vivía en la miseria, las drogas y el crimen</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201025060000 +0100" stop="20201025130000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cierre de estación</title>
-  </programme>
-<programme start="20201025130000 +0100" stop="20201025140000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cambiando Vidas</title>
-  </programme>
-<programme start="20201025140000 +0100" stop="20201025143000 +0100" channel="Telecadena.hn">
-    <title lang="en">Superstore</title>
-    <desc lang="en">Divertida comedia sobre una peculiar familia de empleados de una gigante tienda. Juntos deben enfrentar cómicamente a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento</desc>
-  </programme>
-<programme start="20201025143000 +0100" stop="20201025150000 +0100" channel="Telecadena.hn">
-    <title lang="en">Vecinos</title>
-    <desc lang="en">Los vecinos que viven en un edificio de apartamentos suelen tener muchos problemas cotidianos. Las relaciones entre ellos son muy complicadas, porque todos tienen diferentes maneras de pensar y de ver la vida. Temas como la envidia, la ambición, el egoísmo y la solidaridad afloran todos los días</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201025150000 +0100" stop="20201025153000 +0100" channel="Telecadena.hn">
-    <title lang="en">La Parodia a Domicilio</title>
-  </programme>
-<programme start="20201025153000 +0100" stop="20201025160000 +0100" channel="Telecadena.hn">
-    <title lang="en">Renta congelada</title>
-    <desc lang="en">Dos parejas de recién casados deben convivir en el mismo hogar. Una situación impensada para los cuatro, pero que tuvieron que afrontar después de haber sido víctimas de un fraude inmobiliario previo a sus bodas. Así las cosas, deberán poner lo mejor de cada uno para compartir el espacio común de la mejor manera posible</desc>
-    <date>2017</date>
-  </programme>
-<programme start="20201025160000 +0100" stop="20201025173000 +0100" channel="Telecadena.hn">
-    <title lang="en">Abriendo brecha</title>
-    <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
-    <date>1988</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201025173000 +0100" stop="20201025200000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cine dominical</title>
-  </programme>
-<programme start="20201025200000 +0100" stop="20201025210000 +0100" channel="Telecadena.hn">
-    <title lang="en">En Busca de</title>
-  </programme>
-<programme start="20201025210000 +0100" stop="20201025230000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cine mexicano</title>
-  </programme>
-<programme start="20201025230000 +0100" stop="20201026030000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cine de cines</title>
-  </programme>
-<programme start="20201026030000 +0100" stop="20201026050000 +0100" channel="Telecadena.hn">
-    <title lang="en">Santa clara</title>
-  </programme>
-<programme start="20201026050000 +0100" stop="20201026060000 +0100" channel="Telecadena.hn">
-    <title lang="en">El auto fantástico</title>
-  </programme>
-<programme start="20201026060000 +0100" stop="20201026130000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cierre de estación</title>
-  </programme>
-<programme start="20201026130000 +0100" stop="20201026140000 +0100" channel="Telecadena.hn">
+<programme start="20201104020000 +0100" stop="20201104030000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -241,75 +177,19 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201026140000 +0100" stop="20201026150000 +0100" channel="Telecadena.hn">
-    <title lang="en">TV Educativa</title>
-  </programme>
-<programme start="20201026150000 +0100" stop="20201026160000 +0100" channel="Telecadena.hn">
-    <title lang="en">Amor bravío</title>
-    <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201026160000 +0100" stop="20201026170000 +0100" channel="Telecadena.hn">
-    <title lang="en">Una familia con suerte</title>
-    <desc lang="en">La historia rueda en torno a una familia donde el padre es nombrado como presidente de una empresa de cosméticos, lo cual le trae muchos problemas. Además aventuras amorosas, carreras de autos y lucha entre dos mujeres rivales</desc>
-  </programme>
-<programme start="20201026170000 +0100" stop="20201026180000 +0100" channel="Telecadena.hn">
-    <title lang="en">Corazón indomable</title>
-    <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201026180000 +0100" stop="20201026190000 +0100" channel="Telecadena.hn">
-    <title lang="en">Mi corazón es tuyo</title>
-    <desc lang="en">Ana Leal es una bailarina de Pole Dance que trabaja en un bar llamado Chicago, con su amiga Jennifer. Por circunstancias de la vida se ve obligada a firmar un contrato de permanencia, logrando así estar atrapada en las manos de Doroteo un hombre ambicioso e inescrupuloso que ve en ella una posibilidad de hacer dinero. Ana, en busca de empleo, encuentra uno como niñera de siete niños: Fanny, Nando, Alicia, Sebastián, Alex, Guille y Luz , logrando ser la niñera de la familia Lascuráin</desc>
-    <date>2014</date>
-  </programme>
-<programme start="20201026190000 +0100" stop="20201026200000 +0100" channel="Telecadena.hn">
-    <title lang="en">La tercera en discordia</title>
-  </programme>
-<programme start="20201026200000 +0100" stop="20201026223000 +0100" channel="Telecadena.hn">
-    <title lang="en">Hoy</title>
-  </programme>
-<programme start="20201026223000 +0100" stop="20201026233000 +0100" channel="Telecadena.hn">
-    <title lang="en">Soy Luna</title>
-    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201026233000 +0100" stop="20201027003000 +0100" channel="Telecadena.hn">
-    <title lang="en">Pasión y Poder</title>
-    <desc lang="en">Dos hoteleros son rivales odiosos--- aun más en las cosas de pasión que en los negocios</desc>
-    <date>1988</date>
-  </programme>
-<programme start="20201027003000 +0100" stop="20201027020000 +0100" channel="Telecadena.hn">
-    <title lang="en">Abriendo brecha</title>
-    <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
-    <date>1988</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027020000 +0100" stop="20201027030000 +0100" channel="Telecadena.hn">
-    <title lang="en">El gordo y la flaca</title>
-    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201027030000 +0100" stop="20201027040000 +0100" channel="Telecadena.hn">
+<programme start="20201104030000 +0100" stop="20201104040000 +0100" channel="Telecadena.hn">
     <title lang="en">Vencer el miedo</title>
   </programme>
-<programme start="20201027040000 +0100" stop="20201027050000 +0100" channel="Telecadena.hn">
+<programme start="20201104040000 +0100" stop="20201104050000 +0100" channel="Telecadena.hn">
     <title lang="en">Destilando Amor</title>
     <desc lang="en">Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada</desc>
   </programme>
-<programme start="20201027050000 +0100" stop="20201027060000 +0100" channel="Telecadena.hn">
+<programme start="20201104050000 +0100" stop="20201104060000 +0100" channel="Telecadena.hn">
     <title lang="en">El Señor de los Cielos</title>
+    <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación</desc>
+    <date>2013</date>
   </programme>
-<programme start="20201027060000 +0100" stop="20201027070000 +0100" channel="Telecadena.hn">
+<programme start="20201104060000 +0100" stop="20201104070000 +0100" channel="Telecadena.hn">
     <title lang="en">S.W.A.T</title>
     <desc lang="en">Hondo y el equipo SWAT trabajan para reducir una situación de rehenes en la que un ex convicto tiene prisionera a una familia, pero la misión da un giro que impacta a todos. Street, cansado de sus enredos, deja que Chris le haga un perfil para citas</desc>
     <date>2017</date>
@@ -317,10 +197,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201027070000 +0100" stop="20201027130000 +0100" channel="Telecadena.hn">
+<programme start="20201104070000 +0100" stop="20201104130000 +0100" channel="Telecadena.hn">
     <title lang="en">Cierre de estación</title>
   </programme>
-<programme start="20201027130000 +0100" stop="20201027140000 +0100" channel="Telecadena.hn">
+<programme start="20201104130000 +0100" stop="20201104140000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -328,10 +208,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201027140000 +0100" stop="20201027150000 +0100" channel="Telecadena.hn">
+<programme start="20201104140000 +0100" stop="20201104150000 +0100" channel="Telecadena.hn">
     <title lang="en">TV Educativa</title>
   </programme>
-<programme start="20201027150000 +0100" stop="20201027160000 +0100" channel="Telecadena.hn">
+<programme start="20201104150000 +0100" stop="20201104160000 +0100" channel="Telecadena.hn">
     <title lang="en">Amor bravío</title>
     <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
     <date>2012</date>
@@ -339,11 +219,11 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201027160000 +0100" stop="20201027170000 +0100" channel="Telecadena.hn">
+<programme start="20201104160000 +0100" stop="20201104170000 +0100" channel="Telecadena.hn">
     <title lang="en">Una familia con suerte</title>
     <desc lang="en">La historia rueda en torno a una familia donde el padre es nombrado como presidente de una empresa de cosméticos, lo cual le trae muchos problemas. Además aventuras amorosas, carreras de autos y lucha entre dos mujeres rivales</desc>
   </programme>
-<programme start="20201027170000 +0100" stop="20201027180000 +0100" channel="Telecadena.hn">
+<programme start="20201104170000 +0100" stop="20201104180000 +0100" channel="Telecadena.hn">
     <title lang="en">Corazón indomable</title>
     <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo</desc>
     <date>2013</date>
@@ -351,34 +231,34 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201027180000 +0100" stop="20201027190000 +0100" channel="Telecadena.hn">
+<programme start="20201104180000 +0100" stop="20201104190000 +0100" channel="Telecadena.hn">
     <title lang="en">Mi corazón es tuyo</title>
     <desc lang="en">Ana Leal es una bailarina de Pole Dance que trabaja en un bar llamado Chicago, con su amiga Jennifer. Por circunstancias de la vida se ve obligada a firmar un contrato de permanencia, logrando así estar atrapada en las manos de Doroteo un hombre ambicioso e inescrupuloso que ve en ella una posibilidad de hacer dinero. Ana, en busca de empleo, encuentra uno como niñera de siete niños: Fanny, Nando, Alicia, Sebastián, Alex, Guille y Luz , logrando ser la niñera de la familia Lascuráin</desc>
     <date>2014</date>
   </programme>
-<programme start="20201027190000 +0100" stop="20201027200000 +0100" channel="Telecadena.hn">
+<programme start="20201104190000 +0100" stop="20201104200000 +0100" channel="Telecadena.hn">
     <title lang="en">La tercera en discordia</title>
   </programme>
-<programme start="20201027200000 +0100" stop="20201027223000 +0100" channel="Telecadena.hn">
+<programme start="20201104200000 +0100" stop="20201104223000 +0100" channel="Telecadena.hn">
     <title lang="en">Hoy</title>
   </programme>
-<programme start="20201027223000 +0100" stop="20201027233000 +0100" channel="Telecadena.hn">
+<programme start="20201104223000 +0100" stop="20201104233000 +0100" channel="Telecadena.hn">
     <title lang="en">Soy Luna</title>
     <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional</desc>
     <date>2016</date>
   </programme>
-<programme start="20201027233000 +0100" stop="20201028003000 +0100" channel="Telecadena.hn">
+<programme start="20201104233000 +0100" stop="20201105003000 +0100" channel="Telecadena.hn">
     <title lang="en">Pasión y Poder</title>
     <desc lang="en">Dos hoteleros son rivales odiosos--- aun más en las cosas de pasión que en los negocios</desc>
     <date>1988</date>
   </programme>
-<programme start="20201028003000 +0100" stop="20201028020000 +0100" channel="Telecadena.hn">
+<programme start="20201105003000 +0100" stop="20201105020000 +0100" channel="Telecadena.hn">
     <title lang="en">Abriendo brecha</title>
     <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
     <date>1988</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201028020000 +0100" stop="20201028030000 +0100" channel="Telecadena.hn">
+<programme start="20201105020000 +0100" stop="20201105030000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -386,108 +266,21 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201028030000 +0100" stop="20201028040000 +0100" channel="Telecadena.hn">
-    <title lang="en">Vencer el miedo</title>
-  </programme>
-<programme start="20201028040000 +0100" stop="20201028050000 +0100" channel="Telecadena.hn">
-    <title lang="en">Destilando Amor</title>
-    <desc lang="en">Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada</desc>
-  </programme>
-<programme start="20201028050000 +0100" stop="20201028060000 +0100" channel="Telecadena.hn">
-    <title lang="en">El Señor de los Cielos</title>
-  </programme>
-<programme start="20201028060000 +0100" stop="20201028070000 +0100" channel="Telecadena.hn">
-    <title lang="en">S.W.A.T</title>
-    <desc lang="en">Hondo y el equipo SWAT trabajan para reducir una situación de rehenes en la que un ex convicto tiene prisionera a una familia, pero la misión da un giro que impacta a todos. Street, cansado de sus enredos, deja que Chris le haga un perfil para citas</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201028070000 +0100" stop="20201028130000 +0100" channel="Telecadena.hn">
-    <title lang="en">Cierre de estación</title>
-  </programme>
-<programme start="20201028130000 +0100" stop="20201028140000 +0100" channel="Telecadena.hn">
-    <title lang="en">El gordo y la flaca</title>
-    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201028140000 +0100" stop="20201028150000 +0100" channel="Telecadena.hn">
-    <title lang="en">TV Educativa</title>
-  </programme>
-<programme start="20201028150000 +0100" stop="20201028160000 +0100" channel="Telecadena.hn">
-    <title lang="en">Amor bravío</title>
-    <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201028160000 +0100" stop="20201028170000 +0100" channel="Telecadena.hn">
-    <title lang="en">Una familia con suerte</title>
-    <desc lang="en">La historia rueda en torno a una familia donde el padre es nombrado como presidente de una empresa de cosméticos, lo cual le trae muchos problemas. Además aventuras amorosas, carreras de autos y lucha entre dos mujeres rivales</desc>
-  </programme>
-<programme start="20201028170000 +0100" stop="20201028180000 +0100" channel="Telecadena.hn">
-    <title lang="en">Corazón indomable</title>
-    <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-<programme start="20201028180000 +0100" stop="20201028190000 +0100" channel="Telecadena.hn">
-    <title lang="en">Mi corazón es tuyo</title>
-    <desc lang="en">Ana Leal es una bailarina de Pole Dance que trabaja en un bar llamado Chicago, con su amiga Jennifer. Por circunstancias de la vida se ve obligada a firmar un contrato de permanencia, logrando así estar atrapada en las manos de Doroteo un hombre ambicioso e inescrupuloso que ve en ella una posibilidad de hacer dinero. Ana, en busca de empleo, encuentra uno como niñera de siete niños: Fanny, Nando, Alicia, Sebastián, Alex, Guille y Luz , logrando ser la niñera de la familia Lascuráin</desc>
-    <date>2014</date>
-  </programme>
-<programme start="20201028190000 +0100" stop="20201028200000 +0100" channel="Telecadena.hn">
-    <title lang="en">La tercera en discordia</title>
-  </programme>
-<programme start="20201028200000 +0100" stop="20201028223000 +0100" channel="Telecadena.hn">
-    <title lang="en">Hoy</title>
-  </programme>
-<programme start="20201028223000 +0100" stop="20201028233000 +0100" channel="Telecadena.hn">
-    <title lang="en">Soy Luna</title>
-    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201028233000 +0100" stop="20201029003000 +0100" channel="Telecadena.hn">
-    <title lang="en">Pasión y Poder</title>
-    <desc lang="en">Dos hoteleros son rivales odiosos--- aun más en las cosas de pasión que en los negocios</desc>
-    <date>1988</date>
-  </programme>
-<programme start="20201029003000 +0100" stop="20201029020000 +0100" channel="Telecadena.hn">
-    <title lang="en">Abriendo brecha</title>
-    <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
-    <date>1988</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201029020000 +0100" stop="20201029030000 +0100" channel="Telecadena.hn">
-    <title lang="en">El gordo y la flaca</title>
-    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-<programme start="20201029030000 +0100" stop="20201029040000 +0100" channel="Telecadena.hn">
+<programme start="20201105030000 +0100" stop="20201105040000 +0100" channel="Telecadena.hn">
     <title lang="en">Te doy la vida</title>
     <desc lang="en">Un mecánico se vuelve la última esperanza para un matrimonio cuyo hijo necesita un transplante de médula, para salvar su vida</desc>
     <date>2016</date>
   </programme>
-<programme start="20201029040000 +0100" stop="20201029050000 +0100" channel="Telecadena.hn">
+<programme start="20201105040000 +0100" stop="20201105050000 +0100" channel="Telecadena.hn">
     <title lang="en">Destilando Amor</title>
     <desc lang="en">Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada</desc>
   </programme>
-<programme start="20201029050000 +0100" stop="20201029060000 +0100" channel="Telecadena.hn">
+<programme start="20201105050000 +0100" stop="20201105060000 +0100" channel="Telecadena.hn">
     <title lang="en">El Señor de los Cielos</title>
     <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación</desc>
     <date>2013</date>
   </programme>
-<programme start="20201029060000 +0100" stop="20201029070000 +0100" channel="Telecadena.hn">
+<programme start="20201105060000 +0100" stop="20201105070000 +0100" channel="Telecadena.hn">
     <title lang="en">S.W.A.T</title>
     <desc lang="en">Hondo y el equipo SWAT trabajan para reducir una situación de rehenes en la que un ex convicto tiene prisionera a una familia, pero la misión da un giro que impacta a todos. Street, cansado de sus enredos, deja que Chris le haga un perfil para citas</desc>
     <date>2017</date>
@@ -495,10 +288,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201029070000 +0100" stop="20201029130000 +0100" channel="Telecadena.hn">
+<programme start="20201105070000 +0100" stop="20201105130000 +0100" channel="Telecadena.hn">
     <title lang="en">Cierre de estación</title>
   </programme>
-<programme start="20201029130000 +0100" stop="20201029140000 +0100" channel="Telecadena.hn">
+<programme start="20201105130000 +0100" stop="20201105140000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -506,10 +299,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201029140000 +0100" stop="20201029150000 +0100" channel="Telecadena.hn">
+<programme start="20201105140000 +0100" stop="20201105150000 +0100" channel="Telecadena.hn">
     <title lang="en">TV Educativa</title>
   </programme>
-<programme start="20201029150000 +0100" stop="20201029160000 +0100" channel="Telecadena.hn">
+<programme start="20201105150000 +0100" stop="20201105160000 +0100" channel="Telecadena.hn">
     <title lang="en">Amor bravío</title>
     <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
     <date>2012</date>
@@ -517,11 +310,11 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201029160000 +0100" stop="20201029170000 +0100" channel="Telecadena.hn">
+<programme start="20201105160000 +0100" stop="20201105170000 +0100" channel="Telecadena.hn">
     <title lang="en">Una familia con suerte</title>
     <desc lang="en">La historia rueda en torno a una familia donde el padre es nombrado como presidente de una empresa de cosméticos, lo cual le trae muchos problemas. Además aventuras amorosas, carreras de autos y lucha entre dos mujeres rivales</desc>
   </programme>
-<programme start="20201029170000 +0100" stop="20201029180000 +0100" channel="Telecadena.hn">
+<programme start="20201105170000 +0100" stop="20201105180000 +0100" channel="Telecadena.hn">
     <title lang="en">Corazón indomable</title>
     <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo</desc>
     <date>2013</date>
@@ -529,34 +322,34 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201029180000 +0100" stop="20201029190000 +0100" channel="Telecadena.hn">
+<programme start="20201105180000 +0100" stop="20201105190000 +0100" channel="Telecadena.hn">
     <title lang="en">Mi corazón es tuyo</title>
     <desc lang="en">Ana Leal es una bailarina de Pole Dance que trabaja en un bar llamado Chicago, con su amiga Jennifer. Por circunstancias de la vida se ve obligada a firmar un contrato de permanencia, logrando así estar atrapada en las manos de Doroteo un hombre ambicioso e inescrupuloso que ve en ella una posibilidad de hacer dinero. Ana, en busca de empleo, encuentra uno como niñera de siete niños: Fanny, Nando, Alicia, Sebastián, Alex, Guille y Luz , logrando ser la niñera de la familia Lascuráin</desc>
     <date>2014</date>
   </programme>
-<programme start="20201029190000 +0100" stop="20201029200000 +0100" channel="Telecadena.hn">
+<programme start="20201105190000 +0100" stop="20201105200000 +0100" channel="Telecadena.hn">
     <title lang="en">La tercera en discordia</title>
   </programme>
-<programme start="20201029200000 +0100" stop="20201029223000 +0100" channel="Telecadena.hn">
+<programme start="20201105200000 +0100" stop="20201105223000 +0100" channel="Telecadena.hn">
     <title lang="en">Hoy</title>
   </programme>
-<programme start="20201029223000 +0100" stop="20201029233000 +0100" channel="Telecadena.hn">
+<programme start="20201105223000 +0100" stop="20201105233000 +0100" channel="Telecadena.hn">
     <title lang="en">Soy Luna</title>
     <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional</desc>
     <date>2016</date>
   </programme>
-<programme start="20201029233000 +0100" stop="20201030003000 +0100" channel="Telecadena.hn">
+<programme start="20201105233000 +0100" stop="20201106003000 +0100" channel="Telecadena.hn">
     <title lang="en">Pasión y Poder</title>
     <desc lang="en">Dos hoteleros son rivales odiosos--- aun más en las cosas de pasión que en los negocios</desc>
     <date>1988</date>
   </programme>
-<programme start="20201030003000 +0100" stop="20201030020000 +0100" channel="Telecadena.hn">
+<programme start="20201106003000 +0100" stop="20201106020000 +0100" channel="Telecadena.hn">
     <title lang="en">Abriendo brecha</title>
     <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
     <date>1988</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030020000 +0100" stop="20201030030000 +0100" channel="Telecadena.hn">
+<programme start="20201106020000 +0100" stop="20201106030000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -564,19 +357,19 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201030030000 +0100" stop="20201030040000 +0100" channel="Telecadena.hn">
+<programme start="20201106030000 +0100" stop="20201106040000 +0100" channel="Telecadena.hn">
     <title lang="en">Vencer el miedo</title>
   </programme>
-<programme start="20201030040000 +0100" stop="20201030050000 +0100" channel="Telecadena.hn">
+<programme start="20201106040000 +0100" stop="20201106050000 +0100" channel="Telecadena.hn">
     <title lang="en">Destilando Amor</title>
     <desc lang="en">Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada</desc>
   </programme>
-<programme start="20201030050000 +0100" stop="20201030060000 +0100" channel="Telecadena.hn">
+<programme start="20201106050000 +0100" stop="20201106060000 +0100" channel="Telecadena.hn">
     <title lang="en">El Señor de los Cielos</title>
     <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación</desc>
     <date>2013</date>
   </programme>
-<programme start="20201030060000 +0100" stop="20201030070000 +0100" channel="Telecadena.hn">
+<programme start="20201106060000 +0100" stop="20201106070000 +0100" channel="Telecadena.hn">
     <title lang="en">S.W.A.T</title>
     <desc lang="en">Hondo y el equipo SWAT trabajan para reducir una situación de rehenes en la que un ex convicto tiene prisionera a una familia, pero la misión da un giro que impacta a todos. Street, cansado de sus enredos, deja que Chris le haga un perfil para citas</desc>
     <date>2017</date>
@@ -584,10 +377,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201030070000 +0100" stop="20201030130000 +0100" channel="Telecadena.hn">
+<programme start="20201106070000 +0100" stop="20201106130000 +0100" channel="Telecadena.hn">
     <title lang="en">Cierre de estación</title>
   </programme>
-<programme start="20201030130000 +0100" stop="20201030140000 +0100" channel="Telecadena.hn">
+<programme start="20201106130000 +0100" stop="20201106140000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -595,10 +388,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201030140000 +0100" stop="20201030150000 +0100" channel="Telecadena.hn">
+<programme start="20201106140000 +0100" stop="20201106150000 +0100" channel="Telecadena.hn">
     <title lang="en">TV Educativa</title>
   </programme>
-<programme start="20201030150000 +0100" stop="20201030160000 +0100" channel="Telecadena.hn">
+<programme start="20201106150000 +0100" stop="20201106160000 +0100" channel="Telecadena.hn">
     <title lang="en">Amor bravío</title>
     <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
     <date>2012</date>
@@ -606,11 +399,11 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201030160000 +0100" stop="20201030170000 +0100" channel="Telecadena.hn">
+<programme start="20201106160000 +0100" stop="20201106170000 +0100" channel="Telecadena.hn">
     <title lang="en">Una familia con suerte</title>
     <desc lang="en">La historia rueda en torno a una familia donde el padre es nombrado como presidente de una empresa de cosméticos, lo cual le trae muchos problemas. Además aventuras amorosas, carreras de autos y lucha entre dos mujeres rivales</desc>
   </programme>
-<programme start="20201030170000 +0100" stop="20201030180000 +0100" channel="Telecadena.hn">
+<programme start="20201106170000 +0100" stop="20201106180000 +0100" channel="Telecadena.hn">
     <title lang="en">Corazón indomable</title>
     <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo</desc>
     <date>2013</date>
@@ -618,34 +411,34 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201030180000 +0100" stop="20201030190000 +0100" channel="Telecadena.hn">
+<programme start="20201106180000 +0100" stop="20201106190000 +0100" channel="Telecadena.hn">
     <title lang="en">Mi corazón es tuyo</title>
     <desc lang="en">Ana Leal es una bailarina de Pole Dance que trabaja en un bar llamado Chicago, con su amiga Jennifer. Por circunstancias de la vida se ve obligada a firmar un contrato de permanencia, logrando así estar atrapada en las manos de Doroteo un hombre ambicioso e inescrupuloso que ve en ella una posibilidad de hacer dinero. Ana, en busca de empleo, encuentra uno como niñera de siete niños: Fanny, Nando, Alicia, Sebastián, Alex, Guille y Luz , logrando ser la niñera de la familia Lascuráin</desc>
     <date>2014</date>
   </programme>
-<programme start="20201030190000 +0100" stop="20201030200000 +0100" channel="Telecadena.hn">
+<programme start="20201106190000 +0100" stop="20201106200000 +0100" channel="Telecadena.hn">
     <title lang="en">La tercera en discordia</title>
   </programme>
-<programme start="20201030200000 +0100" stop="20201030223000 +0100" channel="Telecadena.hn">
+<programme start="20201106200000 +0100" stop="20201106223000 +0100" channel="Telecadena.hn">
     <title lang="en">Hoy</title>
   </programme>
-<programme start="20201030223000 +0100" stop="20201030233000 +0100" channel="Telecadena.hn">
+<programme start="20201106223000 +0100" stop="20201106233000 +0100" channel="Telecadena.hn">
     <title lang="en">Soy Luna</title>
     <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional</desc>
     <date>2016</date>
   </programme>
-<programme start="20201030233000 +0100" stop="20201031003000 +0100" channel="Telecadena.hn">
+<programme start="20201106233000 +0100" stop="20201107003000 +0100" channel="Telecadena.hn">
     <title lang="en">Pasión y Poder</title>
     <desc lang="en">Dos hoteleros son rivales odiosos--- aun más en las cosas de pasión que en los negocios</desc>
     <date>1988</date>
   </programme>
-<programme start="20201031003000 +0100" stop="20201031020000 +0100" channel="Telecadena.hn">
+<programme start="20201107003000 +0100" stop="20201107020000 +0100" channel="Telecadena.hn">
     <title lang="en">Abriendo brecha</title>
     <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
     <date>1988</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031020000 +0100" stop="20201031030000 +0100" channel="Telecadena.hn">
+<programme start="20201107020000 +0100" stop="20201107030000 +0100" channel="Telecadena.hn">
     <title lang="en">El gordo y la flaca</title>
     <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
     <date>1998</date>
@@ -653,19 +446,19 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201031030000 +0100" stop="20201031040000 +0100" channel="Telecadena.hn">
+<programme start="20201107030000 +0100" stop="20201107040000 +0100" channel="Telecadena.hn">
     <title lang="en">Vencer el miedo</title>
   </programme>
-<programme start="20201031040000 +0100" stop="20201031050000 +0100" channel="Telecadena.hn">
+<programme start="20201107040000 +0100" stop="20201107050000 +0100" channel="Telecadena.hn">
     <title lang="en">Destilando Amor</title>
     <desc lang="en">Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada</desc>
   </programme>
-<programme start="20201031050000 +0100" stop="20201031060000 +0100" channel="Telecadena.hn">
+<programme start="20201107050000 +0100" stop="20201107060000 +0100" channel="Telecadena.hn">
     <title lang="en">El Señor de los Cielos</title>
     <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación</desc>
     <date>2013</date>
   </programme>
-<programme start="20201031060000 +0100" stop="20201031070000 +0100" channel="Telecadena.hn">
+<programme start="20201107060000 +0100" stop="20201107070000 +0100" channel="Telecadena.hn">
     <title lang="en">S.W.A.T</title>
     <desc lang="en">Hondo y el equipo SWAT trabajan para reducir una situación de rehenes en la que un ex convicto tiene prisionera a una familia, pero la misión da un giro que impacta a todos. Street, cansado de sus enredos, deja que Chris le haga un perfil para citas</desc>
     <date>2017</date>
@@ -673,53 +466,53 @@
       <value>TV-14</value>
     </rating>
   </programme>
-<programme start="20201031070000 +0100" stop="20201031140000 +0100" channel="Telecadena.hn">
+<programme start="20201107070000 +0100" stop="20201107140000 +0100" channel="Telecadena.hn">
     <title lang="en">Cierre de estación</title>
   </programme>
-<programme start="20201031140000 +0100" stop="20201031143000 +0100" channel="Telecadena.hn">
+<programme start="20201107140000 +0100" stop="20201107143000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031143000 +0100" stop="20201031150000 +0100" channel="Telecadena.hn">
+<programme start="20201107143000 +0100" stop="20201107150000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031150000 +0100" stop="20201031153000 +0100" channel="Telecadena.hn">
+<programme start="20201107150000 +0100" stop="20201107153000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031153000 +0100" stop="20201031160000 +0100" channel="Telecadena.hn">
+<programme start="20201107153000 +0100" stop="20201107160000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031160000 +0100" stop="20201031163000 +0100" channel="Telecadena.hn">
+<programme start="20201107160000 +0100" stop="20201107163000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031163000 +0100" stop="20201031170000 +0100" channel="Telecadena.hn">
+<programme start="20201107163000 +0100" stop="20201107170000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031170000 +0100" stop="20201031173000 +0100" channel="Telecadena.hn">
+<programme start="20201107170000 +0100" stop="20201107173000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031173000 +0100" stop="20201031180000 +0100" channel="Telecadena.hn">
+<programme start="20201107173000 +0100" stop="20201107180000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031180000 +0100" stop="20201031183000 +0100" channel="Telecadena.hn">
+<programme start="20201107180000 +0100" stop="20201107183000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031183000 +0100" stop="20201031190000 +0100" channel="Telecadena.hn">
+<programme start="20201107183000 +0100" stop="20201107190000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031190000 +0100" stop="20201031193000 +0100" channel="Telecadena.hn">
+<programme start="20201107190000 +0100" stop="20201107193000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031193000 +0100" stop="20201031200000 +0100" channel="Telecadena.hn">
+<programme start="20201107193000 +0100" stop="20201107200000 +0100" channel="Telecadena.hn">
     <title lang="en">Infantiles</title>
   </programme>
-<programme start="20201031200000 +0100" stop="20201031203000 +0100" channel="Telecadena.hn">
+<programme start="20201107200000 +0100" stop="20201107203000 +0100" channel="Telecadena.hn">
     <title lang="en">Superstore</title>
     <desc lang="en">Divertida comedia sobre una peculiar familia de empleados de una gigante tienda. Juntos deben enfrentar cómicamente a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento</desc>
   </programme>
-<programme start="20201031203000 +0100" stop="20201031213000 +0100" channel="Telecadena.hn">
+<programme start="20201107203000 +0100" stop="20201107213000 +0100" channel="Telecadena.hn">
     <title lang="en">En Busca de</title>
   </programme>
-<programme start="20201031213000 +0100" stop="20201031220000 +0100" channel="Telecadena.hn">
+<programme start="20201107213000 +0100" stop="20201107220000 +0100" channel="Telecadena.hn">
     <title lang="en">Vecinos</title>
     <desc lang="en">Los vecinos que viven en un edificio de apartamentos suelen tener muchos problemas cotidianos. Las relaciones entre ellos son muy complicadas, porque todos tienen diferentes maneras de pensar y de ver la vida. Temas como la envidia, la ambición, el egoísmo y la solidaridad afloran todos los días</desc>
     <date>2005</date>
@@ -727,642 +520,810 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-<programme start="20201031220000 +0100" stop="20201031223000 +0100" channel="Telecadena.hn">
+<programme start="20201107220000 +0100" stop="20201107223000 +0100" channel="Telecadena.hn">
     <title lang="en">La Parodia a Domicilio</title>
   </programme>
-<programme start="20201031223000 +0100" stop="20201031230000 +0100" channel="Telecadena.hn">
+<programme start="20201107223000 +0100" stop="20201107230000 +0100" channel="Telecadena.hn">
     <title lang="en">Renta congelada</title>
-    <desc lang="en">Dos parejas de recién casados deben convivir en el mismo hogar. Una situación impensada para los cuatro, pero que tuvieron que afrontar después de haber sido víctimas de un fraude inmobiliario previo a sus bodas. Así las cosas, deberán poner lo mejor de cada uno para compartir el espacio común de la mejor manera posible [(102075)]</desc>
+    <desc lang="en">Dos parejas de recién casados deben convivir en el mismo hogar. Una situación impensada para los cuatro, pero que tuvieron que afrontar después de haber sido víctimas de un fraude inmobiliario previo a sus bodas. Así las cosas, deberán poner lo mejor de cada uno para compartir el espacio común de la mejor manera posible</desc>
     <date>2017</date>
   </programme>
-<programme start="20201025070000 +0100" stop="20201026070000 +0100" channel="Teleceiba.hn">
+<programme start="20201107230000 +0100" stop="20201108003000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cine sensacional</title>
+  </programme>
+<programme start="20201108003000 +0100" stop="20201108030000 +0100" channel="Telecadena.hn">
+    <title lang="en">Reto 4 elementos</title>
+    <desc lang="en">Las celebridades intentarán dominar los elementos de aire, fuego, agua y tierra, sólo uno será nombrado el “Maestro de los 4 Elementos”. Tendrán que superar difíciles pruebas y pasar por distintos retos para lograr ganar la competencia. Tan sólo un equipo saldrá ganador</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201108030000 +0100" stop="20201108040000 +0100" channel="Telecadena.hn">
+    <title lang="en">Mint</title>
+  </programme>
+<programme start="20201108040000 +0100" stop="20201108050000 +0100" channel="Telecadena.hn">
+    <title lang="en">Silvia Pinal, frente a ti</title>
+  </programme>
+<programme start="20201108050000 +0100" stop="20201108060000 +0100" channel="Telecadena.hn">
+    <title lang="en">El Bronx</title>
+    <desc lang="en">Basado en los eventos que ocurrieron en la ciudad de El Bronx, un lugar que se encuentra en el centro de Bogotá, donde la gente vivía en la miseria, las drogas y el crimen</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201108060000 +0100" stop="20201108130000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cierre de estación</title>
+  </programme>
+<programme start="20201108130000 +0100" stop="20201108140000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cambiando Vidas</title>
+  </programme>
+<programme start="20201108140000 +0100" stop="20201108143000 +0100" channel="Telecadena.hn">
+    <title lang="en">Superstore</title>
+    <desc lang="en">Divertida comedia sobre una peculiar familia de empleados de una gigante tienda. Juntos deben enfrentar cómicamente a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento</desc>
+    <date>2015</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201108143000 +0100" stop="20201108150000 +0100" channel="Telecadena.hn">
+    <title lang="en">Vecinos</title>
+    <desc lang="en">Los vecinos que viven en un edificio de apartamentos suelen tener muchos problemas cotidianos. Las relaciones entre ellos son muy complicadas, porque todos tienen diferentes maneras de pensar y de ver la vida. Temas como la envidia, la ambición, el egoísmo y la solidaridad afloran todos los días</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201108150000 +0100" stop="20201108153000 +0100" channel="Telecadena.hn">
+    <title lang="en">La Parodia a Domicilio</title>
+  </programme>
+<programme start="20201108153000 +0100" stop="20201108160000 +0100" channel="Telecadena.hn">
+    <title lang="en">Renta congelada</title>
+    <desc lang="en">Dos parejas de recién casados deben convivir en el mismo hogar. Una situación impensada para los cuatro, pero que tuvieron que afrontar después de haber sido víctimas de un fraude inmobiliario previo a sus bodas. Así las cosas, deberán poner lo mejor de cada uno para compartir el espacio común de la mejor manera posible</desc>
+    <date>2017</date>
+  </programme>
+<programme start="20201108160000 +0100" stop="20201108173000 +0100" channel="Telecadena.hn">
+    <title lang="en">Abriendo brecha</title>
+    <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
+    <date>1988</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201108173000 +0100" stop="20201108200000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cine dominical</title>
+  </programme>
+<programme start="20201108200000 +0100" stop="20201108210000 +0100" channel="Telecadena.hn">
+    <title lang="en">En Busca de</title>
+  </programme>
+<programme start="20201108210000 +0100" stop="20201108230000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cine mexicano</title>
+  </programme>
+<programme start="20201108230000 +0100" stop="20201109030000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cine de cines</title>
+  </programme>
+<programme start="20201109030000 +0100" stop="20201109050000 +0100" channel="Telecadena.hn">
+    <title lang="en">Santa clara</title>
+  </programme>
+<programme start="20201109050000 +0100" stop="20201109060000 +0100" channel="Telecadena.hn">
+    <title lang="en">El auto fantástico</title>
+  </programme>
+<programme start="20201109060000 +0100" stop="20201109130000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cierre de estación</title>
+  </programme>
+<programme start="20201109130000 +0100" stop="20201109140000 +0100" channel="Telecadena.hn">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
+    <date>1998</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201109140000 +0100" stop="20201109150000 +0100" channel="Telecadena.hn">
+    <title lang="en">TV Educativa</title>
+  </programme>
+<programme start="20201109150000 +0100" stop="20201109160000 +0100" channel="Telecadena.hn">
+    <title lang="en">Amor bravío</title>
+    <desc lang="en">Una mujer que pierde trágicamente a su novio se ve envuelta en una historia de desamor y codicia debido a un rancho y una fortuna por la que la maldad y la avaricia se hacen presente</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201109160000 +0100" stop="20201109170000 +0100" channel="Telecadena.hn">
+    <title lang="en">Una familia con suerte</title>
+    <desc lang="en">La historia rueda en torno a una familia donde el padre es nombrado como presidente de una empresa de cosméticos, lo cual le trae muchos problemas. Además aventuras amorosas, carreras de autos y lucha entre dos mujeres rivales</desc>
+  </programme>
+<programme start="20201109170000 +0100" stop="20201109180000 +0100" channel="Telecadena.hn">
+    <title lang="en">Corazón indomable</title>
+    <desc lang="en">Corazón indomable es el nombre que lleva este melodrama, siendo Daniel Arenas y Ana Brenda Contreras los protagonistas de esta producción de Nathalie Lartrilleaux; la cual es una nueva versión de la telenovela Marimar, protagonizada en 1994 por Thalía y Eduardo Capetillo</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201109180000 +0100" stop="20201109190000 +0100" channel="Telecadena.hn">
+    <title lang="en">Mi corazón es tuyo</title>
+    <desc lang="en">Ana Leal es una bailarina de Pole Dance que trabaja en un bar llamado Chicago, con su amiga Jennifer. Por circunstancias de la vida se ve obligada a firmar un contrato de permanencia, logrando así estar atrapada en las manos de Doroteo un hombre ambicioso e inescrupuloso que ve en ella una posibilidad de hacer dinero. Ana, en busca de empleo, encuentra uno como niñera de siete niños: Fanny, Nando, Alicia, Sebastián, Alex, Guille y Luz , logrando ser la niñera de la familia Lascuráin</desc>
+    <date>2014</date>
+  </programme>
+<programme start="20201109190000 +0100" stop="20201109200000 +0100" channel="Telecadena.hn">
+    <title lang="en">La tercera en discordia</title>
+  </programme>
+<programme start="20201109200000 +0100" stop="20201109223000 +0100" channel="Telecadena.hn">
+    <title lang="en">Hoy</title>
+  </programme>
+<programme start="20201109223000 +0100" stop="20201109233000 +0100" channel="Telecadena.hn">
+    <title lang="en">Soy Luna</title>
+    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201109233000 +0100" stop="20201110003000 +0100" channel="Telecadena.hn">
+    <title lang="en">Pasión y Poder</title>
+    <desc lang="en">Dos hoteleros son rivales odiosos--- aun más en las cosas de pasión que en los negocios</desc>
+    <date>1988</date>
+  </programme>
+<programme start="20201110003000 +0100" stop="20201110020000 +0100" channel="Telecadena.hn">
+    <title lang="en">Abriendo brecha</title>
+    <desc lang="en">Noticias nacionales y departamentales, el tiempo, noticias financieras y deportes</desc>
+    <date>1988</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110020000 +0100" stop="20201110030000 +0100" channel="Telecadena.hn">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show</desc>
+    <date>1998</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201110030000 +0100" stop="20201110040000 +0100" channel="Telecadena.hn">
+    <title lang="en">Vencer el miedo</title>
+  </programme>
+<programme start="20201110040000 +0100" stop="20201110050000 +0100" channel="Telecadena.hn">
+    <title lang="en">Destilando Amor</title>
+    <desc lang="en">Nace el amor entre una joven campesina y el nieto del fallecido dueño de una empresa tequilera. El joven promete volver a casarse con su novia en cuanto termine sus estudios en el extranjero, sin saber que ella ha quedado embarazada</desc>
+  </programme>
+<programme start="20201110050000 +0100" stop="20201110060000 +0100" channel="Telecadena.hn">
+    <title lang="en">El Señor de los Cielos</title>
+    <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación</desc>
+    <date>2013</date>
+  </programme>
+<programme start="20201110060000 +0100" stop="20201110070000 +0100" channel="Telecadena.hn">
+    <title lang="en">S.W.A.T</title>
+    <desc lang="en">Hondo y el equipo SWAT trabajan para reducir una situación de rehenes en la que un ex convicto tiene prisionera a una familia, pero la misión da un giro que impacta a todos. Street, cansado de sus enredos, deja que Chris le haga un perfil para citas</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+<programme start="20201110070000 +0100" stop="20201110130000 +0100" channel="Telecadena.hn">
+    <title lang="en">Cierre de estación</title>
+  </programme>
+<programme start="20201110130000 +0100" stop="20201110140000 +0100" channel="Telecadena.hn">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show [(102720)]</desc>
+    <date>1998</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+<programme start="20201104070000 +0100" stop="20201105070000 +0100" channel="Teleceiba.hn">
     <title lang="en">Teleceiba</title>
   </programme>
-<programme start="20201026070000 +0100" stop="20201027070000 +0100" channel="Teleceiba.hn">
+<programme start="20201105070000 +0100" stop="20201106070000 +0100" channel="Teleceiba.hn">
     <title lang="en">Teleceiba</title>
   </programme>
-<programme start="20201027070000 +0100" stop="20201028070000 +0100" channel="Teleceiba.hn">
+<programme start="20201106070000 +0100" stop="20201107070000 +0100" channel="Teleceiba.hn">
     <title lang="en">Teleceiba</title>
   </programme>
-<programme start="20201028070000 +0100" stop="20201029070000 +0100" channel="Teleceiba.hn">
+<programme start="20201107070000 +0100" stop="20201108070000 +0100" channel="Teleceiba.hn">
     <title lang="en">Teleceiba</title>
   </programme>
-<programme start="20201029070000 +0100" stop="20201030070000 +0100" channel="Teleceiba.hn">
+<programme start="20201108070000 +0100" stop="20201109070000 +0100" channel="Teleceiba.hn">
     <title lang="en">Teleceiba</title>
   </programme>
-<programme start="20201030070000 +0100" stop="20201031070000 +0100" channel="Teleceiba.hn">
+<programme start="20201109070000 +0100" stop="20201110070000 +0100" channel="Teleceiba.hn">
     <title lang="en">Teleceiba</title>
   </programme>
-<programme start="20201025020000 +0100" stop="20201025020000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy Mismo Sabatino</title>
-    <desc lang="en">Un contenido tratado con profesionalismo y responsabilidad, por un equipo de periodistas que llegan al corazón de la noticia, satisfaciendo las necesidades informativas de los televidentes</desc>
+<programme start="20201104010000 +0100" stop="20201104013000 +0100" channel="Telesistema.hn">
+    <title lang="en">Día Político</title>
+    <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201025020000 +0100" stop="20201025043000 +0100" channel="Telesistema.hn">
-    <title lang="en">Liga Nacional</title>
+<programme start="20201104013000 +0100" stop="20201104030000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy mismo estelar</title>
+    <desc lang="en">Noticiero</desc>
+    <date>1985</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201104030000 +0100" stop="20201104040000 +0100" channel="Telesistema.hn">
+    <title lang="en">Al Banquillo</title>
+  </programme>
+<programme start="20201104040000 +0100" stop="20201104050000 +0100" channel="Telesistema.hn">
+    <title lang="en">Fútbol a Fondo</title>
+    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201025043000 +0100" stop="20201025053000 +0100" channel="Telesistema.hn">
-    <title lang="en">Con Pineda Chacón</title>
-    <desc lang="en">El técnico hondureño Alex Pineda Chacón habla claro</desc>
+<programme start="20201104050000 +0100" stop="20201104053000 +0100" channel="Telesistema.hn">
+    <title lang="en">Noticiero El Mundo al Día VOA</title>
+    <desc lang="en">Noticiero</desc>
     <date>2016</date>
+    <category lang="en">News</category>
   </programme>
-<programme start="20201025053000 +0100" stop="20201025063000 +0100" channel="Telesistema.hn">
-    <title lang="en">Más Noche</title>
-    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros</desc>
-    <date>2018</date>
+<programme start="20201104053000 +0100" stop="20201104063000 +0100" channel="Telesistema.hn">
+    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201025063000 +0100" stop="20201025073000 +0100" channel="Telesistema.hn">
-    <title lang="en">Miembros al aire</title>
-    <desc lang="en">Es un espacio en el que cinco hombres: Paul Stanley, Mauricio Mancera, Jorge “El Burro” Van Rankin, Raúl "El Negro" Araiza y Eduardo Santamarina, hablarán de forma divertida acerca de temas que a las mujeres les interesa conocer, todo esto visto a través de la visión masculina</desc>
-    <date>2009</date>
+<programme start="20201104063000 +0100" stop="20201104073000 +0100" channel="Telesistema.hn">
+    <title lang="en">Las dueñas del balon</title>
+    <category lang="en">Mapi</category>
   </programme>
-<programme start="20201025073000 +0100" stop="20201025083000 +0100" channel="Telesistema.hn">
-    <title lang="en">Sobreruedas</title>
-    <desc lang="en">Revista automotriz de Centro América</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201025083000 +0100" stop="20201025093000 +0100" channel="Telesistema.hn">
-    <title lang="en">La hora del te</title>
-    <desc lang="en">Programa diferente, con un sentido del humor muy al filo, pero también muy pensante. El estilo y la combinación de los presentadores Carlos y Fer muestran lo cotidiano desde un punto de vista humorístico e incomparable</desc>
-    <date>2011</date>
-  </programme>
-<programme start="20201025093000 +0100" stop="20201025103000 +0100" channel="Telesistema.hn">
-    <title lang="en">Más Noche</title>
-    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros</desc>
-    <date>2018</date>
-  </programme>
-<programme start="20201025103000 +0100" stop="20201025113000 +0100" channel="Telesistema.hn">
-    <title lang="en">Miembros al aire</title>
-    <desc lang="en">Es un espacio en el que cinco hombres: Paul Stanley, Mauricio Mancera, Jorge “El Burro” Van Rankin, Raúl "El Negro" Araiza y Eduardo Santamarina, hablarán de forma divertida acerca de temas que a las mujeres les interesa conocer, todo esto visto a través de la visión masculina</desc>
-    <date>2009</date>
-  </programme>
-<programme start="20201025113000 +0100" stop="20201025123000 +0100" channel="Telesistema.hn">
-    <title lang="en">Al Banquillo</title>
-  </programme>
-<programme start="20201025123000 +0100" stop="20201025133000 +0100" channel="Telesistema.hn">
+<programme start="20201104073000 +0100" stop="20201104090000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201025133000 +0100" stop="20201025143000 +0100" channel="Telesistema.hn">
-    <title lang="en">Misa Dominical</title>
-  </programme>
-<programme start="20201025143000 +0100" stop="20201025150000 +0100" channel="Telesistema.hn">
-    <title lang="en">Foro Interamericano VOA</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201025150000 +0100" stop="20201025160000 +0100" channel="Telesistema.hn">
-    <title lang="en">Aquí Con Mi Médico</title>
-  </programme>
-<programme start="20201025160000 +0100" stop="20201025170000 +0100" channel="Telesistema.hn">
-    <title lang="en">Datos de cabeza</title>
-  </programme>
-<programme start="20201025170000 +0100" stop="20201025180000 +0100" channel="Telesistema.hn">
-    <title lang="en">Dale play</title>
-  </programme>
-<programme start="20201025180000 +0100" stop="20201025190000 +0100" channel="Telesistema.hn">
-    <title lang="en">Netas Divinas</title>
-  </programme>
-<programme start="20201025190000 +0100" stop="20201025200000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy Mismo Dominical</title>
-    <desc lang="en">Un contenido tratado con profesionalismo y responsabilidad, por un equipo de periodistas que llegan al corazón de la noticia, satisfaciendo las necesidades informativas de los televidentes</desc>
+<programme start="20201104090000 +0100" stop="20201104093000 +0100" channel="Telesistema.hn">
+    <title lang="en">Noticiero El Mundo al Día VOA</title>
+    <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201025200000 +0100" stop="20201025203000 +0100" channel="Telesistema.hn">
-    <title lang="en">Rey de copas</title>
-    <date>2018</date>
+<programme start="20201104093000 +0100" stop="20201104103000 +0100" channel="Telesistema.hn">
+    <title lang="en">Las dueñas del balon</title>
+    <category lang="en">Mapi</category>
   </programme>
-<programme start="20201025203000 +0100" stop="20201025213000 +0100" channel="Telesistema.hn">
-    <title lang="en">Con Pineda Chacón</title>
-    <desc lang="en">El técnico hondureño Alex Pineda Chacón habla claro</desc>
+<programme start="20201104103000 +0100" stop="20201104110000 +0100" channel="Telesistema.hn">
+    <title lang="en">Día Político</title>
+    <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
+    <category lang="en">News</category>
   </programme>
-<programme start="20201025213000 +0100" stop="20201025223000 +0100" channel="Telesistema.hn">
+<programme start="20201104110000 +0100" stop="20201104120000 +0100" channel="Telesistema.hn">
     <title lang="en">El toque de Rely</title>
     <desc lang="en">La bandera hondureña más cerca de Rusia 2018</desc>
     <date>2016</date>
   </programme>
-<programme start="20201025223000 +0100" stop="20201025233000 +0100" channel="Telesistema.hn">
-    <title lang="en">Myrna vs. Binbo</title>
-  </programme>
-<programme start="20201025233000 +0100" stop="20201026000000 +0100" channel="Telesistema.hn">
-    <title lang="en">Power players</title>
-    <category lang="en">Mapi</category>
-  </programme>
-<programme start="20201026000000 +0100" stop="20201026010000 +0100" channel="Telesistema.hn">
-    <title lang="en">Banegas original</title>
-  </programme>
-<programme start="20201026010000 +0100" stop="20201026020000 +0100" channel="Telesistema.hn">
-    <title lang="en">TN5 Dominical</title>
-    <desc lang="en">Edición dominical del noticiero TN5</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201026020000 +0100" stop="20201026030000 +0100" channel="Telesistema.hn">
-    <title lang="en">Gente</title>
-  </programme>
-<programme start="20201026030000 +0100" stop="20201026040000 +0100" channel="Telesistema.hn">
-    <title lang="en">30/30</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201026040000 +0100" stop="20201026060000 +0100" channel="Telesistema.hn">
-    <title lang="en">La Noche del Gol</title>
-  </programme>
-<programme start="20201026060000 +0100" stop="20201026083000 +0100" channel="Telesistema.hn">
-    <title lang="en">Liga Nacional</title>
+<programme start="20201104120000 +0100" stop="20201104130000 +0100" channel="Telesistema.hn">
+    <title lang="en">Fútbol a Fondo</title>
+    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201026083000 +0100" stop="20201026090000 +0100" channel="Telesistema.hn">
-    <title lang="en">Foro Interamericano VOA</title>
-    <category lang="en">News</category>
+<programme start="20201104130000 +0100" stop="20201104140000 +0100" channel="Telesistema.hn">
+    <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201026090000 +0100" stop="20201026100000 +0100" channel="Telesistema.hn">
-    <title lang="en">30/30</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201026100000 +0100" stop="20201026110000 +0100" channel="Telesistema.hn">
-    <title lang="en">Netas Divinas</title>
-  </programme>
-<programme start="20201026110000 +0100" stop="20201026130000 +0100" channel="Telesistema.hn">
-    <title lang="en">La Noche del Gol</title>
-  </programme>
-<programme start="20201026130000 +0100" stop="20201026140000 +0100" channel="Telesistema.hn">
-    <title lang="en">Gente</title>
-  </programme>
-<programme start="20201026140000 +0100" stop="20201026180000 +0100" channel="Telesistema.hn">
+<programme start="20201104140000 +0100" stop="20201104180000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo Primera Edición</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201026180000 +0100" stop="20201026203000 +0100" channel="Telesistema.hn">
+<programme start="20201104180000 +0100" stop="20201104203000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo al día</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201026203000 +0100" stop="20201026230000 +0100" channel="Telesistema.hn">
+<programme start="20201104203000 +0100" stop="20201104230000 +0100" channel="Telesistema.hn">
     <title lang="en">HRN La Tarde</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201026230000 +0100" stop="20201027000000 +0100" channel="Telesistema.hn">
+<programme start="20201104230000 +0100" stop="20201105000000 +0100" channel="Telesistema.hn">
     <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201027000000 +0100" stop="20201027010000 +0100" channel="Telesistema.hn">
+<programme start="20201105000000 +0100" stop="20201105010000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201027010000 +0100" stop="20201027013000 +0100" channel="Telesistema.hn">
+<programme start="20201105010000 +0100" stop="20201105013000 +0100" channel="Telesistema.hn">
     <title lang="en">Día Político</title>
     <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201027013000 +0100" stop="20201027030000 +0100" channel="Telesistema.hn">
+<programme start="20201105013000 +0100" stop="20201105030000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo estelar</title>
     <desc lang="en">Noticiero</desc>
     <date>1985</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201027030000 +0100" stop="20201027040000 +0100" channel="Telesistema.hn">
+<programme start="20201105030000 +0100" stop="20201105040000 +0100" channel="Telesistema.hn">
     <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201027040000 +0100" stop="20201027050000 +0100" channel="Telesistema.hn">
+<programme start="20201105040000 +0100" stop="20201105050000 +0100" channel="Telesistema.hn">
     <title lang="en">Fútbol a Fondo</title>
     <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201027050000 +0100" stop="20201027053000 +0100" channel="Telesistema.hn">
+<programme start="20201105050000 +0100" stop="20201105053000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero El Mundo al Día VOA</title>
     <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201027053000 +0100" stop="20201027063000 +0100" channel="Telesistema.hn">
+<programme start="20201105053000 +0100" stop="20201105063000 +0100" channel="Telesistema.hn">
     <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201027063000 +0100" stop="20201027073000 +0100" channel="Telesistema.hn">
+<programme start="20201105063000 +0100" stop="20201105073000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201027073000 +0100" stop="20201027090000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy Mismo</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027090000 +0100" stop="20201027093000 +0100" channel="Telesistema.hn">
-    <title lang="en">Noticiero El Mundo al Día VOA</title>
-    <desc lang="en">Noticiero</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027093000 +0100" stop="20201027103000 +0100" channel="Telesistema.hn">
-    <title lang="en">Las dueñas del balon</title>
-    <category lang="en">Mapi</category>
-  </programme>
-<programme start="20201027103000 +0100" stop="20201027110000 +0100" channel="Telesistema.hn">
-    <title lang="en">Día Político</title>
-    <desc lang="en">Espacio dedicado a temas políticos</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027110000 +0100" stop="20201027120000 +0100" channel="Telesistema.hn">
-    <title lang="en">Dale play</title>
-  </programme>
-<programme start="20201027120000 +0100" stop="20201027130000 +0100" channel="Telesistema.hn">
-    <title lang="en">Fútbol a Fondo</title>
-    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
-    <category lang="en">Mapi</category>
-    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
-  </programme>
-<programme start="20201027130000 +0100" stop="20201027140000 +0100" channel="Telesistema.hn">
-    <title lang="en">Al Banquillo</title>
-  </programme>
-<programme start="20201027140000 +0100" stop="20201027180000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy Mismo Primera Edición</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027180000 +0100" stop="20201027203000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy mismo al día</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027203000 +0100" stop="20201027230000 +0100" channel="Telesistema.hn">
-    <title lang="en">HRN La Tarde</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201027230000 +0100" stop="20201028000000 +0100" channel="Telesistema.hn">
-    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
-  </programme>
-<programme start="20201028000000 +0100" stop="20201028010000 +0100" channel="Telesistema.hn">
-    <title lang="en">Las dueñas del balon</title>
-    <category lang="en">Mapi</category>
-  </programme>
-<programme start="20201028010000 +0100" stop="20201028013000 +0100" channel="Telesistema.hn">
-    <title lang="en">Día Político</title>
-    <desc lang="en">Espacio dedicado a temas políticos</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201028013000 +0100" stop="20201028030000 +0100" channel="Telesistema.hn">
+<programme start="20201105073000 +0100" stop="20201105090000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo estelar</title>
     <desc lang="en">Noticiero</desc>
     <date>1985</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201028030000 +0100" stop="20201028040000 +0100" channel="Telesistema.hn">
-    <title lang="en">Al Banquillo</title>
-  </programme>
-<programme start="20201028040000 +0100" stop="20201028050000 +0100" channel="Telesistema.hn">
-    <title lang="en">Fútbol a Fondo</title>
-    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
-    <category lang="en">Mapi</category>
-    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
-  </programme>
-<programme start="20201028050000 +0100" stop="20201028053000 +0100" channel="Telesistema.hn">
+<programme start="20201105090000 +0100" stop="20201105093000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero El Mundo al Día VOA</title>
     <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201028053000 +0100" stop="20201028063000 +0100" channel="Telesistema.hn">
-    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
-  </programme>
-<programme start="20201028063000 +0100" stop="20201028073000 +0100" channel="Telesistema.hn">
+<programme start="20201105093000 +0100" stop="20201105103000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201028073000 +0100" stop="20201028090000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy Mismo</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201028090000 +0100" stop="20201028093000 +0100" channel="Telesistema.hn">
-    <title lang="en">Noticiero El Mundo al Día VOA</title>
-    <desc lang="en">Noticiero</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201028093000 +0100" stop="20201028103000 +0100" channel="Telesistema.hn">
-    <title lang="en">Las dueñas del balon</title>
-    <category lang="en">Mapi</category>
-  </programme>
-<programme start="20201028103000 +0100" stop="20201028110000 +0100" channel="Telesistema.hn">
+<programme start="20201105103000 +0100" stop="20201105110000 +0100" channel="Telesistema.hn">
     <title lang="en">Día Político</title>
     <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201028110000 +0100" stop="20201028120000 +0100" channel="Telesistema.hn">
-    <title lang="en">El toque de Rely</title>
-    <desc lang="en">La bandera hondureña más cerca de Rusia 2018</desc>
-    <date>2016</date>
-  </programme>
-<programme start="20201028120000 +0100" stop="20201028130000 +0100" channel="Telesistema.hn">
-    <title lang="en">Fútbol a Fondo</title>
-    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
-    <category lang="en">Mapi</category>
-    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
-  </programme>
-<programme start="20201028130000 +0100" stop="20201028140000 +0100" channel="Telesistema.hn">
-    <title lang="en">Al Banquillo</title>
-  </programme>
-<programme start="20201028140000 +0100" stop="20201028180000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy Mismo Primera Edición</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201028180000 +0100" stop="20201028203000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy mismo al día</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201028203000 +0100" stop="20201028230000 +0100" channel="Telesistema.hn">
-    <title lang="en">HRN La Tarde</title>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201028230000 +0100" stop="20201028233000 +0100" channel="Telesistema.hn">
-    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
-  </programme>
-<programme start="20201028233000 +0100" stop="20201029021500 +0100" channel="Telesistema.hn">
-    <title lang="en">Fútbol hondureño: LNFP</title>
-    <sub-title lang="en">Lobos UPNFM vs. Olimpia Occidental</sub-title>
-    <desc lang="en">Lobos UPNFM vs. Olimpia Occidental</desc>
-    <date>2020</date>
-    <category lang="en">Mapi</category>
-    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
-  </programme>
-<programme start="20201029021500 +0100" stop="20201029040000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy mismo estelar</title>
-    <desc lang="en">Noticiero</desc>
-    <date>1985</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201029040000 +0100" stop="20201029050000 +0100" channel="Telesistema.hn">
-    <title lang="en">Fútbol a Fondo</title>
-    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
-    <category lang="en">Mapi</category>
-    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
-  </programme>
-<programme start="20201029050000 +0100" stop="20201029053000 +0100" channel="Telesistema.hn">
-    <title lang="en">Noticiero El Mundo al Día VOA</title>
-    <desc lang="en">Noticiero</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201029053000 +0100" stop="20201029063000 +0100" channel="Telesistema.hn">
-    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
-  </programme>
-<programme start="20201029063000 +0100" stop="20201029073000 +0100" channel="Telesistema.hn">
-    <title lang="en">Las dueñas del balon</title>
-    <category lang="en">Mapi</category>
-  </programme>
-<programme start="20201029073000 +0100" stop="20201029090000 +0100" channel="Telesistema.hn">
-    <title lang="en">Hoy mismo estelar</title>
-    <desc lang="en">Noticiero</desc>
-    <date>1985</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201029090000 +0100" stop="20201029093000 +0100" channel="Telesistema.hn">
-    <title lang="en">Noticiero El Mundo al Día VOA</title>
-    <desc lang="en">Noticiero</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201029093000 +0100" stop="20201029103000 +0100" channel="Telesistema.hn">
-    <title lang="en">Las dueñas del balon</title>
-    <category lang="en">Mapi</category>
-  </programme>
-<programme start="20201029103000 +0100" stop="20201029110000 +0100" channel="Telesistema.hn">
-    <title lang="en">Día Político</title>
-    <desc lang="en">Espacio dedicado a temas políticos</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-  </programme>
-<programme start="20201029110000 +0100" stop="20201029120000 +0100" channel="Telesistema.hn">
+<programme start="20201105110000 +0100" stop="20201105120000 +0100" channel="Telesistema.hn">
     <title lang="en">Datos de cabeza</title>
   </programme>
-<programme start="20201029120000 +0100" stop="20201029130000 +0100" channel="Telesistema.hn">
+<programme start="20201105120000 +0100" stop="20201105130000 +0100" channel="Telesistema.hn">
     <title lang="en">Fútbol a Fondo</title>
     <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201029130000 +0100" stop="20201029140000 +0100" channel="Telesistema.hn">
+<programme start="20201105130000 +0100" stop="20201105140000 +0100" channel="Telesistema.hn">
     <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201029140000 +0100" stop="20201029180000 +0100" channel="Telesistema.hn">
+<programme start="20201105140000 +0100" stop="20201105180000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo Primera Edición</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201029180000 +0100" stop="20201029203000 +0100" channel="Telesistema.hn">
+<programme start="20201105180000 +0100" stop="20201105203000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo al día</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201029203000 +0100" stop="20201029230000 +0100" channel="Telesistema.hn">
+<programme start="20201105203000 +0100" stop="20201105230000 +0100" channel="Telesistema.hn">
     <title lang="en">HRN La Tarde</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201029230000 +0100" stop="20201030000000 +0100" channel="Telesistema.hn">
+<programme start="20201105230000 +0100" stop="20201106000000 +0100" channel="Telesistema.hn">
     <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201030000000 +0100" stop="20201030010000 +0100" channel="Telesistema.hn">
+<programme start="20201106000000 +0100" stop="20201106010000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201030010000 +0100" stop="20201030013000 +0100" channel="Telesistema.hn">
+<programme start="20201106010000 +0100" stop="20201106013000 +0100" channel="Telesistema.hn">
     <title lang="en">Día Político</title>
     <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030013000 +0100" stop="20201030030000 +0100" channel="Telesistema.hn">
+<programme start="20201106013000 +0100" stop="20201106030000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo estelar</title>
     <desc lang="en">Noticiero</desc>
     <date>1985</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030030000 +0100" stop="20201030040000 +0100" channel="Telesistema.hn">
+<programme start="20201106030000 +0100" stop="20201106040000 +0100" channel="Telesistema.hn">
     <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201030040000 +0100" stop="20201030050000 +0100" channel="Telesistema.hn">
+<programme start="20201106040000 +0100" stop="20201106050000 +0100" channel="Telesistema.hn">
     <title lang="en">Fútbol a Fondo</title>
     <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201030050000 +0100" stop="20201030053000 +0100" channel="Telesistema.hn">
+<programme start="20201106050000 +0100" stop="20201106053000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero El Mundo al Día VOA</title>
     <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030053000 +0100" stop="20201030063000 +0100" channel="Telesistema.hn">
+<programme start="20201106053000 +0100" stop="20201106063000 +0100" channel="Telesistema.hn">
     <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201030063000 +0100" stop="20201030073000 +0100" channel="Telesistema.hn">
+<programme start="20201106063000 +0100" stop="20201106073000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201030073000 +0100" stop="20201030090000 +0100" channel="Telesistema.hn">
+<programme start="20201106073000 +0100" stop="20201106090000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030090000 +0100" stop="20201030093000 +0100" channel="Telesistema.hn">
+<programme start="20201106090000 +0100" stop="20201106093000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero El Mundo al Día VOA</title>
     <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030093000 +0100" stop="20201030103000 +0100" channel="Telesistema.hn">
+<programme start="20201106093000 +0100" stop="20201106103000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201030103000 +0100" stop="20201030110000 +0100" channel="Telesistema.hn">
+<programme start="20201106103000 +0100" stop="20201106110000 +0100" channel="Telesistema.hn">
     <title lang="en">Día Político</title>
     <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030110000 +0100" stop="20201030120000 +0100" channel="Telesistema.hn">
+<programme start="20201106110000 +0100" stop="20201106120000 +0100" channel="Telesistema.hn">
     <title lang="en">Myrna vs. Binbo</title>
   </programme>
-<programme start="20201030120000 +0100" stop="20201030130000 +0100" channel="Telesistema.hn">
+<programme start="20201106120000 +0100" stop="20201106130000 +0100" channel="Telesistema.hn">
     <title lang="en">Fútbol a Fondo</title>
     <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201030130000 +0100" stop="20201030140000 +0100" channel="Telesistema.hn">
+<programme start="20201106130000 +0100" stop="20201106140000 +0100" channel="Telesistema.hn">
     <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201030140000 +0100" stop="20201030180000 +0100" channel="Telesistema.hn">
+<programme start="20201106140000 +0100" stop="20201106180000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo Primera Edición</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030180000 +0100" stop="20201030203000 +0100" channel="Telesistema.hn">
+<programme start="20201106180000 +0100" stop="20201106203000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo al día</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030203000 +0100" stop="20201030230000 +0100" channel="Telesistema.hn">
+<programme start="20201106203000 +0100" stop="20201106230000 +0100" channel="Telesistema.hn">
     <title lang="en">HRN La Tarde</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201030230000 +0100" stop="20201031000000 +0100" channel="Telesistema.hn">
+<programme start="20201106230000 +0100" stop="20201107000000 +0100" channel="Telesistema.hn">
     <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201031000000 +0100" stop="20201031010000 +0100" channel="Telesistema.hn">
+<programme start="20201107000000 +0100" stop="20201107010000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201031010000 +0100" stop="20201031013000 +0100" channel="Telesistema.hn">
+<programme start="20201107010000 +0100" stop="20201107013000 +0100" channel="Telesistema.hn">
     <title lang="en">Día Político</title>
     <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031013000 +0100" stop="20201031030000 +0100" channel="Telesistema.hn">
+<programme start="20201107013000 +0100" stop="20201107030000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy mismo estelar</title>
     <desc lang="en">Noticiero</desc>
     <date>1985</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031030000 +0100" stop="20201031040000 +0100" channel="Telesistema.hn">
+<programme start="20201107030000 +0100" stop="20201107040000 +0100" channel="Telesistema.hn">
     <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201031040000 +0100" stop="20201031050000 +0100" channel="Telesistema.hn">
+<programme start="20201107040000 +0100" stop="20201107050000 +0100" channel="Telesistema.hn">
     <title lang="en">Fútbol a Fondo</title>
     <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201031050000 +0100" stop="20201031053000 +0100" channel="Telesistema.hn">
+<programme start="20201107050000 +0100" stop="20201107053000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero El Mundo al Día VOA</title>
     <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031053000 +0100" stop="20201031063000 +0100" channel="Telesistema.hn">
+<programme start="20201107053000 +0100" stop="20201107063000 +0100" channel="Telesistema.hn">
     <title lang="en">Carlos Ridel Presenta en HRN Live</title>
   </programme>
-<programme start="20201031063000 +0100" stop="20201031073000 +0100" channel="Telesistema.hn">
+<programme start="20201107063000 +0100" stop="20201107073000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201031073000 +0100" stop="20201031090000 +0100" channel="Telesistema.hn">
+<programme start="20201107073000 +0100" stop="20201107090000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo</title>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031090000 +0100" stop="20201031093000 +0100" channel="Telesistema.hn">
+<programme start="20201107090000 +0100" stop="20201107093000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero El Mundo al Día VOA</title>
     <desc lang="en">Noticiero</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031093000 +0100" stop="20201031103000 +0100" channel="Telesistema.hn">
+<programme start="20201107093000 +0100" stop="20201107103000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201031103000 +0100" stop="20201031110000 +0100" channel="Telesistema.hn">
+<programme start="20201107103000 +0100" stop="20201107110000 +0100" channel="Telesistema.hn">
     <title lang="en">Día Político</title>
     <desc lang="en">Espacio dedicado a temas políticos</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031110000 +0100" stop="20201031120000 +0100" channel="Telesistema.hn">
+<programme start="20201107110000 +0100" stop="20201107120000 +0100" channel="Telesistema.hn">
     <title lang="en">Con Pineda Chacón</title>
     <desc lang="en">El técnico hondureño Alex Pineda Chacón habla claro</desc>
     <date>2016</date>
   </programme>
-<programme start="20201031120000 +0100" stop="20201031130000 +0100" channel="Telesistema.hn">
+<programme start="20201107120000 +0100" stop="20201107130000 +0100" channel="Telesistema.hn">
     <title lang="en">Fútbol a Fondo</title>
     <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
   </programme>
-<programme start="20201031130000 +0100" stop="20201031133000 +0100" channel="Telesistema.hn">
+<programme start="20201107130000 +0100" stop="20201107133000 +0100" channel="Telesistema.hn">
     <title lang="en">Fanaticos del futbol</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201031133000 +0100" stop="20201031143000 +0100" channel="Telesistema.hn">
+<programme start="20201107133000 +0100" stop="20201107143000 +0100" channel="Telesistema.hn">
     <title lang="en">Al Banquillo</title>
   </programme>
-<programme start="20201031143000 +0100" stop="20201031150000 +0100" channel="Telesistema.hn">
+<programme start="20201107143000 +0100" stop="20201107150000 +0100" channel="Telesistema.hn">
     <title lang="en">Noticiero Infantil TSI</title>
     <desc lang="en">Las noticias de Honduras trasmitidas por niños</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031150000 +0100" stop="20201031160000 +0100" channel="Telesistema.hn">
+<programme start="20201107150000 +0100" stop="20201107160000 +0100" channel="Telesistema.hn">
     <title lang="en">Datos de cabeza</title>
   </programme>
-<programme start="20201031160000 +0100" stop="20201031170000 +0100" channel="Telesistema.hn">
+<programme start="20201107160000 +0100" stop="20201107170000 +0100" channel="Telesistema.hn">
     <title lang="en">Aquí Con Mi Médico</title>
   </programme>
-<programme start="20201031170000 +0100" stop="20201031180000 +0100" channel="Telesistema.hn">
+<programme start="20201107170000 +0100" stop="20201107180000 +0100" channel="Telesistema.hn">
     <title lang="en">Las dueñas del balon</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201031180000 +0100" stop="20201031190000 +0100" channel="Telesistema.hn">
+<programme start="20201107180000 +0100" stop="20201107190000 +0100" channel="Telesistema.hn">
     <title lang="en">El toque de Rely</title>
     <desc lang="en">La bandera hondureña más cerca de Rusia 2018</desc>
     <date>2016</date>
   </programme>
-<programme start="20201031190000 +0100" stop="20201031200000 +0100" channel="Telesistema.hn">
+<programme start="20201107190000 +0100" stop="20201107200000 +0100" channel="Telesistema.hn">
     <title lang="en">Hoy Mismo Sabatino</title>
     <desc lang="en">Un contenido tratado con profesionalismo y responsabilidad, por un equipo de periodistas que llegan al corazón de la noticia, satisfaciendo las necesidades informativas de los televidentes</desc>
     <date>2016</date>
     <category lang="en">News</category>
   </programme>
-<programme start="20201031200000 +0100" stop="20201031203000 +0100" channel="Telesistema.hn">
+<programme start="20201107200000 +0100" stop="20201107203000 +0100" channel="Telesistema.hn">
     <title lang="en">Motagua tv</title>
   </programme>
-<programme start="20201031203000 +0100" stop="20201031210000 +0100" channel="Telesistema.hn">
+<programme start="20201107203000 +0100" stop="20201107210000 +0100" channel="Telesistema.hn">
     <title lang="en">Fanaticos del futbol</title>
     <category lang="en">Mapi</category>
   </programme>
-<programme start="20201031210000 +0100" stop="20201031220000 +0100" channel="Telesistema.hn">
+<programme start="20201107210000 +0100" stop="20201107220000 +0100" channel="Telesistema.hn">
     <title lang="en">Sobreruedas</title>
     <desc lang="en">Revista automotriz de Centro América</desc>
     <date>2016</date>
   </programme>
-<programme start="20201031220000 +0100" stop="20201031230000 +0100" channel="Telesistema.hn">
+<programme start="20201107220000 +0100" stop="20201107230000 +0100" channel="Telesistema.hn">
     <title lang="en">Dale play</title>
+  </programme>
+<programme start="20201107230000 +0100" stop="20201108000000 +0100" channel="Telesistema.hn">
+    <title lang="en">Myrna vs. Binbo</title>
+  </programme>
+<programme start="20201108000000 +0100" stop="20201108010000 +0100" channel="Telesistema.hn">
+    <title lang="en">La hora del te</title>
+    <desc lang="en">Programa diferente, con un sentido del humor muy al filo, pero también muy pensante. El estilo y la combinación de los presentadores Carlos y Fer muestran lo cotidiano desde un punto de vista humorístico e incomparable</desc>
+    <date>2011</date>
+  </programme>
+<programme start="20201108010000 +0100" stop="20201108020000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy Mismo Sabatino</title>
+    <desc lang="en">Un contenido tratado con profesionalismo y responsabilidad, por un equipo de periodistas que llegan al corazón de la noticia, satisfaciendo las necesidades informativas de los televidentes</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201108020000 +0100" stop="20201108043000 +0100" channel="Telesistema.hn">
+    <title lang="en">Fútbol hondureño</title>
+    <sub-title lang="en">LNFP</sub-title>
+    <category lang="en">Mapi</category>
+    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
+  </programme>
+<programme start="20201108043000 +0100" stop="20201108053000 +0100" channel="Telesistema.hn">
+    <title lang="en">Con Pineda Chacón</title>
+    <desc lang="en">El técnico hondureño Alex Pineda Chacón habla claro</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201108053000 +0100" stop="20201108063000 +0100" channel="Telesistema.hn">
+    <title lang="en">Más Noche</title>
+    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201108063000 +0100" stop="20201108073000 +0100" channel="Telesistema.hn">
+    <title lang="en">Miembros al aire</title>
+    <desc lang="en">Es un espacio en el que cinco hombres: Paul Stanley, Mauricio Mancera, Jorge “El Burro” Van Rankin, Raúl "El Negro" Araiza y Eduardo Santamarina, hablarán de forma divertida acerca de temas que a las mujeres les interesa conocer, todo esto visto a través de la visión masculina</desc>
+    <date>2009</date>
+  </programme>
+<programme start="20201108073000 +0100" stop="20201108083000 +0100" channel="Telesistema.hn">
+    <title lang="en">Sobreruedas</title>
+    <desc lang="en">Revista automotriz de Centro América</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201108083000 +0100" stop="20201108093000 +0100" channel="Telesistema.hn">
+    <title lang="en">La hora del te</title>
+    <desc lang="en">Programa diferente, con un sentido del humor muy al filo, pero también muy pensante. El estilo y la combinación de los presentadores Carlos y Fer muestran lo cotidiano desde un punto de vista humorístico e incomparable</desc>
+    <date>2011</date>
+  </programme>
+<programme start="20201108093000 +0100" stop="20201108103000 +0100" channel="Telesistema.hn">
+    <title lang="en">Más Noche</title>
+    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros</desc>
+    <date>2018</date>
+  </programme>
+<programme start="20201108103000 +0100" stop="20201108113000 +0100" channel="Telesistema.hn">
+    <title lang="en">Miembros al aire</title>
+    <desc lang="en">Es un espacio en el que cinco hombres: Paul Stanley, Mauricio Mancera, Jorge “El Burro” Van Rankin, Raúl "El Negro" Araiza y Eduardo Santamarina, hablarán de forma divertida acerca de temas que a las mujeres les interesa conocer, todo esto visto a través de la visión masculina</desc>
+    <date>2009</date>
+  </programme>
+<programme start="20201108113000 +0100" stop="20201108123000 +0100" channel="Telesistema.hn">
+    <title lang="en">Al Banquillo</title>
+  </programme>
+<programme start="20201108123000 +0100" stop="20201108133000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy Mismo</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201108133000 +0100" stop="20201108143000 +0100" channel="Telesistema.hn">
+    <title lang="en">Misa Dominical</title>
+  </programme>
+<programme start="20201108143000 +0100" stop="20201108150000 +0100" channel="Telesistema.hn">
+    <title lang="en">Foro Interamericano VOA</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201108150000 +0100" stop="20201108160000 +0100" channel="Telesistema.hn">
+    <title lang="en">Aquí Con Mi Médico</title>
+  </programme>
+<programme start="20201108160000 +0100" stop="20201108170000 +0100" channel="Telesistema.hn">
+    <title lang="en">Datos de cabeza</title>
+  </programme>
+<programme start="20201108170000 +0100" stop="20201108180000 +0100" channel="Telesistema.hn">
+    <title lang="en">Dale play</title>
+  </programme>
+<programme start="20201108180000 +0100" stop="20201108190000 +0100" channel="Telesistema.hn">
+    <title lang="en">Netas Divinas</title>
+  </programme>
+<programme start="20201108190000 +0100" stop="20201108200000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy Mismo Dominical</title>
+    <desc lang="en">Un contenido tratado con profesionalismo y responsabilidad, por un equipo de periodistas que llegan al corazón de la noticia, satisfaciendo las necesidades informativas de los televidentes</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201108200000 +0100" stop="20201108203000 +0100" channel="Telesistema.hn">
+    <title lang="en">Rey de copas</title>
+    <date>2018</date>
+  </programme>
+<programme start="20201108203000 +0100" stop="20201108213000 +0100" channel="Telesistema.hn">
+    <title lang="en">Con Pineda Chacón</title>
+    <desc lang="en">El técnico hondureño Alex Pineda Chacón habla claro</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201108213000 +0100" stop="20201108223000 +0100" channel="Telesistema.hn">
+    <title lang="en">El toque de Rely</title>
+    <desc lang="en">La bandera hondureña más cerca de Rusia 2018</desc>
+    <date>2016</date>
+  </programme>
+<programme start="20201108223000 +0100" stop="20201108233000 +0100" channel="Telesistema.hn">
+    <title lang="en">Myrna vs. Binbo</title>
+  </programme>
+<programme start="20201108233000 +0100" stop="20201109000000 +0100" channel="Telesistema.hn">
+    <title lang="en">Power players</title>
+    <category lang="en">Mapi</category>
+  </programme>
+<programme start="20201109000000 +0100" stop="20201109010000 +0100" channel="Telesistema.hn">
+    <title lang="en">Banegas original</title>
+  </programme>
+<programme start="20201109010000 +0100" stop="20201109020000 +0100" channel="Telesistema.hn">
+    <title lang="en">TN5 Dominical</title>
+    <desc lang="en">Edición dominical del noticiero TN5</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109020000 +0100" stop="20201109030000 +0100" channel="Telesistema.hn">
+    <title lang="en">Gente</title>
+  </programme>
+<programme start="20201109030000 +0100" stop="20201109040000 +0100" channel="Telesistema.hn">
+    <title lang="en">30/30</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109040000 +0100" stop="20201109060000 +0100" channel="Telesistema.hn">
+    <title lang="en">La Noche del Gol</title>
+  </programme>
+<programme start="20201109060000 +0100" stop="20201109083000 +0100" channel="Telesistema.hn">
+    <title lang="en">Liga Nacional</title>
+    <category lang="en">Mapi</category>
+    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
+  </programme>
+<programme start="20201109083000 +0100" stop="20201109090000 +0100" channel="Telesistema.hn">
+    <title lang="en">Foro Interamericano VOA</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109090000 +0100" stop="20201109100000 +0100" channel="Telesistema.hn">
+    <title lang="en">30/30</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109100000 +0100" stop="20201109110000 +0100" channel="Telesistema.hn">
+    <title lang="en">Netas Divinas</title>
+  </programme>
+<programme start="20201109110000 +0100" stop="20201109130000 +0100" channel="Telesistema.hn">
+    <title lang="en">La Noche del Gol</title>
+  </programme>
+<programme start="20201109130000 +0100" stop="20201109140000 +0100" channel="Telesistema.hn">
+    <title lang="en">Gente</title>
+  </programme>
+<programme start="20201109140000 +0100" stop="20201109180000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy Mismo Primera Edición</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109180000 +0100" stop="20201109203000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy mismo al día</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109203000 +0100" stop="20201109230000 +0100" channel="Telesistema.hn">
+    <title lang="en">HRN La Tarde</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201109230000 +0100" stop="20201110000000 +0100" channel="Telesistema.hn">
+    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
+  </programme>
+<programme start="20201110000000 +0100" stop="20201110010000 +0100" channel="Telesistema.hn">
+    <title lang="en">Las dueñas del balon</title>
+    <category lang="en">Mapi</category>
+  </programme>
+<programme start="20201110010000 +0100" stop="20201110013000 +0100" channel="Telesistema.hn">
+    <title lang="en">Día Político</title>
+    <desc lang="en">Espacio dedicado a temas políticos</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110013000 +0100" stop="20201110030000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy mismo estelar</title>
+    <desc lang="en">Noticiero</desc>
+    <date>1985</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110030000 +0100" stop="20201110040000 +0100" channel="Telesistema.hn">
+    <title lang="en">Al Banquillo</title>
+  </programme>
+<programme start="20201110040000 +0100" stop="20201110050000 +0100" channel="Telesistema.hn">
+    <title lang="en">Fútbol a Fondo</title>
+    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
+    <category lang="en">Mapi</category>
+    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
+  </programme>
+<programme start="20201110050000 +0100" stop="20201110053000 +0100" channel="Telesistema.hn">
+    <title lang="en">Noticiero El Mundo al Día VOA</title>
+    <desc lang="en">Noticiero</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110053000 +0100" stop="20201110063000 +0100" channel="Telesistema.hn">
+    <title lang="en">Carlos Ridel Presenta en HRN Live</title>
+  </programme>
+<programme start="20201110063000 +0100" stop="20201110073000 +0100" channel="Telesistema.hn">
+    <title lang="en">Las dueñas del balon</title>
+    <category lang="en">Mapi</category>
+  </programme>
+<programme start="20201110073000 +0100" stop="20201110090000 +0100" channel="Telesistema.hn">
+    <title lang="en">Hoy Mismo</title>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110090000 +0100" stop="20201110093000 +0100" channel="Telesistema.hn">
+    <title lang="en">Noticiero El Mundo al Día VOA</title>
+    <desc lang="en">Noticiero</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110093000 +0100" stop="20201110103000 +0100" channel="Telesistema.hn">
+    <title lang="en">Las dueñas del balon</title>
+    <category lang="en">Mapi</category>
+  </programme>
+<programme start="20201110103000 +0100" stop="20201110110000 +0100" channel="Telesistema.hn">
+    <title lang="en">Día Político</title>
+    <desc lang="en">Espacio dedicado a temas políticos</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+  </programme>
+<programme start="20201110110000 +0100" stop="20201110120000 +0100" channel="Telesistema.hn">
+    <title lang="en">Dale play</title>
+  </programme>
+<programme start="20201110120000 +0100" stop="20201110130000 +0100" channel="Telesistema.hn">
+    <title lang="en">Fútbol a Fondo</title>
+    <desc lang="en">Actualidad y debate del fútbol hondureño, su selección nacional y las principales ligas y eventos en el mundo</desc>
+    <category lang="en">Mapi</category>
+    <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/51.png"/>
+  </programme>
+<programme start="20201110130000 +0100" stop="20201110140000 +0100" channel="Telesistema.hn">
+    <title lang="en">Al Banquillo</title>
   </programme>
 </tv>
